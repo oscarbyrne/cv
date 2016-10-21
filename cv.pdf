@@ -1,0 +1,882 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 6 0 R /F4 7 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:oscar.byrne@gmail.com) >> /Border [ 0 0 0 ] /Rect [ 452.9791 761.6319 560.9291 773.6319 ] /Subtype /Link /Type /Annot >>
+endobj
+5 0 obj
+<< /A << /S /URI /Type /Action /URI (https://oscarbyrne.me) >> /Border [ 0 0 0 ] /Rect [ 464.7791 743.6319 560.9291 755.6319 ] /Subtype /Link /Type /Annot >>
+endobj
+6 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+7 0 obj
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+8 0 obj
+<< /Annots [ 4 0 R 5 0 R ] /Contents 29 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+9 0 obj
+<< /Contents 30 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+10 0 obj
+<< /Outlines 12 0 R /PageLabels 31 0 R /PageMode /UseNone /Pages 28 0 R /Type /Catalog >>
+endobj
+11 0 obj
+<< /Author () /CreationDate (D:20161021185033+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161021185033+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Oscar Byrne) /Trapped /False >>
+endobj
+12 0 obj
+<< /Count 20 /First 13 0 R /Last 27 0 R /Type /Outlines >>
+endobj
+13 0 obj
+<< /Dest [ 8 0 R /XYZ 20.17323 712.8819 0 ] /Next 14 0 R /Parent 12 0 R /Title (Motivation) >>
+endobj
+14 0 obj
+<< /Count 5 /Dest [ 8 0 R /XYZ 20.17323 625.8819 0 ] /First 15 0 R /Last 19 0 R /Next 20 0 R /Parent 12 0 R 
+  /Prev 13 0 R /Title (Work Experience) >>
+endobj
+15 0 obj
+<< /Count 1 /Dest [ 8 0 R /XYZ 20.17323 592.8819 0 ] /First 16 0 R /Last 16 0 R /Next 17 0 R /Parent 14 0 R 
+  /Title (Cisco, Software Engineer) >>
+endobj
+16 0 obj
+<< /Dest [ 8 0 R /XYZ 20.17323 496.8819 0 ] /Parent 15 0 R /Title (Accomplishments:) >>
+endobj
+17 0 obj
+<< /Count 1 /Dest [ 8 0 R /XYZ 20.17323 367.8819 0 ] /First 18 0 R /Last 18 0 R /Next 19 0 R /Parent 14 0 R 
+  /Prev 15 0 R /Title (Acano, QA Engineer) >>
+endobj
+18 0 obj
+<< /Dest [ 8 0 R /XYZ 20.17323 283.8819 0 ] /Parent 17 0 R /Title (Accomplishments:) >>
+endobj
+19 0 obj
+<< /Dest [ 8 0 R /XYZ 20.17323 136.8819 0 ] /Parent 14 0 R /Prev 17 0 R /Title (DESY IT Department, Summer Studentship) >>
+endobj
+20 0 obj
+<< /Count 2 /Dest [ 9 0 R /XYZ 34.34646 818.8819 0 ] /First 21 0 R /Last 22 0 R /Next 23 0 R /Parent 12 0 R 
+  /Prev 14 0 R /Title (Hobbyist Portfolio) >>
+endobj
+21 0 obj
+<< /Dest [ 9 0 R /XYZ 34.34646 785.8819 0 ] /Next 22 0 R /Parent 20 0 R /Title (Arduino-Based Synthesiser) >>
+endobj
+22 0 obj
+<< /Dest [ 9 0 R /XYZ 34.34646 677.8819 0 ] /Parent 20 0 R /Prev 21 0 R /Title (Python Meta-Programming) >>
+endobj
+23 0 obj
+<< /Count 2 /Dest [ 9 0 R /XYZ 34.34646 557.8819 0 ] /First 24 0 R /Last 25 0 R /Next 26 0 R /Parent 12 0 R 
+  /Prev 20 0 R /Title (Education) >>
+endobj
+24 0 obj
+<< /Dest [ 9 0 R /XYZ 34.34646 524.8819 0 ] /Next 25 0 R /Parent 23 0 R /Title (University of Bimringham, MSci Physics) >>
+endobj
+25 0 obj
+<< /Dest [ 9 0 R /XYZ 34.34646 374.8819 0 ] /Parent 23 0 R /Prev 24 0 R /Title (Sir Thomas Rich's School, Gloucester) >>
+endobj
+26 0 obj
+<< /Dest [ 9 0 R /XYZ 34.34646 287.8819 0 ] /Next 27 0 R /Parent 12 0 R /Prev 23 0 R /Title (Other Interests) >>
+endobj
+27 0 obj
+<< /Dest [ 9 0 R /XYZ 34.34646 86.88189 0 ] /Parent 12 0 R /Prev 26 0 R /Title (References) >>
+endobj
+28 0 obj
+<< /Count 2 /Kids [ 8 0 R 9 0 R ] /Type /Pages >>
+endobj
+29 0 obj
+<< /Length 8142 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 794.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL (Oscar Byrne) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 778.8819 cm
+Q
+q
+1 0 0 1 20.17323 760.8819 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 432.8059 0 Td (oscar.byrne@gmail.com) Tj T* -432.8059 0 Td ET
+Q
+Q
+q
+1 0 0 1 20.17323 742.8819 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 444.6059 0 Td (https://oscarbyrne.me) Tj T* -444.6059 0 Td ET
+Q
+Q
+q
+1 0 0 1 20.17323 724.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 479.5959 0 Td (07827276367) Tj T* -479.5959 0 Td ET
+Q
+Q
+q
+1 0 0 1 20.17323 724.8819 cm
+Q
+q
+1 0 0 1 20.17323 691.8819 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Motivation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 637.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.203106 Tw (After experiencing \221start up\222 and enterprise-style workplaces in the form of Acano and Cisco, I\222ve decided what I really) Tj T* 0 Tw .992416 Tw (value is freedom and a work/life balance. That\222s why I\222ve decided to pursue a freelance career. What you should know) Tj T* 0 Tw 1.857994 Tw (about me: there\222s nothing better than a neat source file. That means: beautiful interfaces; good architecture; and, of) Tj T* 0 Tw (course, following the style guidelines\(!\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 604.8819 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Work Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 574.8819 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Cisco, Software Engineer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 562.8819 cm
+Q
+q
+1 0 0 1 20.17323 550.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (January 2016 - July 2016) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 550.8819 cm
+Q
+q
+1 0 0 1 20.17323 508.8819 cm
+q
+BT 1 0 0 1 0 26 Tm 2.749795 Tw 12 TL /F1 10 Tf 0 0 0 rg (Acano was acquired by Cisco for $700m, after which I was moved to a new agile team to develop a ) Tj /F2 10 Tf (next-gen,) Tj T* 0 Tw .397565 Tw (android-based ) Tj /F1 10 Tf (product running on custom hardware. This involved building an ) Tj /F2 10 Tf (entirely new testing environment ) Tj /F1 10 Tf (using) Tj T* 0 Tw (industry-standard technologies.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 481.8819 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Accomplishments:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 469.8819 cm
+Q
+q
+1 0 0 1 20.17323 469.8819 cm
+Q
+q
+1 0 0 1 20.17323 457.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Researched existing technologies and planned our overarching test strategy.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 451.8819 cm
+Q
+q
+1 0 0 1 20.17323 427.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.097727 Tw 12 TL /F1 10 Tf 0 0 0 rg (Constructed an ) Tj /F2 10 Tf (all-hardware test lab) Tj /F1 10 Tf (, including network provisions and remote power switching \(there was a risk) Tj T* 0 Tw (that early prototypes would burst into flames if left on overnight!\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 421.8819 cm
+Q
+q
+1 0 0 1 20.17323 397.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .980311 Tw 12 TL /F1 10 Tf 0 0 0 rg (Developed a custom test runner for our product able to: prepare the hardware for testing, run tests in parallel and) Tj T* 0 Tw (collect useful reports including screenshots. This involved hacking in ) Tj /F2 10 Tf (Gradle, Jtest and Python) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 391.8819 cm
+Q
+q
+1 0 0 1 20.17323 379.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Developed a ) Tj /F2 10 Tf (continuous-integration ) Tj /F1 10 Tf (environment using technologies including: Jenkins, Phabricator and Docker.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 379.8819 cm
+Q
+q
+1 0 0 1 20.17323 349.8819 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Acano, QA Engineer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 337.8819 cm
+Q
+q
+1 0 0 1 20.17323 325.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (October 2014 \226 January 2016) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 325.8819 cm
+Q
+q
+1 0 0 1 20.17323 295.8819 cm
+q
+BT 1 0 0 1 0 14 Tm .831632 Tw 12 TL /F1 10 Tf 0 0 0 rg (I joined the QA team at Acano in the first wave of graduate recruits. I initially worked on manual testing and writing test) Tj T* 0 Tw (plans, but soon graduated to ) Tj /F2 10 Tf (developing frameworks ) Tj /F1 10 Tf (for automated tests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 268.8819 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Accomplishments:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 256.8819 cm
+Q
+q
+1 0 0 1 20.17323 256.8819 cm
+Q
+q
+1 0 0 1 20.17323 232.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.45755 Tw 12 TL /F1 10 Tf 0 0 0 rg (Wrote much of the ) Tj /F2 10 Tf (test plan ) Tj /F1 10 Tf (for our client software, greatly improving our manual test coverage. This had a) Tj T* 0 Tw (noticeable effect on the stability of our product.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 226.8819 cm
+Q
+q
+1 0 0 1 20.17323 202.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .481995 Tw 12 TL /F1 10 Tf 0 0 0 rg (Worked closely with a single developer, with an extremely short development cycle, to deliver a ) Tj /F2 10 Tf (SIP to H323 ) Tj /F1 10 Tf (bridge) Tj T* 0 Tw (for the server component of our product.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 196.8819 cm
+Q
+q
+1 0 0 1 20.17323 148.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm 1.79706 Tw 12 TL /F1 10 Tf 0 0 0 rg (Designed and developed our framework for running automated tests on the next generation of ) Tj /F2 10 Tf (client software) Tj /F1 10 Tf (.) Tj T* 0 Tw .57189 Tw (There was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate) Tj T* 0 Tw 2.505053 Tw (the new module. The framework is a \221write once run anywhere\222 system that runs tests on multiple platforms,) Tj T* 0 Tw (including: ) Tj /F2 10 Tf (android, iOS, windows, mac and various web browsers) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 148.8819 cm
+Q
+q
+1 0 0 1 20.17323 118.8819 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (DESY IT Department, Summer Studentship) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 106.8819 cm
+Q
+q
+1 0 0 1 20.17323 94.88189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (July 2013 \226 August 2013) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 94.88189 cm
+Q
+q
+1 0 0 1 20.17323 52.88189 cm
+q
+BT 1 0 0 1 0 26 Tm .653661 Tw 12 TL /F1 10 Tf 0 0 0 rg (A 2 month paid internship working with the world's ) Tj /F2 10 Tf (most brilliant X-ray source ) Tj /F1 10 Tf (at DESY \(Germany's answer to CERN\).) Tj T* 0 Tw .769217 Tw (Aside from a minor project involving RPC technologies, I cut my teeth on Python developing an automated toolchain for) Tj T* 0 Tw (processing tomographic images.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 52.88189 cm
+Q
+q
+1 0 0 1 14.17323 14.17323 cm
+q
+BT 1 0 0 1 0 2 Tm 533.2959 0 Td 12 TL /F1 10 Tf 0 0 0 rg (1 / 2) Tj T* -533.2959 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+30 0 obj
+<< /Length 7831 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 34.34646 797.8819 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Hobbyist Portfolio) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 767.8819 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Arduino-Based Synthesiser) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 755.8819 cm
+Q
+q
+1 0 0 1 34.34646 743.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (https://github.com/oscarbyrne/grains) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 743.8819 cm
+Q
+q
+1 0 0 1 34.34646 689.8819 cm
+q
+BT 1 0 0 1 0 38 Tm 2.368394 Tw 12 TL /F1 10 Tf 0 0 0 rg (I became interested in the Arduino platform for generating audio after building some simple audio-based electronic) Tj T* 0 Tw 1.219119 Tw (circuits. This has involved developing my own ) Tj /F2 10 Tf (1-bit DAC) Tj /F1 10 Tf (, requiring a ) Tj /F2 10 Tf (custom PWM ) Tj /F1 10 Tf (implementation, which I ultimately) Tj T* 0 Tw .445043 Tw (intend to output audio generated on the chip. Getting this close to the metal was a great experience, and I really enjoyed) Tj T* 0 Tw (pushing the limits of the chip.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 659.8819 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Python Meta-Programming) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 647.8819 cm
+Q
+q
+1 0 0 1 34.34646 635.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (https://github.com/oscarbyrne/notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 623.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (https://github.com/oscarbyrne/vikings) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 623.8819 cm
+Q
+q
+1 0 0 1 34.34646 569.8819 cm
+q
+BT 1 0 0 1 0 38 Tm 1.248494 Tw 12 TL /F1 10 Tf 0 0 0 rg (I am interested in developing ) Tj /F2 10 Tf (beautiful interfaces) Tj /F1 10 Tf (, to the point where they almost become programming languages in) Tj T* 0 Tw .184217 Tw (their own right. Python\222s high capacity for metaprogramming makes this possible. I have 2 projects available on my github) Tj T* 0 Tw .693795 Tw (demonstrating this - \221notes\222, which is a tool for exploring music theory; and \221vikings\222, the latest iteration of a modern \221text) Tj T* 0 Tw (adventure\222 game I have been toying with for several years \(note this is very much a work in progress\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 536.8819 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 506.8819 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (University of Bimringham, MSci Physics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 494.8819 cm
+Q
+q
+1 0 0 1 34.34646 482.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (2010 - 2014) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 482.8819 cm
+Q
+q
+1 0 0 1 34.34646 452.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .431995 Tw (For my fourth year project I became involved with front-line research in metamaterials, and contributed to a project which) Tj T* 0 Tw (was presented as part of the PIERS conference 2014 in China. I chose mostly computing-related modules, including:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 446.8819 cm
+Q
+q
+1 0 0 1 34.34646 446.8819 cm
+Q
+q
+1 0 0 1 34.34646 434.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Teaching in Schools, ) Tj /F1 10 Tf (for which I spent 11 weeks teaching in a Primary school) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 428.8819 cm
+Q
+q
+1 0 0 1 34.34646 416.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Image Processing, ) Tj /F1 10 Tf (which mostly focused on algorithms) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 410.8819 cm
+Q
+q
+1 0 0 1 34.34646 386.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.568916 Tw 12 TL /F2 10 Tf 0 0 0 rg (Computational Modelling of Physical Systems, ) Tj /F1 10 Tf (for which I implemented a dynamical billiards simulation using) Tj T* 0 Tw (C++) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 386.8819 cm
+Q
+q
+1 0 0 1 34.34646 356.8819 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Sir Thomas Rich's School, Gloucester) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 344.8819 cm
+Q
+q
+1 0 0 1 34.34646 329.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 31.90937 0 Td (A levels:) Tj T* -31.90937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A*, A, B, C) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 314.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 25.23937 0 Td (AS levels:) Tj T* -25.23937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (B) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 299.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 35.80937 0 Td (GCSEs:) Tj T* -35.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4 A* passes, 5 As and 2 Bs) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 266.8819 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Other Interests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 254.8819 cm
+Q
+q
+1 0 0 1 34.34646 254.8819 cm
+Q
+q
+1 0 0 1 34.34646 242.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Producing electronic music - I've assembled a ) Tj /F2 10 Tf (home studio ) Tj /F1 10 Tf (which I use to make hip hop) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 236.8819 cm
+Q
+q
+1 0 0 1 34.34646 224.8819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Rock climbing) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 224.8819 cm
+Q
+q
+1 0 0 1 34.34646 218.8819 cm
+Q
+q
+1 0 0 1 34.34646 206.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 194.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 182.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 170.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 158.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 146.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 134.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 122.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 110.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 98.88189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 98.88189 cm
+Q
+q
+1 0 0 1 34.34646 65.88189 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 47.88189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (References are available on request) Tj T* ET
+Q
+Q
+q
+1 0 0 1 28.34646 14.17323 cm
+q
+BT 1 0 0 1 0 2 Tm 533.2959 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2 / 2) Tj T* -533.2959 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+31 0 obj
+<< /Nums [ 0 32 0 R 1 33 0 R ] >>
+endobj
+32 0 obj
+<< /S /D /St 1 >>
+endobj
+33 0 obj
+<< /S /D /St 2 >>
+endobj
+xref
+0 34
+0000000000 65535 f
+0000000075 00000 n
+0000000139 00000 n
+0000000249 00000 n
+0000000364 00000 n
+0000000547 00000 n
+0000000723 00000 n
+0000000841 00000 n
+0000000963 00000 n
+0000001196 00000 n
+0000001405 00000 n
+0000001514 00000 n
+0000001787 00000 n
+0000001865 00000 n
+0000001979 00000 n
+0000002151 00000 n
+0000002319 00000 n
+0000002426 00000 n
+0000002601 00000 n
+0000002708 00000 n
+0000002850 00000 n
+0000003025 00000 n
+0000003154 00000 n
+0000003281 00000 n
+0000003447 00000 n
+0000003589 00000 n
+0000003729 00000 n
+0000003861 00000 n
+0000003975 00000 n
+0000004044 00000 n
+0000012243 00000 n
+0000020131 00000 n
+0000020184 00000 n
+0000020221 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\2728\336\277\375\270Fl\212\355\373\240/\323\3426) (\2728\336\277\375\270Fl\212\355\373\240/\323\3426)]
+ /Info 11 0 R /Root 10 0 R /Size 34 >>
+startxref
+20258
+%%EOF

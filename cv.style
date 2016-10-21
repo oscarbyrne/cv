@@ -1,0 +1,15 @@
+pageSetup:
+	size: A4
+	width: null
+	height: null
+	margin-top: 0.1cm
+	margin-bottom: 0.5cm
+	margin-left: 0.5cm
+	margin-right: 0.5cm
+	margin-gutter: 0.5cm
+	spacing-header: 5mm
+	spacing-footer: 5mm
+
+styles:
+	title:
+		alignment: left

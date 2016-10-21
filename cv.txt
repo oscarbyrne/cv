@@ -1,0 +1,141 @@
+.. footer::
+	
+	.. class:: right:
+
+		###Page### / 2
+
+
+
+===========
+Oscar Byrne
+===========
+
+.. class:: right:
+
+	| oscar.byrne@gmail.com
+	| https://oscarbyrne.me
+	| 07827276367
+
+
+
+----------
+Motivation
+----------
+
+After experiencing ‘start up’ and enterprise-style workplaces in the form of Acano and Cisco, I’ve decided what I really value is freedom and a work/life balance. That’s why I’ve decided to pursue a freelance career. What you should know about me: there’s nothing better than a neat source file. That means: beautiful interfaces; good architecture; and, of course, following the style guidelines(!).
+
+
+
+---------------
+Work Experience
+---------------
+
+Cisco, Software Engineer
+------------------------
+| *January 2016 - July 2016*
+
+Acano was acquired by Cisco for $700m, after which I was moved to a new agile team to develop a **next-gen, android-based** product running on custom hardware. This involved building an **entirely new testing environment** using industry-standard technologies.
+
+*Accomplishments:*
+``````````````````
+- Researched existing technologies and planned our overarching test strategy.
+- Constructed an **all-hardware test lab**, including network provisions and remote power switching (there was a risk that early prototypes would burst into flames if left on overnight!)
+- Developed a custom test runner for our product able to: prepare the hardware for testing, run tests in parallel and collect useful reports including screenshots. This involved hacking in **Gradle, Jtest and Python**.
+- Developed a **continuous-integration** environment using technologies including: Jenkins, Phabricator and Docker.
+
+
+Acano, QA Engineer
+------------------
+| *October 2014 – January 2016*
+
+I joined the QA team at Acano in the first wave of graduate recruits. I initially worked on manual testing and writing test plans, but soon graduated to **developing frameworks** for automated tests.
+
+*Accomplishments:*
+``````````````````
+- Wrote much of the **test plan** for our client software, greatly improving our manual test coverage. This had a noticeable effect on the stability of our product.
+- Worked closely with a single developer, with an extremely short development cycle, to deliver a **SIP to H323** bridge for the server component of our product.
+- Designed and developed our framework for running automated tests on the next generation of **client software**. There was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate the new module. The framework is a ‘write once run anywhere’ system that runs tests on multiple platforms, including: **android, iOS, windows, mac and various web browsers**.
+
+
+DESY IT Department, Summer Studentship
+--------------------------------------
+| *July 2013 – August 2013*
+
+A 2 month paid internship working with the world's **most brilliant X-ray source** at DESY (Germany's answer to CERN). Aside from a minor project involving RPC technologies, I cut my teeth on Python developing an automated toolchain for processing tomographic images.
+
+
+
+.. raw:: pdf
+
+   PageBreak
+
+
+
+------------------
+Hobbyist Portfolio
+------------------
+
+Arduino-Based Synthesiser
+-------------------------
+| *https://github.com/oscarbyrne/grains*
+
+I became interested in the Arduino platform for generating audio after building some simple audio-based electronic circuits. This has involved developing my own **1-bit DAC**, requiring a **custom PWM** implementation, which I ultimately intend to output audio generated on the chip. Getting this close to the metal was a great experience, and I really enjoyed pushing the limits of the chip.
+
+
+Python Meta-Programming
+-----------------------
+| *https://github.com/oscarbyrne/notes*
+| *https://github.com/oscarbyrne/vikings*
+
+I am interested in developing **beautiful interfaces**, to the point where they almost become programming languages in their own right. Python’s high capacity for metaprogramming makes this possible. I have 2 projects available on my github demonstrating this - ‘notes’, which is a tool for exploring music theory; and ‘vikings’, the latest iteration of a modern ‘text adventure’ game I have been toying with for several years (note this is very much a work in progress).
+
+
+
+---------
+Education
+---------
+
+University of Bimringham, MSci Physics
+--------------------------------------
+| *2010 - 2014*
+
+For my fourth year project I became involved with front-line research in metamaterials, and contributed to a project which was presented as part of the PIERS conference 2014 in China. I chose mostly computing-related modules, including:
+
+- **Teaching in Schools,** for which I spent 11 weeks teaching in a Primary school
+- **Image Processing,** which mostly focused on algorithms
+- **Computational Modelling of Physical Systems,** for which I implemented a dynamical billiards simulation using C++
+
+
+Sir Thomas Rich's School, Gloucester
+------------------------------------
+
+:A levels: A*, A, B, C
+:AS levels: B
+:GCSEs: 4 A* passes, 5 As and 2 Bs
+
+
+
+---------------
+Other Interests
+---------------
+
+- Producing electronic music - I've assembled a **home studio** which I use to make hip hop
+- Rock climbing
+
+
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+----------
+References
+----------
+*References are available on request*
+
