@@ -1,3 +1,5 @@
+embeddedFonts: [ [OpenSans-Regular.ttf, OpenSans-Bold.ttf, OpenSans-Italic.ttf, OpenSans-BoldItalic.ttf ] ]
+
 pageSetup:
 	size: A4
 	width: null
@@ -10,9 +12,13 @@ pageSetup:
 	spacing-header: 5mm
 	spacing-footer: 5mm
 
+fontsAlias:
+    stdFont: OpenSans-Regular
+    stdBold: OpenSans-Bold
+    stdItalic: OpenSans-Italic
+    stdBoldItalic: OpenSans-BoldItalic
 
 styles:
-	
 	title:
 		alignment: left
 
