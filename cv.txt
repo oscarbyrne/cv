@@ -12,9 +12,18 @@ Oscar Byrne
 
 .. class:: right:
 
-	| oscar.byrne@gmail.com
-	| https://oscarbyrne.me
-	| +44 7827276367
+	| oscar.byrne@gmail.com   |email|
+	| https://oscarbyrne.me   |click|
+	| +44 7827276367          |phone|
+
+.. |email| image:: ./images/email.png
+		   :width: 1em
+
+.. |click| image:: ./images/pointer.png
+		   :width: 1em
+
+.. |phone| image:: ./images/phone.png
+		   :width: 1em
 
 
 
