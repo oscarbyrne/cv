@@ -45,6 +45,7 @@ Acano was acquired by Cisco for $700m, after which I was moved to a new agile te
 
 
 |
+
 Acano, QA Engineer
 ------------------
 | *October 2014 – January 2016*
@@ -59,6 +60,7 @@ I joined the QA team at Acano in the first wave of graduate recruits. I initiall
 
 
 |
+
 DESY IT Department, Summer Studentship
 --------------------------------------
 | *July 2013 – August 2013*
@@ -85,6 +87,7 @@ I became interested in the Arduino platform for generating audio after building 
 
 
 |
+
 Python Meta-Programming
 -----------------------
 | *https://github.com/oscarbyrne/notes*
@@ -110,6 +113,7 @@ For my fourth year project I became involved with front-line research in metamat
 
 
 |
+
 Sir Thomas Rich's School, Gloucester
 ------------------------------------
 
@@ -134,6 +138,7 @@ Other Interests
 |
 |
 |
+
 ----------
 References
 ----------
