@@ -10,6 +10,20 @@ pageSetup:
 	spacing-header: 5mm
 	spacing-footer: 5mm
 
+
 styles:
+	
 	title:
 		alignment: left
+
+	heading1:
+		spaceBefore: 20
+		spaceAfter: 10
+
+	heading2:
+		spaceBefore: 0
+		spaceAfter: 0
+
+	heading3:
+		spaceBefore: 5
+		spaceAfter: 0

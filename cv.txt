@@ -44,6 +44,7 @@ Acano was acquired by Cisco for $700m, after which I was moved to a new agile te
 - Developed a **continuous-integration** environment using technologies including: Jenkins, Phabricator and Docker.
 
 
+|
 Acano, QA Engineer
 ------------------
 | *October 2014 – January 2016*
@@ -57,6 +58,7 @@ I joined the QA team at Acano in the first wave of graduate recruits. I initiall
 - Designed and developed our framework for running automated tests on the next generation of **client software**. There was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate the new module. The framework is a ‘write once run anywhere’ system that runs tests on multiple platforms, including: **android, iOS, windows, mac and various web browsers**.
 
 
+|
 DESY IT Department, Summer Studentship
 --------------------------------------
 | *July 2013 – August 2013*
@@ -82,6 +84,7 @@ Arduino-Based Synthesiser
 I became interested in the Arduino platform for generating audio after building some simple audio-based electronic circuits. This has involved developing my own **1-bit DAC**, requiring a **custom PWM** implementation, which I ultimately intend to output audio generated on the chip. Getting this close to the metal was a great experience, and I really enjoyed pushing the limits of the chip.
 
 
+|
 Python Meta-Programming
 -----------------------
 | *https://github.com/oscarbyrne/notes*
@@ -106,6 +109,7 @@ For my fourth year project I became involved with front-line research in metamat
 - **Computational Modelling of Physical Systems,** for which I implemented a dynamical billiards simulation using C++
 
 
+|
 Sir Thomas Rich's School, Gloucester
 ------------------------------------
 
@@ -124,10 +128,6 @@ Other Interests
 
 
 
-|
-|
-|
-|
 |
 |
 |
