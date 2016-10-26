@@ -106,6 +106,15 @@ Python Meta-Programming
 **I am interested in developing beautiful interfaces**, to the point where they almost become programming languages in their own right. Python’s high capacity for metaprogramming makes this possible. I have **2 projects** available on my github demonstrating this - ‘notes’, which is a tool for exploring music theory; and ‘vikings’, the latest iteration of a modern ‘text adventure’ game I have been toying with for several years (note this is very much a work in progress).
 
 
+|
+
+This CV
+-------
+| *https://github.com/oscarbyrne/cv*
+
+I have written this CV with the help of the **reStructuredText syntax**. This is a markup language designed to compile easily to PDF and HTML, whilst remaining easily human-readable. I honestly think my CV is the best (looking) out there written using this language!
+
+
 
 ---------
 Education
@@ -141,15 +150,6 @@ Other Interests
 - Rock climbing
 
 
-
-|
-|
-|
-|
-|
-|
-|
-|
 |
 
 ----------
