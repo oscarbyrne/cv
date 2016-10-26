@@ -1,8 +1,8 @@
 .. footer::
-	
-	.. class:: right:
+    
+    .. class:: right:
 
-		###Page### / ###Total###
+        ###Page### / ###Total###
 
 
 
@@ -12,18 +12,19 @@ Oscar Byrne
 
 .. class:: right:
 
-	| oscar.byrne@gmail.com   |email|
-	| https://oscarbyrne.me   |click|
-	| +44 7827276367          |phone|
+    | oscar.byrne@gmail.com     |email_me|
+    | https://oscarbyrne.me     |click_me|
+    | +44 7827276367            |phone_me|
 
-.. |email| image:: ./images/email.png
-		   :width: 1em
 
-.. |click| image:: ./images/pointer.png
-		   :width: 1em
+    .. |email_me| image:: ./images/email.png
+                  :width: 1em
 
-.. |phone| image:: ./images/phone.png
-		   :width: 1em
+    .. |click_me| image:: ./images/pointer.png
+                  :width: 1em
+
+    .. |phone_me| image:: ./images/phone.png
+                  :width: 1em
 
 
 
