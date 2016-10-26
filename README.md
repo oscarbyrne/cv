@@ -7,3 +7,7 @@ language that can easily be compiled to both PDF and HTML.
 ##To generate cv.pdf
 
     rst2pdf cv.txt cv.pdf -s cv.style
+
+##To generate cv.html
+
+    rst2html.py cv.txt cv.html --stylesheet cv.css
