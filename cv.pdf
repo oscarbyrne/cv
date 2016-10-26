@@ -3430,7 +3430,7 @@ endobj
 << /Outlines 30 0 R /PageLabels 49 0 R /PageMode /UseNone /Pages 46 0 R /Type /Catalog >>
 endobj
 29 0 obj
-<< /Author () /CreationDate (D:20161026185051+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161026185051+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20161026191514+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161026191514+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Oscar Byrne) /Trapped /False >>
 endobj
 30 0 obj
@@ -3490,7 +3490,7 @@ endobj
 << /Count 2 /Kids [ 10 0 R 11 0 R ] /Type /Pages >>
 endobj
 47 0 obj
-<< /Length 8948 >>
+<< /Length 9051 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -3577,7 +3577,7 @@ Q
 q
 1 0 0 1 20.17323 496.8819 cm
 q
-BT 1 0 0 1 0 26 Tm .505043 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Acano was acquired by Cisco for $700m, after which I was moved to a new agile team to develop a ) Tj /F1+0 10 Tf 12 TL (next-gen, android-based) Tj T* 0 Tw 1.453993 Tw /F2+0 10 Tf 12 TL (product running on custom hardware. This involved building an ) Tj /F1+0 10 Tf 12 TL (entirely new testing environment ) Tj /F2+0 10 Tf 12 TL (using industry-standard) Tj T* 0 Tw (technologies.) Tj T* ET
+BT 1 0 0 1 0 26 Tm .518376 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Acano was acquired by Cisco for $700m, after which I was moved to a new agile team to develop a next-gen, ) Tj /F1+0 10 Tf 12 TL (android-based) Tj T* 0 Tw 1.453993 Tw /F2+0 10 Tf 12 TL (product running on custom hardware. This involved building an ) Tj /F1+0 10 Tf 12 TL (entirely new testing environment ) Tj /F2+0 10 Tf 12 TL (using industry-standard) Tj T* 0 Tw (technologies.) Tj T* ET
 Q
 Q
 q
@@ -3605,8 +3605,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Researched existing technologies and planned our overarching test strategy.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Researched existing technologies and ) Tj /F1+0 10 Tf 12 TL (planned ) Tj /F2+0 10 Tf 12 TL (our overarching ) Tj /F1+0 10 Tf 12 TL (test strategy) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
@@ -3650,7 +3649,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm 1.650311 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Developed a custom test runner for our product able to: prepare the hardware for testing, run tests in parallel and) Tj T* 0 Tw (collect useful reports including screenshots. This involved hacking in ) Tj /F1+0 10 Tf 12 TL (Gradle, Jtest and Python) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .008795 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Developed a ) Tj /F1+0 10 Tf 12 TL (custom test runner ) Tj /F2+0 10 Tf 12 TL (for our product able to: prepare the hardware for testing, run tests in parallel and collect) Tj T* 0 Tw (useful reports including screenshots. This involved hacking in Gradle, Jtest and Python.) Tj T* ET
 Q
 Q
 q
@@ -3716,7 +3715,7 @@ Q
 q
 1 0 0 1 20.17323 296.8819 cm
 q
-BT 1 0 0 1 0 14 Tm 1.220268 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (I joined the QA team at Acano in the first wave of graduate recruits. I initially worked on manual testing and writing test) Tj T* 0 Tw (plans, but soon graduated to ) Tj /F1+0 10 Tf 12 TL (developing frameworks ) Tj /F2+0 10 Tf 12 TL (for automated tests.) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.220268 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (I joined the QA team at Acano in the first wave of graduate recruits. I initially worked on manual testing and writing test) Tj T* 0 Tw (plans, but soon graduated to developing frameworks for ) Tj /F1+0 10 Tf 12 TL (automated tests) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
@@ -3788,7 +3787,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 38 Tm 1.082244 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Designed and developed our framework for running automated tests on the next generation of ) Tj /F1+0 10 Tf 12 TL (client software) Tj /F2+0 10 Tf 12 TL (. There) Tj T* 0 Tw .663795 Tw (was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate the new) Tj T* 0 Tw .568583 Tw (module. The framework is a \200write once run anywhere\201 system that runs tests on multiple platforms, including: ) Tj /F1+0 10 Tf 12 TL (android,) Tj T* 0 Tw (iOS, windows, mac and various web browsers) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+BT 1 0 0 1 0 38 Tm .046818 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Designed and ) Tj /F1+0 10 Tf 12 TL (developed the framework ) Tj /F2+0 10 Tf 12 TL (for running automated tests on the next generation of our client software. There) Tj T* 0 Tw .663795 Tw (was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate the new) Tj T* 0 Tw .568583 Tw (module. The framework is a \200write once run anywhere\201 system that runs tests on multiple platforms, including: ) Tj /F1+0 10 Tf 12 TL (android,) Tj T* 0 Tw (iOS, windows, mac and various web browsers) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
@@ -3848,7 +3847,7 @@ Q
 endstream
 endobj
 48 0 obj
-<< /Length 8175 >>
+<< /Length 8277 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -3924,7 +3923,7 @@ Q
 q
 1 0 0 1 34.34646 577.8819 cm
 q
-BT 1 0 0 1 0 38 Tm .930936 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (I am interested in developing ) Tj /F1+0 10 Tf 12 TL (beautiful interfaces) Tj /F2+0 10 Tf 12 TL (, to the point where they almost become programming languages in their) Tj T* 0 Tw 2.374465 Tw (own right. Python\201s high capacity for metaprogramming makes this possible. I have 2 projects available on my github) Tj T* 0 Tw 1.128795 Tw (demonstrating this - \200notes\201, which is a tool for exploring music theory; and \200vikings\201, the latest iteration of a modern \200text) Tj T* 0 Tw (adventure\201 game I have been toying with for several years \(note this is very much a work in progress\).) Tj T* ET
+BT 1 0 0 1 0 38 Tm .930936 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (I am interested in developing ) Tj /F1+0 10 Tf 12 TL (beautiful interfaces) Tj /F2+0 10 Tf 12 TL (, to the point where they almost become programming languages in their) Tj T* 0 Tw 2.377994 Tw (own right. Python\201s high capacity for ) Tj /F1+0 10 Tf 12 TL (metaprogramming ) Tj /F2+0 10 Tf 12 TL (makes this possible. I have 2 projects available on my github) Tj T* 0 Tw 1.128795 Tw (demonstrating this - \200notes\201, which is a tool for exploring music theory; and \200vikings\201, the latest iteration of a modern \200text) Tj T* 0 Tw (adventure\201 game I have been toying with for several years \(note this is very much a work in progress\).) Tj T* ET
 Q
 Q
 q
@@ -3955,8 +3954,7 @@ Q
 q
 1 0 0 1 34.34646 460.8819 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm .98755 Tw /F2+0 10 Tf 12 TL (For my fourth year project I became involved with front-line research in metamaterials, and contributed to a project which) Tj T* 0 Tw (was presented as part of the PIERS conference 2014 in China. I chose mostly computing-related modules, including:) Tj T* ET
+BT 1 0 0 1 0 14 Tm .988661 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (For my fourth year project I became involved with ) Tj /F1+0 10 Tf 12 TL (front-line research ) Tj /F2+0 10 Tf 12 TL (in metamaterials, and contributed to a project which) Tj T* 0 Tw (was presented as part of the PIERS conference 2014 in China. I chose mostly computing-related modules, including:) Tj T* ET
 Q
 Q
 q
@@ -4323,15 +4321,15 @@ xref
 0000352499 00000 n
 0000352614 00000 n
 0000352685 00000 n
-0000361690 00000 n
-0000369922 00000 n
-0000369975 00000 n
-0000370012 00000 n
+0000361793 00000 n
+0000370127 00000 n
+0000370180 00000 n
+0000370217 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(l\3019\265\330\231\304\241\\\260_\214y\314\007\221) (l\3019\265\330\231\304\241\\\260_\214y\314\007\221)]
+ [(H\020D>\303l\025u\254\373\222\302\316\033XF) (H\020D>\303l\025u\254\373\222\302\316\033XF)]
  /Info 29 0 R /Root 28 0 R /Size 52 >>
 startxref
-370049
+370254
 %%EOF
