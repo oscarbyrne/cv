@@ -1,4 +1,4 @@
-embeddedFonts: [ [OpenSans-Regular.ttf, OpenSans-Bold.ttf, OpenSans-Italic.ttf, OpenSans-BoldItalic.ttf ] ]
+embeddedFonts: [ [Roboto-Regular.ttf, Roboto-Bold.ttf, Roboto-Italic.ttf, Roboto-BoldItalic.ttf ] ]
 
 pageSetup:
 	size: A4
@@ -13,10 +13,10 @@ pageSetup:
 	spacing-footer: 5mm
 
 fontsAlias:
-    stdFont: OpenSans-Regular
-    stdBold: OpenSans-Bold
-    stdItalic: OpenSans-Italic
-    stdBoldItalic: OpenSans-BoldItalic
+    stdFont: Roboto-Regular
+    stdBold: Roboto-Bold
+    stdItalic: Roboto-Italic
+    stdBoldItalic: Roboto-BoldItalic
 
 styles:
 	title:
