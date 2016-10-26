@@ -44,7 +44,7 @@ Cisco, Software Engineer
 ------------------------
 | *January 2016 - July 2016*
 
-Acano was acquired by Cisco for $700m, after which I was moved to a new agile team to develop a next-gen, **android-based** product running on custom hardware. This involved building an **entirely new testing environment** using industry-standard technologies.
+Acano was acquired by Cisco for $700m, after which I was moved to a new agile team to develop a next-gen, **Android-based** product running on custom hardware. This involved building an **entirely new testing environment** using industry-standard technologies.
 
 *Accomplishments:*
 ``````````````````
@@ -66,7 +66,7 @@ I joined the QA team at Acano in the first wave of graduate recruits. I initiall
 ``````````````````
 - Wrote much of the **test plan** for our client software, greatly improving our manual test coverage. This had a noticeable effect on the stability of our product.
 - Was the sole QA on a project to deliver a **SIP to H323** bridge for the server component of our product. This involved working closely with a single developer.
-- Designed and **developed the framework** for running automated tests on the next generation of our client software. There was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate the new module. The framework is a ‘write once run anywhere’ system that runs tests on multiple platforms, including: **android, iOS, windows, mac** and various **web browsers**.
+- Designed and **developed the framework** for running automated tests on the next generation of our client software. There was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate the new module. The framework is a ‘write once run anywhere’ system that runs tests on multiple platforms, including: **Android, iOS, Windows, Mac** and various **web browsers**.
 
 
 |
@@ -120,7 +120,7 @@ I have written this CV with the help of the **reStructuredText syntax**. This is
 Education
 ---------
 
-University of Bimringham, MSci Physics
+University of Birmingham, MSci Physics
 --------------------------------------
 | *2010 - 2014*
 

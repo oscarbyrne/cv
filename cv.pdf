@@ -3430,7 +3430,7 @@ endobj
 << /Outlines 30 0 R /PageLabels 50 0 R /PageMode /UseNone /Pages 47 0 R /Type /Catalog >>
 endobj
 29 0 obj
-<< /Author () /CreationDate (D:20161026202308+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161026202308+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20161026203714+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161026203714+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Oscar Byrne) /Trapped /False >>
 endobj
 30 0 obj
@@ -3478,7 +3478,7 @@ endobj
   /Prev 38 0 R /Title (Education) >>
 endobj
 43 0 obj
-<< /Dest [ 11 0 R /XYZ 34.34646 430.8819 0 ] /Next 44 0 R /Parent 42 0 R /Title (University of Bimringham, MSci Physics) >>
+<< /Dest [ 11 0 R /XYZ 34.34646 430.8819 0 ] /Next 44 0 R /Parent 42 0 R /Title (University of Birmingham, MSci Physics) >>
 endobj
 44 0 obj
 << /Dest [ 11 0 R /XYZ 34.34646 292.8819 0 ] /Parent 42 0 R /Prev 43 0 R /Title (Sir Thomas Rich's School, Gloucester) >>
@@ -3580,7 +3580,7 @@ Q
 q
 1 0 0 1 20.17323 496.8819 cm
 q
-BT 1 0 0 1 0 26 Tm .518376 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Acano was acquired by Cisco for $700m, after which I was moved to a new agile team to develop a next-gen, ) Tj /F1+0 10 Tf 12 TL (android-based) Tj T* 0 Tw 1.453993 Tw /F2+0 10 Tf 12 TL (product running on custom hardware. This involved building an ) Tj /F1+0 10 Tf 12 TL (entirely new testing environment ) Tj /F2+0 10 Tf 12 TL (using industry-standard) Tj T* 0 Tw (technologies.) Tj T* ET
+BT 1 0 0 1 0 26 Tm .466472 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Acano was acquired by Cisco for $700m, after which I was moved to a new agile team to develop a next-gen, ) Tj /F1+0 10 Tf 12 TL (Android-based) Tj T* 0 Tw 1.453993 Tw /F2+0 10 Tf 12 TL (product running on custom hardware. This involved building an ) Tj /F1+0 10 Tf 12 TL (entirely new testing environment ) Tj /F2+0 10 Tf 12 TL (using industry-standard) Tj T* 0 Tw (technologies.) Tj T* ET
 Q
 Q
 q
@@ -3790,7 +3790,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 38 Tm .046818 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Designed and ) Tj /F1+0 10 Tf 12 TL (developed the framework ) Tj /F2+0 10 Tf 12 TL (for running automated tests on the next generation of our client software. There) Tj T* 0 Tw .663795 Tw (was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate the new) Tj T* 0 Tw .568583 Tw (module. The framework is a \200write once run anywhere\201 system that runs tests on multiple platforms, including: ) Tj /F1+0 10 Tf 12 TL (android,) Tj T* 0 Tw (iOS, windows, mac ) Tj /F2+0 10 Tf 12 TL (and various ) Tj /F1+0 10 Tf 12 TL (web browsers) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+BT 1 0 0 1 0 38 Tm .046818 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Designed and ) Tj /F1+0 10 Tf 12 TL (developed the framework ) Tj /F2+0 10 Tf 12 TL (for running automated tests on the next generation of our client software. There) Tj T* 0 Tw .663795 Tw (was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate the new) Tj T* 0 Tw .504465 Tw (module. The framework is a \200write once run anywhere\201 system that runs tests on multiple platforms, including: ) Tj /F1+0 10 Tf 12 TL (Android,) Tj T* 0 Tw (iOS, Windows, Mac ) Tj /F2+0 10 Tf 12 TL (and various ) Tj /F1+0 10 Tf 12 TL (web browsers) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
@@ -3976,7 +3976,7 @@ Q
 q
 1 0 0 1 34.34646 412.8819 cm
 q
-BT 1 0 0 1 0 3 Tm 18 TL 0 0 0 rg /F1+0 15 Tf 18 TL (University of Bimringham, MSci Physics) Tj T* ET
+BT 1 0 0 1 0 3 Tm 18 TL 0 0 0 rg /F1+0 15 Tf 18 TL (University of Birmingham, MSci Physics) Tj T* ET
 Q
 Q
 q
@@ -4314,7 +4314,7 @@ xref
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\332\3262\336\316\206\326\277\362G1\021?\314\263\216) (\332\3262\336\316\206\326\277\362G1\021?\314\263\216)]
+ [(FM\\Z\314W\015\307\017\313iW\372\021\352\265) (FM\\Z\314W\015\307\017\313iW\372\021\352\265)]
  /Info 29 0 R /Root 28 0 R /Size 53 >>
 startxref
 370493
