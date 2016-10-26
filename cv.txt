@@ -47,8 +47,8 @@ Acano was acquired by Cisco for $700m, after which I was moved to a new agile te
 
 *Accomplishments:*
 ``````````````````
-- Researched existing technologies and **planned** our overarching **test strategy**.
-- Constructed an **all-hardware test lab**, including network provisions and remote power switching (there was a risk that early prototypes would burst into flames if left on overnight!)
+- Planned our overarching **test strategy**, reviewing existing technologies and methodologies.
+- Constructed an all-**hardware test lab**, including network provisions and remote power switching (there was a risk that early prototypes would burst into flames if left on overnight!)
 - Developed a **custom test runner** for our product able to: prepare the hardware for testing, run tests in parallel and collect useful reports including screenshots. This involved hacking in Gradle, Jtest and Python.
 - Developed a **continuous-integration** environment using technologies including: Jenkins, Phabricator and Docker.
 
@@ -64,8 +64,8 @@ I joined the QA team at Acano in the first wave of graduate recruits. I initiall
 *Accomplishments:*
 ``````````````````
 - Wrote much of the **test plan** for our client software, greatly improving our manual test coverage. This had a noticeable effect on the stability of our product.
-- Worked closely with a single developer, with an extremely short development cycle, to deliver a **SIP to H323** bridge for the server component of our product.
-- Designed and **developed the framework** for running automated tests on the next generation of our client software. There was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate the new module. The framework is a ‘write once run anywhere’ system that runs tests on multiple platforms, including: **android, iOS, windows, mac and various web browsers**.
+- Was the sole QA on a project to deliver a **SIP to H323** bridge for the server component of our product. This involved working closely with a single developer.
+- Designed and **developed the framework** for running automated tests on the next generation of our client software. There was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate the new module. The framework is a ‘write once run anywhere’ system that runs tests on multiple platforms, including: **android, iOS, windows, mac** and various **web browsers**.
 
 
 |
@@ -102,7 +102,7 @@ Python Meta-Programming
 | *https://github.com/oscarbyrne/notes*
 | *https://github.com/oscarbyrne/vikings*
 
-I am interested in developing **beautiful interfaces**, to the point where they almost become programming languages in their own right. Python’s high capacity for **metaprogramming** makes this possible. I have 2 projects available on my github demonstrating this - ‘notes’, which is a tool for exploring music theory; and ‘vikings’, the latest iteration of a modern ‘text adventure’ game I have been toying with for several years (note this is very much a work in progress).
+**I am interested in developing beautiful interfaces**, to the point where they almost become programming languages in their own right. Python’s high capacity for metaprogramming makes this possible. I have **2 projects** available on my github demonstrating this - ‘notes’, which is a tool for exploring music theory; and ‘vikings’, the latest iteration of a modern ‘text adventure’ game I have been toying with for several years (note this is very much a work in progress).
 
 
 

@@ -3430,7 +3430,7 @@ endobj
 << /Outlines 30 0 R /PageLabels 49 0 R /PageMode /UseNone /Pages 46 0 R /Type /Catalog >>
 endobj
 29 0 obj
-<< /Author () /CreationDate (D:20161026191514+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161026191514+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20161026193649+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161026193649+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Oscar Byrne) /Trapped /False >>
 endobj
 30 0 obj
@@ -3490,7 +3490,7 @@ endobj
 << /Count 2 /Kids [ 10 0 R 11 0 R ] /Type /Pages >>
 endobj
 47 0 obj
-<< /Length 9051 >>
+<< /Length 9067 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -3605,7 +3605,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Researched existing technologies and ) Tj /F1+0 10 Tf 12 TL (planned ) Tj /F2+0 10 Tf 12 TL (our overarching ) Tj /F1+0 10 Tf 12 TL (test strategy) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Planned our overarching ) Tj /F1+0 10 Tf 12 TL (test strategy) Tj /F2+0 10 Tf 12 TL (, reviewing existing technologies and methodologies.) Tj T* ET
 Q
 Q
 q
@@ -3627,7 +3627,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm 1.001619 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Constructed an ) Tj /F1+0 10 Tf 12 TL (all-hardware test lab) Tj /F2+0 10 Tf 12 TL (, including network provisions and remote power switching \(there was a risk that) Tj T* 0 Tw (early prototypes would burst into flames if left on overnight!\)) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.004119 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Constructed an all-) Tj /F1+0 10 Tf 12 TL (hardware test lab) Tj /F2+0 10 Tf 12 TL (, including network provisions and remote power switching \(there was a risk that) Tj T* 0 Tw (early prototypes would burst into flames if left on overnight!\)) Tj T* ET
 Q
 Q
 q
@@ -3765,7 +3765,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm .446627 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Worked closely with a single developer, with an extremely short development cycle, to deliver a ) Tj /F1+0 10 Tf 12 TL (SIP to H323 ) Tj /F2+0 10 Tf 12 TL (bridge for) Tj T* 0 Tw (the server component of our product.) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.062541 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Was the sole QA on a project to deliver a ) Tj /F1+0 10 Tf 12 TL (SIP to H323 ) Tj /F2+0 10 Tf 12 TL (bridge for the server component of our product. This involved) Tj T* 0 Tw (working closely with a single developer.) Tj T* ET
 Q
 Q
 q
@@ -3787,7 +3787,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 38 Tm .046818 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Designed and ) Tj /F1+0 10 Tf 12 TL (developed the framework ) Tj /F2+0 10 Tf 12 TL (for running automated tests on the next generation of our client software. There) Tj T* 0 Tw .663795 Tw (was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate the new) Tj T* 0 Tw .568583 Tw (module. The framework is a \200write once run anywhere\201 system that runs tests on multiple platforms, including: ) Tj /F1+0 10 Tf 12 TL (android,) Tj T* 0 Tw (iOS, windows, mac and various web browsers) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+BT 1 0 0 1 0 38 Tm .046818 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Designed and ) Tj /F1+0 10 Tf 12 TL (developed the framework ) Tj /F2+0 10 Tf 12 TL (for running automated tests on the next generation of our client software. There) Tj T* 0 Tw .663795 Tw (was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate the new) Tj T* 0 Tw .568583 Tw (module. The framework is a \200write once run anywhere\201 system that runs tests on multiple platforms, including: ) Tj /F1+0 10 Tf 12 TL (android,) Tj T* 0 Tw (iOS, windows, mac ) Tj /F2+0 10 Tf 12 TL (and various ) Tj /F1+0 10 Tf 12 TL (web browsers) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
@@ -3847,7 +3847,7 @@ Q
 endstream
 endobj
 48 0 obj
-<< /Length 8277 >>
+<< /Length 8253 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -3923,7 +3923,7 @@ Q
 q
 1 0 0 1 34.34646 577.8819 cm
 q
-BT 1 0 0 1 0 38 Tm .930936 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (I am interested in developing ) Tj /F1+0 10 Tf 12 TL (beautiful interfaces) Tj /F2+0 10 Tf 12 TL (, to the point where they almost become programming languages in their) Tj T* 0 Tw 2.377994 Tw (own right. Python\201s high capacity for ) Tj /F1+0 10 Tf 12 TL (metaprogramming ) Tj /F2+0 10 Tf 12 TL (makes this possible. I have 2 projects available on my github) Tj T* 0 Tw 1.128795 Tw (demonstrating this - \200notes\201, which is a tool for exploring music theory; and \200vikings\201, the latest iteration of a modern \200text) Tj T* 0 Tw (adventure\201 game I have been toying with for several years \(note this is very much a work in progress\).) Tj T* ET
+BT 1 0 0 1 0 38 Tm .955642 Tw 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL (I am interested in developing beautiful interfaces) Tj /F2+0 10 Tf 12 TL (, to the point where they almost become programming languages in their) Tj T* 0 Tw 2.375053 Tw (own right. Python\201s high capacity for metaprogramming makes this possible. I have ) Tj /F1+0 10 Tf 12 TL (2 projects ) Tj /F2+0 10 Tf 12 TL (available on my github) Tj T* 0 Tw 1.128795 Tw (demonstrating this - \200notes\201, which is a tool for exploring music theory; and \200vikings\201, the latest iteration of a modern \200text) Tj T* 0 Tw (adventure\201 game I have been toying with for several years \(note this is very much a work in progress\).) Tj T* ET
 Q
 Q
 q
@@ -4321,15 +4321,15 @@ xref
 0000352499 00000 n
 0000352614 00000 n
 0000352685 00000 n
-0000361793 00000 n
-0000370127 00000 n
-0000370180 00000 n
-0000370217 00000 n
+0000361809 00000 n
+0000370119 00000 n
+0000370172 00000 n
+0000370209 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(H\020D>\303l\025u\254\373\222\302\316\033XF) (H\020D>\303l\025u\254\373\222\302\316\033XF)]
+ [(\011\222\304\354`>t@\335\330u\305\263\277\353\030) (\011\222\304\354`>t@\335\330u\305\263\277\353\030)]
  /Info 29 0 R /Root 28 0 R /Size 52 >>
 startxref
-370254
+370246
 %%EOF
