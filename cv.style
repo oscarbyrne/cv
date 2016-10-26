@@ -1,4 +1,4 @@
-embeddedFonts: [ [Roboto-Regular.ttf, Roboto-Bold.ttf, Roboto-Italic.ttf, Roboto-BoldItalic.ttf ] ]
+embeddedFonts: [ [PT_Sans-Web-Regular.ttf, PT_Sans-Web-Bold.ttf, PT_Sans-Web-Italic.ttf, PT_Sans-Web-BoldItalic.ttf ] ]
 
 pageSetup:
 	size: A4
@@ -13,10 +13,10 @@ pageSetup:
 	spacing-footer: 5mm
 
 fontsAlias:
-    stdFont: Roboto-Regular
-    stdBold: Roboto-Bold
-    stdItalic: Roboto-Italic
-    stdBoldItalic: Roboto-BoldItalic
+    stdFont: PT_Sans-Web-Regular
+    stdBold: PT_Sans-Web-Bold
+    stdItalic: PT_Sans-Web-Italic
+    stdBoldItalic: PT_Sans-Web-BoldItalic
 
 styles:
 	title:
