@@ -13,7 +13,7 @@ Oscar Byrne
 .. class:: right:
 
     | oscar.byrne@gmail.com     |email_me|
-    | https://oscarbyrne.me     |click_me|
+    | http://oscarbyrne.me      |click_me|
     | +44 7827276367            |phone_me|
 
 
