@@ -1,2 +1,3 @@
-cv.txt linguist-language=reStructuredText
-cv.style linguist-language=reStructuredText
+cv.txt linguist-language=reStructuredText linguist-documentation=false
+cv.style linguist-language=reStructuredText linguist-documentation=false
+cv.html linguist-generated=true
