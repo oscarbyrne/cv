@@ -40,9 +40,11 @@ After experiencing ‘start up’ and enterprise-style workplaces in the form of
 Work Experience
 ---------------
 
-Cisco, Software Engineer
-------------------------
+`Cisco, Software Engineer`__
+----------------------------
 | *January 2016 - July 2016*
+
+__ https://newsroom.cisco.com/press-release-content?type=webcontent&articleId=1729902
 
 Acano was acquired by Cisco for $700m, after which I was moved to a new agile team to develop a next-gen, **Android-based** product running on custom hardware. This involved building an **entirely new testing environment** using industry-standard technologies.
 
@@ -56,9 +58,11 @@ Acano was acquired by Cisco for $700m, after which I was moved to a new agile te
 
 |
 
-Acano, QA Engineer
-------------------
+`Acano, QA Engineer`__
+----------------------
 | *October 2014 – January 2016*
+
+__ https://www.acano.com/
 
 I joined the QA team at Acano in the first wave of graduate recruits. I initially worked on manual testing and writing test plans, but soon graduated to developing frameworks for **automated tests**.
 
@@ -71,9 +75,11 @@ I joined the QA team at Acano in the first wave of graduate recruits. I initiall
 
 |
 
-DESY IT Department, Summer Studentship
---------------------------------------
+`DESY, Summer Studentship Computing Program`__
+----------------------------------------------
 | *July 2013 – August 2013*
+
+__ http://www.desy.de/index_eng.html
 
 A 2 month paid internship working with the world's **most brilliant X-ray source** at DESY (Germany's answer to CERN). Aside from a minor project involving RPC technologies, I cut my teeth on Python developing an automated toolchain for processing tomographic images.
 
@@ -92,7 +98,10 @@ Hobbyist Portfolio
 
 Arduino-Based Synthesiser
 -------------------------
-| *https://github.com/oscarbyrne/grains*
+| |grains|_
+
+.. _grains: https://github.com/oscarbyrne/grains
+.. |grains| replace:: *https://github.com/oscarbyrne/grains*
 
 I became interested in the Arduino platform for generating audio after building some simple audio-based electronic circuits. This has involved developing my own **1-bit DAC**, requiring a **custom PWM** implementation, which I ultimately intend to output audio generated on the chip. Getting this close to the metal was a great experience, and I really enjoyed pushing the limits of the chip.
 
@@ -101,8 +110,14 @@ I became interested in the Arduino platform for generating audio after building 
 
 Python Meta-Programming
 -----------------------
-| *https://github.com/oscarbyrne/notes*
-| *https://github.com/oscarbyrne/vikings*
+| |notes|_
+| |vikings|_
+
+.. _notes: https://github.com/oscarbyrne/notes
+.. |notes| replace:: *https://github.com/oscarbyrne/notes*
+
+.. _vikings: https://github.com/oscarbyrne/vikings
+.. |vikings| replace:: *https://github.com/oscarbyrne/vikings*
 
 **I am interested in developing beautiful interfaces**, to the point where they almost become programming languages in their own right. Python’s high capacity for metaprogramming makes this possible. I have **2 projects** available on my github demonstrating this - ‘notes’, which is a tool for exploring music theory; and ‘vikings’, the latest iteration of a modern ‘text adventure’ game I have been toying with for several years (note this is very much a work in progress).
 
@@ -111,7 +126,10 @@ Python Meta-Programming
 
 This CV
 -------
-| *https://github.com/oscarbyrne/cv*
+| |cv|_
+
+.. _cv: https://github.com/oscarbyrne/cv
+.. |cv| replace:: *https://github.com/oscarbyrne/cv*
 
 I have written this CV with the help of the **reStructuredText syntax**. This is a markup language designed to compile easily to PDF and HTML, whilst remaining easily human-readable. I honestly think my CV is the best (looking) out there written using this language!
 
@@ -121,9 +139,11 @@ I have written this CV with the help of the **reStructuredText syntax**. This is
 Education
 ---------
 
-University of Birmingham, MSci Physics
---------------------------------------
+`University of Birmingham, MSci Physics`__
+------------------------------------------
 | *2010 - 2014*
+
+__ http://www.birmingham.ac.uk/undergraduate/courses/physics/physics-msci.aspx
 
 For my fourth year project I became involved with **front-line research** in metamaterials, and contributed to a project which was presented as part of the PIERS conference 2014 in China. I chose mostly computing-related modules, including:
 
@@ -134,8 +154,10 @@ For my fourth year project I became involved with **front-line research** in met
 
 |
 
-Sir Thomas Rich's School, Gloucester
-------------------------------------
+`Sir Thomas Rich's School, Gloucester`__
+----------------------------------------
+
+__ https://www.schoolguide.co.uk/schools/sir-thomas-richs-school-gloucester
 
 :A levels: A*, A, B, C
 :AS levels: B

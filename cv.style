@@ -18,6 +18,8 @@ fontsAlias:
     stdItalic: PT_Sans-Web-Italic
     stdBoldItalic: PT_Sans-Web-BoldItalic
 
+linkColor: black
+
 styles:
 	title:
 		alignment: left
