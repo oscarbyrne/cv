@@ -12,11 +12,11 @@ To generate cv.pdf
 
 .. code-block:: bash
 
-    rst2pdf cv.txt cv.pdf -s cv.style
+    rst2pdf cv.rst.txt cv.pdf -s cv.style
 
 To generate cv.html
 ===================
 
 .. code-block:: bash
 
-    rst2html.py cv.txt cv.html --stylesheet cv.css
+    rst2html.py cv.rst.txt cv.html --stylesheet cv.css
