@@ -32,7 +32,7 @@ Oscar Byrne
 Motivation
 ----------
 
-I'm a curious developer with a particular loyalty to Python, although I'll use whatever tool is best for the job. If I learn something new I like to learn how to use it *properly*. What you should know about me: there’s nothing better than a neat source file. That means: beautiful interfaces; good architecture; and, of course, following the style guidelines(!).
+I'm a curious developer with a particular loyalty to Python, although I'll use whatever tool is best for the job. If I learn something new I like to learn how to use it *properly*. What you should know about me: there’s nothing better than a neat source file. That means: beautiful interfaces; no fear for refactoring; and, of course, following the style guidelines(!).
 
 
 

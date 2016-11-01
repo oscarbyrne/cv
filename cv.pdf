@@ -3457,7 +3457,7 @@ endobj
 << /Outlines 39 0 R /PageLabels 59 0 R /PageMode /UseNone /Pages 56 0 R /Type /Catalog >>
 endobj
 38 0 obj
-<< /Author () /CreationDate (D:20161101123543+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161101123543+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20161101124433+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161101124433+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Oscar Byrne) /Trapped /False >>
 endobj
 39 0 obj
@@ -3520,7 +3520,7 @@ endobj
 << /Count 2 /Kids [ 13 0 R 20 0 R ] /Type /Pages >>
 endobj
 57 0 obj
-<< /Length 9020 >>
+<< /Length 9026 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -3575,7 +3575,7 @@ Q
 q
 1 0 0 1 20.17323 637.8819 cm
 q
-BT 1 0 0 1 0 26 Tm 1.722996 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (I'm a curious developer with a particular loyalty to Python, although I'll use whatever tool is best for the job. If I learn) Tj T* 0 Tw 1.227996 Tw (something new I like to learn how to use it ) Tj /F3+0 10 Tf 12 TL (properly) Tj /F2+0 10 Tf 12 TL (. What you should know about me: there\200s nothing better than a neat) Tj T* 0 Tw (source file. That means: beautiful interfaces; good architecture; and, of course, following the style guidelines\(!\).) Tj T* ET
+BT 1 0 0 1 0 26 Tm 1.722996 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (I'm a curious developer with a particular loyalty to Python, although I'll use whatever tool is best for the job. If I learn) Tj T* 0 Tw 1.227996 Tw (something new I like to learn how to use it ) Tj /F3+0 10 Tf 12 TL (properly) Tj /F2+0 10 Tf 12 TL (. What you should know about me: there\200s nothing better than a neat) Tj T* 0 Tw (source file. That means: beautiful interfaces; no fear for refactoring; and, of course, following the style guidelines\(!\).) Tj T* ET
 Q
 Q
 q
@@ -4345,15 +4345,15 @@ xref
 0000354530 00000 n
 0000354645 00000 n
 0000354716 00000 n
-0000363793 00000 n
-0000372270 00000 n
-0000372323 00000 n
-0000372360 00000 n
+0000363799 00000 n
+0000372276 00000 n
+0000372329 00000 n
+0000372366 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(y\034y~\374\025\271#\275\016!\253\273\001\000\247) (y\034y~\374\025\271#\275\016!\253\273\001\000\247)]
+ [(\371\016f,"7\004\260\220\365\275\256\341\0255]) (\371\016f,"7\004\260\220\365\275\256\341\0255])]
  /Info 38 0 R /Root 37 0 R /Size 62 >>
 startxref
-372397
+372403
 %%EOF
