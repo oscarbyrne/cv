@@ -1,0 +1,14 @@
+Dear Sir or Madame,
+
+Please find attached my CV in application for the QA Engineer position posted on Stack Overflow.
+
+This opportunity caught my eye as I have a keen interest in music, particularly music as data - you will see from my CV that I have pursued various music-based programming projects in my free time. 2 projects in particular - a command-line tool for exploring chord intervals and chord/scale relationships; and a granular synthesiser built on top of the Arduino platform - are available for download through my github, although I have also experimented with using Python to generate algorithmic audio. The idea of gaining work experience in music technology is quite exciting!
+
+In terms of QA, I have experience working in both start-up and enterprise style workplaces. That means I'm an automation evangelist, but I have the pragmatic experience which tells me when it's a better idea to keep things simple; In other words, I have a good knowledge of best practices and emerging tech but I'm not afraid to get my hands dirty with manual testing (I actually quite enjoy it!).
+
+It is important to note that I am currently based in Bristol. This means that I would have to work remotely, but would be happy making regular trips to London (and in fact already do) as my girlfriend is living there. I hope this won't be an issue as this position otherwise sounds perfect!
+
+Thank you for taking the time to consider this application - looking forward to hearing from you soon.
+
+Yours sincerely,
+Oscar Byrne
