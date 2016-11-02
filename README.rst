@@ -12,7 +12,7 @@ To generate cv.pdf
 
 .. code-block:: bash
 
-    rst2pdf cv.txt cv.pdf -s cv.style
+    rst2pdf cv.txt OscarByrneCV.pdf -s cv.style
 
 To generate cv.html
 ===================

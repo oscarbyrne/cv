@@ -17,13 +17,13 @@ Oscar Byrne
     | +44 7827276367            |phone_me|
 
 
-    .. |email_me| image:: ./images/email.png
+    .. |email_me| image:: ./img/email.png
                   :width: 1em
 
-    .. |click_me| image:: ./images/pointer.png
+    .. |click_me| image:: ./img/pointer.png
                   :width: 1em
 
-    .. |phone_me| image:: ./images/phone.png
+    .. |phone_me| image:: ./img/phone.png
                   :width: 1em
 
 
