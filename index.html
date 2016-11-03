@@ -10,8 +10,20 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans');
 
 html {
-    font-size: 1.25vw;
     font-family: 'PT Sans', sans-serif;
+}
+
+
+@media all and (min-width: 1280px) {
+    html {
+        font-size: 16px; /*Set upper limit for font size*/
+    }
+}
+
+@media all and (max-width: 1279px) {
+    html {
+        font-size: 1.25vw;
+    }
 }
 
 body {
