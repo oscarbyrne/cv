@@ -78,7 +78,7 @@ I joined the QA team at Acano in the first wave of graduate recruits. I initiall
 *Accomplishments:*
 ``````````````````
 - Wrote much of the **test plan** for our client software, greatly improving our manual test coverage. This had a noticeable effect on the stability of our product.
-- Was the sole QA on a project to deliver a **SIP to H323** bridge for the server component of our product. This involved working closely with a single developer.
+- Was the sole QA on a project to deliver a **SIP to H323** bridge for the server component of our product. This involved working closely with a single developer to a very short development cycle.
 - Designed and **developed the framework** for running automated tests on the next generation of our client software. There was no automation of the client prior to this, and some existing core systems had to be rewritten to accommodate the new module. The framework is a ‘write once run anywhere’ system, written in **Python** and **shell**, that runs tests on multiple platforms including: **Android, iOS, Windows, Mac** and various **web browsers**.
 
 
