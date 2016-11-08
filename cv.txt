@@ -61,8 +61,8 @@ Acano was acquired by Cisco for $700m, after which I was moved to a new agile te
 ``````````````````
 - Planned our overarching **test strategy**, reviewing existing technologies and methodologies.
 - Constructed an all-**hardware test lab**, including network provisions and remote power switching (there was a risk that early prototypes would burst into flames if left on overnight!)
-- Developed a **custom test runner** for our product able to: prepare the hardware for testing, run tests in parallel and collect useful reports including screenshots. This involved hacking in Gradle, Jtest and Python.
-- Developed a **continuous-integration** environment using technologies including: Jenkins, Phabricator and Docker.
+- Developed a custom **test runner** for our product able to: prepare the hardware for testing, run tests in parallel and collect useful reports including screenshots. This involved hacking in **Java**, **Gradle**, and **Python**.
+- Developed a **continuous-integration** environment using technologies including: **Jenkins**, **Phabricator** and **Docker**.
 
 
 |
@@ -79,7 +79,7 @@ I joined the QA team at Acano in the first wave of graduate recruits. I initiall
 ``````````````````
 - Wrote much of the **test plan** for our client software, greatly improving our manual test coverage. This had a noticeable effect on the stability of our product.
 - Was the sole QA on a project to deliver a **SIP to H323** bridge for the server component of our product. This involved working closely with a single developer.
-- Designed and **developed the framework** for running automated tests on the next generation of our client software. There was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate the new module. The framework is a ‘write once run anywhere’ system that runs tests on multiple platforms, including: **Android, iOS, Windows, Mac** and various **web browsers**.
+- Designed and **developed the framework** for running automated tests on the next generation of our client software. There was no automation of the client prior to this, and some existing core systems had to be rewritten to accommodate the new module. The framework is a ‘write once run anywhere’ system, written in **Python** and **shell**, that runs tests on multiple platforms including: **Android, iOS, Windows, Mac** and various **web browsers**.
 
 
 |
@@ -156,9 +156,9 @@ __ http://www.birmingham.ac.uk/undergraduate/courses/physics/physics-msci.aspx
 
 For my fourth year project I became involved with **front-line research** in metamaterials, and contributed to a project which was presented as part of the PIERS conference 2014 in China. I chose mostly computing-related modules, including:
 
+- **Computational Modelling of Physical Systems,** for which I implemented a dynamical billiards simulation using **C++**
 - **Teaching in Schools,** for which I spent 11 weeks teaching in a Primary school
 - **Image Processing,** which mostly focused on algorithms
-- **Computational Modelling of Physical Systems,** for which I implemented a dynamical billiards simulation using C++
 
 
 |

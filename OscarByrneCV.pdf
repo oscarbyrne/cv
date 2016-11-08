@@ -3457,7 +3457,7 @@ endobj
 << /Outlines 39 0 R /PageLabels 59 0 R /PageMode /UseNone /Pages 56 0 R /Type /Catalog >>
 endobj
 38 0 obj
-<< /Author () /CreationDate (D:20161102130908+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161102130908+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20161108143611+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161108143611+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Oscar Byrne) /Trapped /False >>
 endobj
 39 0 obj
@@ -3520,7 +3520,7 @@ endobj
 << /Count 2 /Kids [ 13 0 R 20 0 R ] /Type /Pages >>
 endobj
 57 0 obj
-<< /Length 9026 >>
+<< /Length 9446 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -3678,7 +3678,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm .008795 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Developed a ) Tj /F1+0 10 Tf 12 TL (custom test runner ) Tj /F2+0 10 Tf 12 TL (for our product able to: prepare the hardware for testing, run tests in parallel and collect) Tj T* 0 Tw (useful reports including screenshots. This involved hacking in Gradle, Jtest and Python.) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.645048 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Developed a custom ) Tj /F1+0 10 Tf 12 TL (test runner ) Tj /F2+0 10 Tf 12 TL (for our product able to: prepare the hardware for testing, run tests in parallel and) Tj T* 0 Tw (collect useful reports including screenshots. This involved hacking in ) Tj /F1+0 10 Tf 12 TL (Java) Tj /F2+0 10 Tf 12 TL (, ) Tj /F1+0 10 Tf 12 TL (Gradle) Tj /F2+0 10 Tf 12 TL (, and ) Tj /F1+0 10 Tf 12 TL (Python) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
@@ -3700,7 +3700,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Developed a ) Tj /F1+0 10 Tf 12 TL (continuous-integration ) Tj /F2+0 10 Tf 12 TL (environment using technologies including: Jenkins, Phabricator and Docker.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Developed a ) Tj /F1+0 10 Tf 12 TL (continuous-integration ) Tj /F2+0 10 Tf 12 TL (environment using technologies including: ) Tj /F1+0 10 Tf 12 TL (Jenkins) Tj /F2+0 10 Tf 12 TL (, ) Tj /F1+0 10 Tf 12 TL (Phabricator ) Tj /F2+0 10 Tf 12 TL (and ) Tj /F1+0 10 Tf 12 TL (Docker) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
@@ -3816,7 +3816,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 38 Tm .046818 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Designed and ) Tj /F1+0 10 Tf 12 TL (developed the framework ) Tj /F2+0 10 Tf 12 TL (for running automated tests on the next generation of our client software. There) Tj T* 0 Tw .663795 Tw (was no automation of the client prior to this, and some existing systems had to be rewritten to accommodate the new) Tj T* 0 Tw .504465 Tw (module. The framework is a \203write once run anywhere\200 system that runs tests on multiple platforms, including: ) Tj /F1+0 10 Tf 12 TL (Android,) Tj T* 0 Tw (iOS, Windows, Mac ) Tj /F2+0 10 Tf 12 TL (and various ) Tj /F1+0 10 Tf 12 TL (web browsers) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+BT 1 0 0 1 0 38 Tm .046818 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Designed and ) Tj /F1+0 10 Tf 12 TL (developed the framework ) Tj /F2+0 10 Tf 12 TL (for running automated tests on the next generation of our client software. There) Tj T* 0 Tw .641295 Tw (was no automation of the client prior to this, and some existing core systems had to be rewritten to accommodate the) Tj T* 0 Tw 1.725048 Tw (new module. The framework is a \203write once run anywhere\200 system, written in ) Tj /F1+0 10 Tf 12 TL (Python ) Tj /F2+0 10 Tf 12 TL (and ) Tj /F1+0 10 Tf 12 TL (shell) Tj /F2+0 10 Tf 12 TL (, that runs tests on) Tj T* 0 Tw (multiple platforms including: ) Tj /F1+0 10 Tf 12 TL (Android, iOS, Windows, Mac ) Tj /F2+0 10 Tf 12 TL (and various ) Tj /F1+0 10 Tf 12 TL (web browsers) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
@@ -3876,7 +3876,7 @@ Q
 endstream
 endobj
 58 0 obj
-<< /Length 8420 >>
+<< /Length 8444 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -4047,7 +4047,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL (Teaching in Schools, ) Tj /F2+0 10 Tf 12 TL (for which I spent 11 weeks teaching in a Primary school) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL (Computational Modelling of Physical Systems, ) Tj /F2+0 10 Tf 12 TL (for which I implemented a dynamical billiards simulation using ) Tj /F1+0 10 Tf 12 TL (C++) Tj T* ET
 Q
 Q
 q
@@ -4069,7 +4069,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL (Image Processing, ) Tj /F2+0 10 Tf 12 TL (which mostly focused on algorithms) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL (Teaching in Schools, ) Tj /F2+0 10 Tf 12 TL (for which I spent 11 weeks teaching in a Primary school) Tj T* ET
 Q
 Q
 q
@@ -4091,7 +4091,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL (Computational Modelling of Physical Systems, ) Tj /F2+0 10 Tf 12 TL (for which I implemented a dynamical billiards simulation using C++) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL (Image Processing, ) Tj /F2+0 10 Tf 12 TL (which mostly focused on algorithms) Tj T* ET
 Q
 Q
 q
@@ -4345,15 +4345,15 @@ xref
 0000354530 00000 n
 0000354645 00000 n
 0000354716 00000 n
-0000363799 00000 n
-0000372276 00000 n
-0000372329 00000 n
-0000372366 00000 n
+0000364219 00000 n
+0000372720 00000 n
+0000372773 00000 n
+0000372810 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\321\356WM\272\(\331\220\375\016\350l2\326\222,) (\321\356WM\272\(\331\220\375\016\350l2\326\222,)]
+ [(\230\2047\340+\255\2609\244\247\357n\252W\241r) (\230\2047\340+\255\2609\244\247\357n\252W\241r)]
  /Info 38 0 R /Root 37 0 R /Size 62 >>
 startxref
-372403
+372847
 %%EOF
