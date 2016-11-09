@@ -49,10 +49,10 @@ endobj
 << /A << /S /URI /Type /Action /URI (https://newsroom.cisco.com/press-release-content?type=webcontent&articleId=1729902) >> /Border [ 0 0 0 ] /Rect [ 20.17323 568.8819 178.7982 586.8819 ] /Subtype /Link /Type /Annot >>
 endobj
 11 0 obj
-<< /A << /S /URI /Type /Action /URI (https://www.acano.com/) >> /Border [ 0 0 0 ] /Rect [ 20.17323 356.8819 146.6682 374.8819 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://www.acano.com/) >> /Border [ 0 0 0 ] /Rect [ 20.17323 332.8819 146.6682 350.8819 ] /Subtype /Link /Type /Annot >>
 endobj
 12 0 obj
-<< /A << /S /URI /Type /Action /URI (http://www.desy.de/index_eng.html) >> /Border [ 0 0 0 ] /Rect [ 20.17323 138.8819 328.4532 156.8819 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://www.desy.de/index_eng.html) >> /Border [ 0 0 0 ] /Rect [ 20.17323 114.8819 328.4532 132.8819 ] /Subtype /Link /Type /Annot >>
 endobj
 13 0 obj
 << /Annots [ 4 0 R 7 0 R 10 0 R 11 0 R 12 0 R ] /Contents 57 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 56 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.10cdfd74be2cf6bdd85b8876d38c5037 2 0 R /FormXob.346690fbf632f0b04e2d880f0fd29677 5 0 R /FormXob.7eb4f60d873a9c0a9069579befa3c5c0 8 0 R >> >> /Rotate 0 
@@ -3457,7 +3457,7 @@ endobj
 << /Outlines 39 0 R /PageLabels 59 0 R /PageMode /UseNone /Pages 56 0 R /Type /Catalog >>
 endobj
 38 0 obj
-<< /Author () /CreationDate (D:20161108211235+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161108211235+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20161109133407+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161109133407+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Oscar Byrne) /Trapped /False >>
 endobj
 39 0 obj
@@ -3478,14 +3478,14 @@ endobj
 << /Dest [ 13 0 R /XYZ 20.17323 503.8819 0 ] /Parent 42 0 R /Title (Accomplishments:) >>
 endobj
 44 0 obj
-<< /Count 1 /Dest [ 13 0 R /XYZ 20.17323 374.8819 0 ] /First 45 0 R /Last 45 0 R /Next 46 0 R /Parent 41 0 R 
+<< /Count 1 /Dest [ 13 0 R /XYZ 20.17323 350.8819 0 ] /First 45 0 R /Last 45 0 R /Next 46 0 R /Parent 41 0 R 
   /Prev 42 0 R /Title (Acano, QA Engineer) >>
 endobj
 45 0 obj
-<< /Dest [ 13 0 R /XYZ 20.17323 303.8819 0 ] /Parent 44 0 R /Title (Accomplishments:) >>
+<< /Dest [ 13 0 R /XYZ 20.17323 279.8819 0 ] /Parent 44 0 R /Title (Accomplishments:) >>
 endobj
 46 0 obj
-<< /Dest [ 13 0 R /XYZ 20.17323 156.8819 0 ] /Parent 41 0 R /Prev 44 0 R /Title (DESY, Summer Studentship Computing Program) >>
+<< /Dest [ 13 0 R /XYZ 20.17323 132.8819 0 ] /Parent 41 0 R /Prev 44 0 R /Title (DESY, Summer Studentship Computing Program) >>
 endobj
 47 0 obj
 << /Count 3 /Dest [ 20 0 R /XYZ 34.34646 818.8819 0 ] /First 48 0 R /Last 50 0 R /Next 51 0 R /Parent 39 0 R 
@@ -3520,7 +3520,7 @@ endobj
 << /Count 2 /Kids [ 13 0 R 20 0 R ] /Type /Pages >>
 endobj
 57 0 obj
-<< /Length 9480 >>
+<< /Length 9470 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -3606,7 +3606,7 @@ Q
 q
 1 0 0 1 20.17323 508.8819 cm
 q
-BT 1 0 0 1 0 26 Tm .466472 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Acano was acquired by Cisco for $700m, after which I was moved to a new agile team to develop a next-gen, ) Tj /F1+0 10 Tf 12 TL (Android-based) Tj T* 0 Tw 1.453993 Tw /F2+0 10 Tf 12 TL (product running on custom hardware. This involved building an ) Tj /F1+0 10 Tf 12 TL (entirely new testing environment ) Tj /F2+0 10 Tf 12 TL (using industry-standard) Tj T* 0 Tw (technologies.) Tj T* ET
+BT 1 0 0 1 0 26 Tm .466472 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Acano was acquired by Cisco for $700m, after which I was moved to a new agile team to develop a next-gen, ) Tj /F1+0 10 Tf 12 TL (Android-based) Tj T* 0 Tw .545295 Tw /F2+0 10 Tf 12 TL (product running on custom hardware. This was a ) Tj /F1+0 10 Tf 12 TL (greenfield project) Tj /F2+0 10 Tf 12 TL (, and from the beginning I wanted our test strategy to be) Tj T* 0 Tw (the best it could possibly be.) Tj T* ET
 Q
 Q
 q
@@ -3622,29 +3622,7 @@ q
 1 0 0 1 20.17323 482.8819 cm
 Q
 q
-1 0 0 1 20.17323 470.8819 cm
-0 0 0 rg
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm 9.48 0 Td /F2+0 10 Tf 12 TL (\201) Tj T* -9.48 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Planned our overarching ) Tj /F1+0 10 Tf 12 TL (test strategy) Tj /F2+0 10 Tf 12 TL (, reviewing existing technologies and methodologies.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 20.17323 464.8819 cm
-Q
-q
-1 0 0 1 20.17323 440.8819 cm
+1 0 0 1 20.17323 458.8819 cm
 0 0 0 rg
 q
 1 0 0 1 6 9 cm
@@ -3656,17 +3634,17 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm 1.004119 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Constructed an all-) Tj /F1+0 10 Tf 12 TL (hardware test lab) Tj /F2+0 10 Tf 12 TL (, including network provisions and remote power switching \(there was a risk that) Tj T* 0 Tw (early prototypes would burst into flames if left on overnight!\)) Tj T* ET
+BT 1 0 0 1 0 14 Tm 3.134173 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Ensured build quality by developing a continuous-integration environment using technologies including: ) Tj /F1+0 10 Tf 12 TL (Jenkins) Tj /F2+0 10 Tf 12 TL (,) Tj T* 0 Tw /F1+0 10 Tf 12 TL (Phabricator ) Tj /F2+0 10 Tf 12 TL (and ) Tj /F1+0 10 Tf 12 TL (Docker) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20.17323 434.8819 cm
+1 0 0 1 20.17323 452.8819 cm
 Q
 q
-1 0 0 1 20.17323 410.8819 cm
+1 0 0 1 20.17323 428.8819 cm
 0 0 0 rg
 q
 1 0 0 1 6 9 cm
@@ -3678,20 +3656,20 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm 1.645048 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Developed a custom ) Tj /F1+0 10 Tf 12 TL (test runner ) Tj /F2+0 10 Tf 12 TL (for our product able to: prepare the hardware for testing, run tests in parallel and) Tj T* 0 Tw (collect useful reports including screenshots. This involved hacking in ) Tj /F1+0 10 Tf 12 TL (Java) Tj /F2+0 10 Tf 12 TL (, ) Tj /F1+0 10 Tf 12 TL (Gradle) Tj /F2+0 10 Tf 12 TL (, and ) Tj /F1+0 10 Tf 12 TL (Python) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .193661 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Optimised development cycle with a custom ) Tj /F1+0 10 Tf 12 TL (test runner ) Tj /F2+0 10 Tf 12 TL (able to run tests in parallel and collect useful reports, including) Tj T* 0 Tw (screenshots. This involved hacking in ) Tj /F1+0 10 Tf 12 TL (Java) Tj /F2+0 10 Tf 12 TL (, ) Tj /F1+0 10 Tf 12 TL (Gradle) Tj /F2+0 10 Tf 12 TL (, and ) Tj /F1+0 10 Tf 12 TL (Python) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20.17323 404.8819 cm
+1 0 0 1 20.17323 422.8819 cm
 Q
 q
-1 0 0 1 20.17323 392.8819 cm
+1 0 0 1 20.17323 398.8819 cm
 0 0 0 rg
 q
-1 0 0 1 6 -3 cm
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm 9.48 0 Td /F2+0 10 Tf 12 TL (\201) Tj T* -9.48 0 Td ET
@@ -3700,7 +3678,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Developed a ) Tj /F1+0 10 Tf 12 TL (continuous-integration ) Tj /F2+0 10 Tf 12 TL (environment using technologies including: ) Tj /F1+0 10 Tf 12 TL (Jenkins) Tj /F2+0 10 Tf 12 TL (, ) Tj /F1+0 10 Tf 12 TL (Phabricator ) Tj /F2+0 10 Tf 12 TL (and ) Tj /F1+0 10 Tf 12 TL (Docker) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+BT 1 0 0 1 0 14 Tm 2.968993 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Improved test validity by constructing an all-) Tj /F1+0 10 Tf 12 TL (hardware test lab) Tj /F2+0 10 Tf 12 TL (, including network provisions and remote power) Tj T* 0 Tw (switching \(there was a risk that early prototypes would burst into flames if left on overnight!\).) Tj T* ET
 Q
 Q
 q
@@ -3710,57 +3688,79 @@ q
 1 0 0 1 20.17323 392.8819 cm
 Q
 q
-1 0 0 1 20.17323 386.8819 cm
+1 0 0 1 20.17323 368.8819 cm
+0 0 0 rg
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9.48 0 Td /F2+0 10 Tf 12 TL (\201) Tj T* -9.48 0 Td ET
+Q
 Q
 q
-1 0 0 1 20.17323 374.8819 cm
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .82685 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Encouraged a move towards behaviour-driven development \(BDD\) by developing a ) Tj /F1+0 10 Tf 12 TL (Java framework ) Tj /F2+0 10 Tf 12 TL (for writing concise,) Tj T* 0 Tw (human-readable tests.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 368.8819 cm
+Q
+q
+1 0 0 1 20.17323 362.8819 cm
+Q
+q
+1 0 0 1 20.17323 350.8819 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (\202) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20.17323 374.8819 cm
-Q
-q
-1 0 0 1 20.17323 356.8819 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL 0 0 0 rg /F1+0 15 Tf 18 TL (Acano, QA Engineer) Tj T* ET
 Q
 Q
 q
 1 0 0 1 20.17323 350.8819 cm
 Q
 q
-1 0 0 1 20.17323 338.8819 cm
+1 0 0 1 20.17323 332.8819 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL 0 0 0 rg /F1+0 15 Tf 18 TL (Acano, QA Engineer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 326.8819 cm
+Q
+q
+1 0 0 1 20.17323 314.8819 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (October 2014 \200 January 2016) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20.17323 338.8819 cm
+1 0 0 1 20.17323 314.8819 cm
 Q
 q
-1 0 0 1 20.17323 308.8819 cm
+1 0 0 1 20.17323 284.8819 cm
 q
-BT 1 0 0 1 0 14 Tm 1.220268 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (I joined the QA team at Acano in the first wave of graduate recruits. I initially worked on manual testing and writing test) Tj T* 0 Tw (plans, but soon graduated to developing frameworks for ) Tj /F1+0 10 Tf 12 TL (automated tests) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.295996 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (I joined the QA team at Acano in the first wave of graduate recruits. Proving myself with manual testing and writing test) Tj T* 0 Tw (plans, I soon graduated to developing frameworks for ) Tj /F1+0 10 Tf 12 TL (automated tests) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20.17323 288.8819 cm
+1 0 0 1 20.17323 264.8819 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL 0 0 0 rg /F4+0 12.5 Tf 15 TL (Accomplishments:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20.17323 282.8819 cm
-Q
-q
-1 0 0 1 20.17323 282.8819 cm
+1 0 0 1 20.17323 258.8819 cm
 Q
 q
 1 0 0 1 20.17323 258.8819 cm
+Q
+q
+1 0 0 1 20.17323 234.8819 cm
 0 0 0 rg
 q
 1 0 0 1 6 9 cm
@@ -3772,42 +3772,20 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm .635048 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Wrote much of the ) Tj /F1+0 10 Tf 12 TL (test plan ) Tj /F2+0 10 Tf 12 TL (for our client software, greatly improving our manual test coverage. This had a noticeable) Tj T* 0 Tw (effect on the stability of our product.) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.631363 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Greatly improved our manual test coverage by rewriting much of the ) Tj /F1+0 10 Tf 12 TL (test plan) Tj /F2+0 10 Tf 12 TL (. This had a noticeable effect on the) Tj T* 0 Tw (stability of our product.) Tj T* ET
 Q
 Q
 q
 Q
-Q
-q
-1 0 0 1 20.17323 252.8819 cm
 Q
 q
 1 0 0 1 20.17323 228.8819 cm
+Q
+q
+1 0 0 1 20.17323 216.8819 cm
 0 0 0 rg
 q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm 9.48 0 Td /F2+0 10 Tf 12 TL (\201) Tj T* -9.48 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 14 Tm 1.062541 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Was the sole QA on a project to deliver a ) Tj /F1+0 10 Tf 12 TL (SIP to H323 ) Tj /F2+0 10 Tf 12 TL (bridge for the server component of our product. This involved) Tj T* 0 Tw (working closely with a single developer to a very short development cycle.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 20.17323 222.8819 cm
-Q
-q
-1 0 0 1 20.17323 174.8819 cm
-0 0 0 rg
-q
-1 0 0 1 6 33 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm 9.48 0 Td /F2+0 10 Tf 12 TL (\201) Tj T* -9.48 0 Td ET
@@ -3816,55 +3794,77 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 38 Tm .046818 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Designed and ) Tj /F1+0 10 Tf 12 TL (developed the framework ) Tj /F2+0 10 Tf 12 TL (for running automated tests on the next generation of our client software. There) Tj T* 0 Tw .641295 Tw (was no automation of the client prior to this, and some existing core systems had to be rewritten to accommodate the) Tj T* 0 Tw 1.725048 Tw (new module. The framework is a \203write once run anywhere\200 system, written in ) Tj /F1+0 10 Tf 12 TL (Python ) Tj /F2+0 10 Tf 12 TL (and ) Tj /F1+0 10 Tf 12 TL (shell) Tj /F2+0 10 Tf 12 TL (, that runs tests on) Tj T* 0 Tw (multiple platforms including: ) Tj /F1+0 10 Tf 12 TL (Android, iOS, Windows, Mac ) Tj /F2+0 10 Tf 12 TL (and various ) Tj /F1+0 10 Tf 12 TL (web browsers) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Helped to quickly deliver a very technical component \() Tj /F1+0 10 Tf 12 TL (SIP to H323 ) Tj /F2+0 10 Tf 12 TL (bridge\) by working closely with a single developer.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20.17323 174.8819 cm
+1 0 0 1 20.17323 210.8819 cm
 Q
 q
-1 0 0 1 20.17323 168.8819 cm
+1 0 0 1 20.17323 150.8819 cm
+0 0 0 rg
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9.48 0 Td /F2+0 10 Tf 12 TL (\201) Tj T* -9.48 0 Td ET
+Q
 Q
 q
-1 0 0 1 20.17323 156.8819 cm
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 50 Tm 1.95306 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Drastically reduced the development cycle for our client software by championing test automation. I designed and) Tj T* 0 Tw .791439 Tw (implemented the automation framework, written in ) Tj /F1+0 10 Tf 12 TL (Python ) Tj /F2+0 10 Tf 12 TL (and ) Tj /F1+0 10 Tf 12 TL (shell) Tj /F2+0 10 Tf 12 TL (, from the ground up to be usable by testers with) Tj T* 0 Tw .768993 Tw (minimal programming experience. This involved rewriting existing core systems to accommodate the new module and) Tj T* 0 Tw .513877 Tw (implementing a \203write once run anywhere\200 system able to run tests on platforms including: ) Tj /F1+0 10 Tf 12 TL (Android, iOS, Windows, Mac) Tj T* 0 Tw /F2+0 10 Tf 12 TL (and various ) Tj /F1+0 10 Tf 12 TL (web browsers) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 150.8819 cm
+Q
+q
+1 0 0 1 20.17323 144.8819 cm
+Q
+q
+1 0 0 1 20.17323 132.8819 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (\202) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20.17323 156.8819 cm
+1 0 0 1 20.17323 132.8819 cm
 Q
 q
-1 0 0 1 20.17323 138.8819 cm
+1 0 0 1 20.17323 114.8819 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL 0 0 0 rg /F1+0 15 Tf 18 TL (DESY, Summer Studentship Computing Program) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20.17323 132.8819 cm
+1 0 0 1 20.17323 108.8819 cm
 Q
 q
-1 0 0 1 20.17323 120.8819 cm
+1 0 0 1 20.17323 96.88189 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F3+0 10 Tf 12 TL (July 2013 \200 August 2013) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20.17323 120.8819 cm
+1 0 0 1 20.17323 96.88189 cm
 Q
 q
-1 0 0 1 20.17323 78.88189 cm
+1 0 0 1 20.17323 54.88189 cm
 q
 BT 1 0 0 1 0 26 Tm .855574 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (A 2 month paid internship working with the world's ) Tj /F1+0 10 Tf 12 TL (most brilliant X-ray source ) Tj /F2+0 10 Tf 12 TL (at DESY \(Germany's answer to CERN\). Aside) Tj T* 0 Tw .270328 Tw (from a minor project involving RPC technologies, I cut my teeth on Python developing an automated toolchain for processing) Tj T* 0 Tw (tomographic images.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20.17323 78.88189 cm
+1 0 0 1 20.17323 54.88189 cm
 Q
 q
 1 0 0 1 14.17323 14.17323 cm
@@ -4345,15 +4345,15 @@ xref
 0000354530 00000 n
 0000354645 00000 n
 0000354716 00000 n
-0000364253 00000 n
-0000372754 00000 n
-0000372807 00000 n
-0000372844 00000 n
+0000364243 00000 n
+0000372744 00000 n
+0000372797 00000 n
+0000372834 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\275Ah\323\225Q\011\357\216\032\001\312\236=\021\236) (\275Ah\323\225Q\011\357\216\032\001\312\236=\021\236)]
+ [(\320\375\265\324\306U@;9\254U\254\221\315~\214) (\320\375\265\324\306U@;9\254U\254\221\315~\214)]
  /Info 38 0 R /Root 37 0 R /Size 62 >>
 startxref
-372881
+372871
 %%EOF

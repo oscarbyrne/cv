@@ -55,14 +55,15 @@ Work Experience
 
 __ https://newsroom.cisco.com/press-release-content?type=webcontent&articleId=1729902
 
-Acano was acquired by Cisco for $700m, after which I was moved to a new agile team to develop a next-gen, **Android-based** product running on custom hardware. This involved building an **entirely new testing environment** using industry-standard technologies.
+Acano was acquired by Cisco for $700m, after which I was moved to a new agile team to develop a next-gen, **Android-based** product running on custom hardware. This was a **greenfield project**, and from the beginning I wanted our test strategy to be the best it could possibly be.
 
 *Accomplishments:*
 ``````````````````
-- Planned our overarching **test strategy**, reviewing existing technologies and methodologies.
-- Constructed an all-**hardware test lab**, including network provisions and remote power switching (there was a risk that early prototypes would burst into flames if left on overnight!)
-- Developed a custom **test runner** for our product able to: prepare the hardware for testing, run tests in parallel and collect useful reports including screenshots. This involved hacking in **Java**, **Gradle**, and **Python**.
-- Developed a **continuous-integration** environment using technologies including: **Jenkins**, **Phabricator** and **Docker**.
+- Ensured build quality by developing a continuous-integration environment using technologies including: **Jenkins**, **Phabricator** and **Docker**.
+- Optimised development cycle with a custom **test runner** able to run tests in parallel and collect useful reports, including screenshots. This involved hacking in **Java**, **Gradle**, and **Python**.
+- Improved test validity by constructing an all-**hardware test lab**, including network provisions and remote power switching (there was a risk that early prototypes would burst into flames if left on overnight!).
+- Encouraged a move towards behaviour-driven development (BDD) by developing a **Java framework** for writing concise, human-readable tests.
+
 
 
 |
@@ -73,13 +74,13 @@ Acano was acquired by Cisco for $700m, after which I was moved to a new agile te
 
 __ https://www.acano.com/
 
-I joined the QA team at Acano in the first wave of graduate recruits. I initially worked on manual testing and writing test plans, but soon graduated to developing frameworks for **automated tests**.
+I joined the QA team at Acano in the first wave of graduate recruits. Proving myself with manual testing and writing test plans, I soon graduated to developing frameworks for **automated tests**.
 
 *Accomplishments:*
 ``````````````````
-- Wrote much of the **test plan** for our client software, greatly improving our manual test coverage. This had a noticeable effect on the stability of our product.
-- Was the sole QA on a project to deliver a **SIP to H323** bridge for the server component of our product. This involved working closely with a single developer to a very short development cycle.
-- Designed and **developed the framework** for running automated tests on the next generation of our client software. There was no automation of the client prior to this, and some existing core systems had to be rewritten to accommodate the new module. The framework is a ‘write once run anywhere’ system, written in **Python** and **shell**, that runs tests on multiple platforms including: **Android, iOS, Windows, Mac** and various **web browsers**.
+- Greatly improved our manual test coverage by rewriting much of the **test plan**. This had a noticeable effect on the stability of our product.
+- Helped to quickly deliver a very technical component (**SIP to H323** bridge) by working closely with a single developer.
+- Drastically reduced the development cycle for our client software by championing test automation. I designed and implemented the automation framework, written in **Python** and **shell**, from the ground up to be usable by testers with minimal programming experience. This involved rewriting existing core systems to accommodate the new module and implementing a ‘write once run anywhere’ system able to run tests on platforms including: **Android, iOS, Windows, Mac** and various **web browsers**.
 
 
 |
