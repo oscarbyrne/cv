@@ -60,7 +60,7 @@ Acano was acquired by Cisco for $700m, after which I was moved to a new agile te
 *Accomplishments:*
 ``````````````````
 - Ensured build quality by developing a continuous-integration environment using technologies including: **Jenkins**, **Phabricator** and **Docker**.
-- Optimised development cycle with a custom **test runner** able to run tests in parallel and collect useful reports, including screenshots. This involved hacking in **Java**, **Gradle**, and **Python**.
+- Optimised development cycle with a custom **test runner** able to run tests in parallel, and collect useful reports including screenshots. This involved hacking in **Java**, **Gradle**, and **Python**.
 - Improved test validity by constructing an all-**hardware test lab**, including network provisions and remote power switching (there was a risk that early prototypes would burst into flames if left on overnight!).
 - Encouraged a move towards behaviour-driven development (BDD) by developing a **Java framework** for writing concise, human-readable tests.
 
