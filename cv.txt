@@ -80,7 +80,7 @@ I joined the QA team at Acano in the first wave of graduate recruits. Proving my
 ``````````````````
 - Greatly improved our manual test coverage by rewriting much of the **test plan**. This had a noticeable effect on the stability of our product.
 - Contributed to intranet website written using **Django**, including writing new **HTML templates** and data models.
-- Drastically reduced the development cycle for our client software by championing test automation. I designed and implemented the automation framework, written in **Python** and **shell**, from the ground up to be usable by testers with minimal programming experience. This involved rewriting existing core systems to accommodate the new module and implementing a ‘write once run anywhere’ system able to run tests on platforms including: **Android, iOS, Windows, Mac** and various **web browsers**.
+- Drastically reduced the development cycle for our client software by championing test automation. I designed and implemented the automation framework, written in **Python** and **shell**, from the ground up to be usable by testers with minimal programming experience. This involved rewriting existing core systems to accommodate the new module and implementing a ‘write once run anywhere’ system able to run tests on platforms including: **Android, iOS, Windows, Mac** and various **web browsers**. For this I used a combination of **Selenium** and **Appium**.
 
 
 |
