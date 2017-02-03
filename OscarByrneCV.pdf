@@ -3457,7 +3457,7 @@ endobj
 << /Outlines 39 0 R /PageLabels 59 0 R /PageMode /UseNone /Pages 56 0 R /Type /Catalog >>
 endobj
 38 0 obj
-<< /Author () /CreationDate (D:20161113123934+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161113123934+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20170203134826+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170203134826+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Oscar Byrne) /Trapped /False >>
 endobj
 39 0 obj
@@ -3520,7 +3520,7 @@ endobj
 << /Count 2 /Kids [ 13 0 R 20 0 R ] /Type /Pages >>
 endobj
 57 0 obj
-<< /Length 9470 >>
+<< /Length 9653 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -3700,7 +3700,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm .82685 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Encouraged a move towards behaviour-driven development \(BDD\) by developing a ) Tj /F1+0 10 Tf 12 TL (Java framework ) Tj /F2+0 10 Tf 12 TL (for writing concise,) Tj T* 0 Tw (human-readable tests.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .82685 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Encouraged a move towards behaviour-driven development \(BDD\) by developing a ) Tj /F1+0 10 Tf 12 TL (Java framework ) Tj /F2+0 10 Tf 12 TL (for writing concise,) Tj T* 0 Tw (human-readable tests using ) Tj /F1+0 10 Tf 12 TL (Espresso) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
@@ -3816,7 +3816,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 50 Tm 1.95306 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Drastically reduced the development cycle for our client software by championing test automation. I designed and) Tj T* 0 Tw .791439 Tw (implemented the automation framework, written in ) Tj /F1+0 10 Tf 12 TL (Python ) Tj /F2+0 10 Tf 12 TL (and ) Tj /F1+0 10 Tf 12 TL (shell) Tj /F2+0 10 Tf 12 TL (, from the ground up to be usable by testers with) Tj T* 0 Tw .768993 Tw (minimal programming experience. This involved rewriting existing core systems to accommodate the new module and) Tj T* 0 Tw .513877 Tw (implementing a \203write once run anywhere\200 system able to run tests on platforms including: ) Tj /F1+0 10 Tf 12 TL (Android, iOS, Windows, Mac) Tj T* 0 Tw /F2+0 10 Tf 12 TL (and various ) Tj /F1+0 10 Tf 12 TL (web browsers) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+BT 1 0 0 1 0 50 Tm 1.95306 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Drastically reduced the development cycle for our client software by championing test automation. I designed and) Tj T* 0 Tw .791439 Tw (implemented the automation framework, written in ) Tj /F1+0 10 Tf 12 TL (Python ) Tj /F2+0 10 Tf 12 TL (and ) Tj /F1+0 10 Tf 12 TL (shell) Tj /F2+0 10 Tf 12 TL (, from the ground up to be usable by testers with) Tj T* 0 Tw .768993 Tw (minimal programming experience. This involved rewriting existing core systems to accommodate the new module and) Tj T* 0 Tw .513877 Tw (implementing a \203write once run anywhere\200 system able to run tests on platforms including: ) Tj /F1+0 10 Tf 12 TL (Android, iOS, Windows, Mac) Tj T* 0 Tw /F2+0 10 Tf 12 TL (and various ) Tj /F1+0 10 Tf 12 TL (web browsers ) Tj /F2+0 10 Tf 12 TL (via ) Tj /F1+0 10 Tf 12 TL (Selenium ) Tj /F2+0 10 Tf 12 TL (and ) Tj /F1+0 10 Tf 12 TL (Appium) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
@@ -4345,15 +4345,15 @@ xref
 0000354530 00000 n
 0000354645 00000 n
 0000354716 00000 n
-0000364243 00000 n
-0000372744 00000 n
-0000372797 00000 n
-0000372834 00000 n
+0000364426 00000 n
+0000372927 00000 n
+0000372980 00000 n
+0000373017 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\323|\002\364<\207W\335\275\203\203;\323\377\000\007) (\323|\002\364<\207W\335\275\203\203;\323\377\000\007)]
+ [(H\005\325\343\222\234w\315Mo\\\205yV2\243) (H\005\325\343\222\234w\315Mo\\\205yV2\243)]
  /Info 38 0 R /Root 37 0 R /Size 62 >>
 startxref
-372871
+373054
 %%EOF
