@@ -59,10 +59,10 @@ Acano was acquired by Cisco for $700m, after which I was moved to a new agile te
 
 *Accomplishments:*
 ``````````````````
-- Ensured build quality by developing a continuous-integration environment using technologies including: **Jenkins**, **Phabricator** and **Docker**.
+- Encouraged a move towards behaviour-driven development (BDD) by developing a **Java framework** for writing concise, human-readable tests using **Espresso**.
 - Optimised development cycle with a custom **test runner** able to run tests in parallel, and collect useful reports including screenshots. This involved hacking in **Java**, **Gradle**, and **Python**.
 - Improved test validity by constructing an all-**hardware test lab**, including network provisions and remote power switching (there was a risk that early prototypes would burst into flames if left on overnight!).
-- Encouraged a move towards behaviour-driven development (BDD) by developing a **Java framework** for writing concise, human-readable tests using **Espresso**.
+- Ensured build quality by developing a continuous-integration environment using technologies including: **Jenkins**, **Phabricator** and **Docker**.
 
 
 
@@ -78,8 +78,8 @@ I joined the QA team at Acano in the first wave of graduate recruits. Proving my
 
 *Accomplishments:*
 ``````````````````
-- Greatly improved our manual test coverage by rewriting much of the **test plan**. This had a noticeable effect on the stability of our product.
-- Helped to quickly deliver a very technical component (**SIP to H323** bridge) by working closely with a single developer.
+- Noticeably improved the stability of our product by rewriting much of the manual **test plan**.
+- Expected to design and debug telecommunication **networks**, acquiring knowledge of debugging tools such as **Wireshark** and protocols including **SIP** and **H323**.
 - Drastically reduced the development cycle for our client software by championing test automation. I designed and implemented the automation framework, written in **Python** and **shell**, from the ground up to be usable by testers with minimal programming experience. This involved rewriting existing core systems to accommodate the new module and implementing a ‘write once run anywhere’ system able to run tests on platforms including: **Android, iOS, Windows, Mac** and various **web browsers** via **Selenium** and **Appium**.
 
 

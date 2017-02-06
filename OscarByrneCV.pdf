@@ -3457,7 +3457,7 @@ endobj
 << /Outlines 39 0 R /PageLabels 59 0 R /PageMode /UseNone /Pages 56 0 R /Type /Catalog >>
 endobj
 38 0 obj
-<< /Author () /CreationDate (D:20170203134826+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170203134826+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20170206201735+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170206201735+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Oscar Byrne) /Trapped /False >>
 endobj
 39 0 obj
@@ -3520,7 +3520,7 @@ endobj
 << /Count 2 /Kids [ 13 0 R 20 0 R ] /Type /Pages >>
 endobj
 57 0 obj
-<< /Length 9653 >>
+<< /Length 9774 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -3634,7 +3634,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm 3.134173 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Ensured build quality by developing a continuous-integration environment using technologies including: ) Tj /F1+0 10 Tf 12 TL (Jenkins) Tj /F2+0 10 Tf 12 TL (,) Tj T* 0 Tw /F1+0 10 Tf 12 TL (Phabricator ) Tj /F2+0 10 Tf 12 TL (and ) Tj /F1+0 10 Tf 12 TL (Docker) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .82685 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Encouraged a move towards behaviour-driven development \(BDD\) by developing a ) Tj /F1+0 10 Tf 12 TL (Java framework ) Tj /F2+0 10 Tf 12 TL (for writing concise,) Tj T* 0 Tw (human-readable tests using ) Tj /F1+0 10 Tf 12 TL (Espresso) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
@@ -3700,7 +3700,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm .82685 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Encouraged a move towards behaviour-driven development \(BDD\) by developing a ) Tj /F1+0 10 Tf 12 TL (Java framework ) Tj /F2+0 10 Tf 12 TL (for writing concise,) Tj T* 0 Tw (human-readable tests using ) Tj /F1+0 10 Tf 12 TL (Espresso) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+BT 1 0 0 1 0 14 Tm 3.134173 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Ensured build quality by developing a continuous-integration environment using technologies including: ) Tj /F1+0 10 Tf 12 TL (Jenkins) Tj /F2+0 10 Tf 12 TL (,) Tj T* 0 Tw /F1+0 10 Tf 12 TL (Phabricator ) Tj /F2+0 10 Tf 12 TL (and ) Tj /F1+0 10 Tf 12 TL (Docker) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
@@ -3760,29 +3760,7 @@ q
 1 0 0 1 20.17323 258.8819 cm
 Q
 q
-1 0 0 1 20.17323 234.8819 cm
-0 0 0 rg
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm 9.48 0 Td /F2+0 10 Tf 12 TL (\201) Tj T* -9.48 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 14 Tm 1.631363 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Greatly improved our manual test coverage by rewriting much of the ) Tj /F1+0 10 Tf 12 TL (test plan) Tj /F2+0 10 Tf 12 TL (. This had a noticeable effect on the) Tj T* 0 Tw (stability of our product.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 20.17323 228.8819 cm
-Q
-q
-1 0 0 1 20.17323 216.8819 cm
+1 0 0 1 20.17323 246.8819 cm
 0 0 0 rg
 q
 1 0 0 1 6 -3 cm
@@ -3794,7 +3772,29 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Helped to quickly deliver a very technical component \() Tj /F1+0 10 Tf 12 TL (SIP to H323 ) Tj /F2+0 10 Tf 12 TL (bridge\) by working closely with a single developer.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Noticeably improved the stability of our product by rewriting much of the manual ) Tj /F1+0 10 Tf 12 TL (test plan) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 240.8819 cm
+Q
+q
+1 0 0 1 20.17323 216.8819 cm
+0 0 0 rg
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm 9.48 0 Td /F2+0 10 Tf 12 TL (\201) Tj T* -9.48 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .298279 Tw 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Expected to design and debug telecommunication ) Tj /F1+0 10 Tf 12 TL (networks) Tj /F2+0 10 Tf 12 TL (, acquiring knowledge of debugging tools such as ) Tj /F1+0 10 Tf 12 TL (Wireshark) Tj T* 0 Tw /F2+0 10 Tf 12 TL (and protocols including ) Tj /F1+0 10 Tf 12 TL (SIP ) Tj /F2+0 10 Tf 12 TL (and ) Tj /F1+0 10 Tf 12 TL (H323) Tj /F2+0 10 Tf 12 TL (.) Tj T* ET
 Q
 Q
 q
@@ -4345,15 +4345,15 @@ xref
 0000354530 00000 n
 0000354645 00000 n
 0000354716 00000 n
-0000364426 00000 n
-0000372927 00000 n
-0000372980 00000 n
-0000373017 00000 n
+0000364547 00000 n
+0000373048 00000 n
+0000373101 00000 n
+0000373138 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(H\005\325\343\222\234w\315Mo\\\205yV2\243) (H\005\325\343\222\234w\315Mo\\\205yV2\243)]
+ [(s5\3404\240m\344;\006\332i\206&\250\331\014) (s5\3404\240m\344;\006\332i\206&\250\331\014)]
  /Info 38 0 R /Root 37 0 R /Size 62 >>
 startxref
-373054
+373175
 %%EOF
