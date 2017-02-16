@@ -49,8 +49,8 @@ I'm a curious developer with a particular loyalty to Python, although I'll use w
 Work Experience
 ---------------
 
-`Cisco, Software Engineer`__
-----------------------------
+`Cisco (acquired Acano), Software Engineer`__
+---------------------------------------------
 | *January 2016 - July 2016*
 
 __ https://newsroom.cisco.com/press-release-content?type=webcontent&articleId=1729902
@@ -149,8 +149,8 @@ I have written this CV with the help of the **reStructuredText syntax**. This is
 Education
 ---------
 
-`University of Birmingham, MSci Physics`__
-------------------------------------------
+`University of Birmingham, MSci Physics (2:1)`__
+------------------------------------------------
 | *2010 - 2014*
 
 __ http://www.birmingham.ac.uk/undergraduate/courses/physics/physics-msci.aspx
