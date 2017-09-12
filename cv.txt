@@ -23,7 +23,7 @@ Oscar Byrne
 
     | oscar.byrne@gmail.com     |email_me|
     | http://oscarbyrne.me      |click_me|
-    | +44 7827276367            |phone_me|
+    | +1 (604)-355-1519         |phone_me|
 
 
     .. |email_me| image:: ./img/email.png
@@ -55,12 +55,12 @@ Work Experience
 
 __ https://www.ultrahaptics.com/
 
-I joined Ultrahaptics around the time that the company was expanding quickly and a new server room was being installed which was due to hugely increase our available compute. This gave me a unique chance to treat it as a green-field project where I was able to leave my mark in a meaningful way.
+I joined Ultrahaptics around the time that a new server room was being installed which was due to hugely increase our available compute. This gave me a unique chance to treat my short time there as a green-field project where I was able to leave my mark in a meaningful way.
 
 *Accomplishments:*
 ``````````````````
-- Maintained existing infrastructure - responsible for provisioning machines, maintaining CI pipeline and putting out fires as they came up.
-- Laid the ground work for transitioning to maintaining infrastructure as code by developing an immutable infrastructure pipeline able to provision golden images from the ISO up, test they function as expected and deploy them to the production network on a nightly basis. This involved using Ansible, Packer, Boxstarter and Jenkins Swarm.
+- Maintained existing infrastructure - responsible for provisioning nodes, maintaining **TeamCity CI pipeline** and putting out fires as they came up. This network was a mix of **Windows** and **Macintosh** machines, real and virtual.
+- Roadmapped a transition to maintaining **infrastructure as code** by developing a proof of concept **immutable server continuous deployment pipeline** able to: provision golden images from the ISO up, test they are fit for purpose and deploy them to the production network. This involved combining **Ansible, Packer, Boxstarter and Jenkins Swarm** using **Python, PowerShell and Bash**.
 
 
 |
@@ -75,9 +75,9 @@ I joined Acano during its start-up phase as part of the first wave of graduates,
 
 *Accomplishments:*
 ``````````````````
-- Acquired an understanding and appreciation for networking concepts through debugging industry-standard (and not so standard) telecoms deployments
-- Made a move from waterfall to agile development possible and helped improve cross-platform consistency by championing test automation. I developed a test framework, built on Selenium and Appium, able to run the same set of behavior-driven tests on platforms including **Android, iOS, Windows, Mac** and various **web browsers**. This was a self-motivated project (had enough of manual testing!)
-- Saw our beta testers increase from a handful within the office to thousands through the Cisco Beta Program. This was a change of scale that was only made possible by increased confidence in our code thanks to a comprehensive test strategy and continuous integration, both of which I was responsible for.
+- Introduced to **networking concepts** debugging industry standard (and not so standard!) **VOIP deployments**.
+- Made a move from waterfall to agile development possible and helped improve cross-platform consistency by championing **test automation**. I developed a test framework, built on **Selenium and Appium**, able to run the same set of behavior-driven tests on platforms including **Android, iOS, Windows, Mac** and various **web browsers**. In developing this framework I wanted it to be accessible as possible to people with limited computing experience - I essentially used **Python** to create a DSL for tests using the **page object** pattern.
+- Saw our beta testers increase from a handful within the office to thousands through the Cisco Beta Program. This was a change of scale that was only made possible by increased confidence in our code thanks to a comprehensive **test strategy** and reliable **continuous integration**, both of which I was responsible for. As this was an **Android-based** project with **experimental hardware** this presented some challenges - for example, there were worries a test rig could burst into flames if left on overnight - and involved hacking on multiple levels with **Java, Groovy, Python, Jenkins and Phabricator**.
 
 
 |
@@ -103,6 +103,18 @@ A 2 month paid internship working with the world's **most brilliant X-ray source
 Hobbyist Portfolio
 ------------------
 
+Experiments combining Python and Bash
+-------------------------------------
+| |pysh|_
+
+.. _pysh: https://github.com/oscarbyrne/pysh
+.. |pysh| replace:: *https://github.com/oscarbyrne/pysh*
+
+I often find projects start with a Bash script. It's a great language for stitching together external tools or doing weird things with the file system. Despite that certain operations might as well be black magic in terms of readability, and sometimes a feature just isn't there (no hash tables before Bash 4?!). That's why I came up with a tool - Pysh - which gives you a **persistent Python interpreter** which is easily accessed **inline from Bash**. This was a great learning experience for me where I gained an appreciation for the difference between in- and out-of-band **signalling**, and what exactly a **fifo** is good for.
+
+
+|
+
 Arduino-Based Synthesiser
 -------------------------
 | |grains|_
@@ -115,31 +127,14 @@ I became interested in the Arduino platform for generating audio after building 
 
 |
 
-Python Meta-Programming
------------------------
+Music theory with Python
+------------------------
 | |notes|_
-| |vikings|_
 
 .. _notes: https://github.com/oscarbyrne/notes
 .. |notes| replace:: *https://github.com/oscarbyrne/notes*
 
-.. _vikings: https://github.com/oscarbyrne/vikings
-.. |vikings| replace:: *https://github.com/oscarbyrne/vikings*
-
-**I am interested in developing beautiful interfaces**, to the point where they almost become programming languages in their own right. Python’s high capacity for metaprogramming makes this possible. I have **2 projects** available on my github demonstrating this - ‘notes’, which is a tool for exploring music theory; and ‘vikings’, the latest iteration of a modern ‘text adventure’ game I have been toying with for several years (note this is very much a work in progress).
-
-
-|
-
-This CV
--------
-| |cv|_
-
-.. _cv: https://github.com/oscarbyrne/cv
-.. |cv| replace:: *https://github.com/oscarbyrne/cv*
-
-I have written this CV with the help of the **reStructuredText syntax**. This is a markup language designed to compile easily to PDF and HTML, whilst remaining easily human-readable. I honestly think my CV is the best (looking) out there written using this language!
-
+I have a number of hobbyist projects using Python, but the one which I am most happy about (aka the most recent!) is a tool for composers which classifies musical objects according to **'musical set theory'**. In this project I have come to realise how the **abstract base classes** for containers defined in the standard library can be used to cleanly define custom classes. It is also a good example of how I try to keep method definitions to be **5 lines or less**, often with the help of Python's excellent **itertools** module.
 
 
 ---------
@@ -179,8 +174,6 @@ Other Interests
 - Producing electronic music - I've assembled a **home studio** which I use to make hip hop
 - Rock climbing
 
-
-|
 
 ----------
 References

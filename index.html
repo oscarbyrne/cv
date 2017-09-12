@@ -127,7 +127,7 @@ h3 {
 <div class="right line-block">
 <div class="line"><a class="reference external" href="mailto:oscar.byrne&#64;gmail.com">oscar.byrne&#64;gmail.com</a>     <img alt="email_me" src="./img/email.png" style="width: 1em;" /></div>
 <div class="line"><a class="reference external" href="http://oscarbyrne.me">http://oscarbyrne.me</a>      <img alt="click_me" src="./img/pointer.png" style="width: 1em;" /></div>
-<div class="line">+44 7827276367            <img alt="phone_me" src="./img/phone.png" style="width: 1em;" /></div>
+<div class="line">+1 (604)-355-1519         <img alt="phone_me" src="./img/phone.png" style="width: 1em;" /></div>
 </div>
 <div class="section" id="motivation">
 <h1>Motivation</h1>
@@ -140,12 +140,12 @@ h3 {
 <div class="line-block">
 <div class="line"><em>February 2017 - August 2017</em></div>
 </div>
-<p>I joined Ultrahaptics around the time that the company was expanding quickly and a new server room was being installed which was due to hugely increase our available compute. This gave me a unique chance to treat it as a green-field project where I was able to leave my mark in a meaningful way.</p>
+<p>I joined Ultrahaptics around the time that a new server room was being installed which was due to hugely increase our available compute. This gave me a unique chance to treat my short time there as a green-field project where I was able to leave my mark in a meaningful way.</p>
 <div class="section" id="accomplishments">
 <h3><em>Accomplishments:</em></h3>
 <ul class="simple">
-<li>Maintained existing infrastructure - responsible for provisioning machines, maintaining CI pipeline and putting out fires as they came up.</li>
-<li>Laid the ground work for transitioning to maintaining infrastructure as code by developing an immutable infrastructure pipeline able to provision golden images from the ISO up, test they function as expected and deploy them to the production network on a nightly basis. This involved using Ansible, Packer, Boxstarter and Jenkins Swarm.</li>
+<li>Maintained existing infrastructure - responsible for provisioning nodes, maintaining <strong>TeamCity CI pipeline</strong> and putting out fires as they came up. This network was a mix of <strong>Windows</strong> and <strong>Macintosh</strong> machines, real and virtual.</li>
+<li>Roadmapped a transition to maintaining <strong>infrastructure as code</strong> by developing a proof of concept <strong>immutable server continuous deployment pipeline</strong> able to: provision golden images from the ISO up, test they are fit for purpose and deploy them to the production network. This involved combining <strong>Ansible, Packer, Boxstarter and Jenkins Swarm</strong> using <strong>Python, PowerShell and Bash</strong>.</li>
 </ul>
 <div class="line-block">
 <div class="line"><br /></div>
@@ -161,9 +161,9 @@ h3 {
 <div class="section" id="id3">
 <h3><em>Accomplishments:</em></h3>
 <ul class="simple">
-<li>Acquired an understanding and appreciation for networking concepts through debugging industry-standard (and not so standard) telecoms deployments</li>
-<li>Made a move from waterfall to agile development possible and helped improve cross-platform consistency by championing test automation. I developed a test framework, built on Selenium and Appium, able to run the same set of behavior-driven tests on platforms including <strong>Android, iOS, Windows, Mac</strong> and various <strong>web browsers</strong>. This was a self-motivated project (had enough of manual testing!)</li>
-<li>Saw our beta testers increase from a handful within the office to thousands through the Cisco Beta Program. This was a change of scale that was only made possible by increased confidence in our code thanks to a comprehensive test strategy and continuous integration, both of which I was responsible for.</li>
+<li>Introduced to <strong>networking concepts</strong> debugging industry standard (and not so standard!) <strong>VOIP deployments</strong>.</li>
+<li>Made a move from waterfall to agile development possible and helped improve cross-platform consistency by championing <strong>test automation</strong>. I developed a test framework, built on <strong>Selenium and Appium</strong>, able to run the same set of behavior-driven tests on platforms including <strong>Android, iOS, Windows, Mac</strong> and various <strong>web browsers</strong>. In developing this framework I wanted it to be accessible as possible to people with limited computing experience - I essentially used <strong>Python</strong> to create a DSL for tests using the <strong>page object</strong> pattern.</li>
+<li>Saw our beta testers increase from a handful within the office to thousands through the Cisco Beta Program. This was a change of scale that was only made possible by increased confidence in our code thanks to a comprehensive <strong>test strategy</strong> and reliable <strong>continuous integration</strong>, both of which I was responsible for. As this was an <strong>Android-based</strong> project with <strong>experimental hardware</strong> this presented some challenges - for example, there were worries a test rig could burst into flames if left on overnight - and involved hacking on multiple levels with <strong>Java, Groovy, Python, Jenkins and Phabricator</strong>.</li>
 </ul>
 <div class="line-block">
 <div class="line"><br /></div>
@@ -182,6 +182,16 @@ h3 {
 </div>
 <div class="section" id="hobbyist-portfolio">
 <h1>Hobbyist Portfolio</h1>
+<div class="section" id="experiments-combining-python-and-bash">
+<h2>Experiments combining Python and Bash</h2>
+<div class="line-block">
+<div class="line"><a class="reference external" href="https://github.com/oscarbyrne/pysh"><em>https://github.com/oscarbyrne/pysh</em></a></div>
+</div>
+<p>I often find projects start with a Bash script. It's a great language for stitching together external tools or doing weird things with the file system. Despite that certain operations might as well be black magic in terms of readability, and sometimes a feature just isn't there (no hash tables before Bash 4?!). That's why I came up with a tool - Pysh - which gives you a <strong>persistent Python interpreter</strong> which is easily accessed <strong>inline from Bash</strong>. This was a great learning experience for me where I gained an appreciation for the difference between in- and out-of-band <strong>signalling</strong>, and what exactly a <strong>fifo</strong> is good for.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+</div>
 <div class="section" id="arduino-based-synthesiser">
 <h2>Arduino-Based Synthesiser</h2>
 <div class="line-block">
@@ -192,23 +202,12 @@ h3 {
 <div class="line"><br /></div>
 </div>
 </div>
-<div class="section" id="python-meta-programming">
-<h2>Python Meta-Programming</h2>
+<div class="section" id="music-theory-with-python">
+<h2>Music theory with Python</h2>
 <div class="line-block">
 <div class="line"><a class="reference external" href="https://github.com/oscarbyrne/notes"><em>https://github.com/oscarbyrne/notes</em></a></div>
-<div class="line"><a class="reference external" href="https://github.com/oscarbyrne/vikings"><em>https://github.com/oscarbyrne/vikings</em></a></div>
 </div>
-<p><strong>I am interested in developing beautiful interfaces</strong>, to the point where they almost become programming languages in their own right. Python’s high capacity for metaprogramming makes this possible. I have <strong>2 projects</strong> available on my github demonstrating this - ‘notes’, which is a tool for exploring music theory; and ‘vikings’, the latest iteration of a modern ‘text adventure’ game I have been toying with for several years (note this is very much a work in progress).</p>
-<div class="line-block">
-<div class="line"><br /></div>
-</div>
-</div>
-<div class="section" id="this-cv">
-<h2>This CV</h2>
-<div class="line-block">
-<div class="line"><a class="reference external" href="https://github.com/oscarbyrne/cv"><em>https://github.com/oscarbyrne/cv</em></a></div>
-</div>
-<p>I have written this CV with the help of the <strong>reStructuredText syntax</strong>. This is a markup language designed to compile easily to PDF and HTML, whilst remaining easily human-readable. I honestly think my CV is the best (looking) out there written using this language!</p>
+<p>I have a number of hobbyist projects using Python, but the one which I am most happy about (aka the most recent!) is a tool for composers which classifies musical objects according to <strong>'musical set theory'</strong>. In this project I have come to realise how the <strong>abstract base classes</strong> for containers defined in the standard library can be used to cleanly define custom classes. It is also a good example of how I try to keep method definitions to be <strong>5 lines or less</strong>, often with the help of Python's excellent <strong>itertools</strong> module.</p>
 </div>
 </div>
 <div class="section" id="education">
@@ -250,9 +249,6 @@ h3 {
 <li>Producing electronic music - I've assembled a <strong>home studio</strong> which I use to make hip hop</li>
 <li>Rock climbing</li>
 </ul>
-<div class="line-block">
-<div class="line"><br /></div>
-</div>
 </div>
 <div class="section" id="references">
 <h1>References</h1>
