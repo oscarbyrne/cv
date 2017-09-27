@@ -141,8 +141,8 @@ I have a number of hobbyist projects using Python, but the one which I am most h
 Education
 ---------
 
-`University of Birmingham, MSci Physics (2:1)`__
-------------------------------------------------
+`University of Birmingham, MSci Physics`__
+------------------------------------------
 | *2010 - 2014*
 
 __ http://www.birmingham.ac.uk/undergraduate/courses/physics/physics-msci.aspx
