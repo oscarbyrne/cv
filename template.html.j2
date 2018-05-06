@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ name }}</title>
+    <meta name="description" content="{{ name }}'s Resume">
+    <link rel="stylesheet" type="text/css" href="resume.css">
+  </head>
+  <body>
+    <header>
+      <h1>{{ name }}</h1>
+      <address>
+        <ul>
+        {% for item in contact %}
+          <li>{{ item }}</li>
+        {% endfor %}
+        </ul>
+      </address>
+    </header>
+    <section class="motivation">
+      <p>
+        {{ motivation }}
+      </p>
+    </section>
+    <section class="experience">
+      <h2>Work Experience</h2>
+      {% for job in jobs %}
+      <section>
+        <header>
+          <h3>{{ job.title }}</h3>
+          <time>{{ job.dates }}</time>
+          <h4>{{ job.employer }}</h4>
+        </header>
+        <ul>
+        {% for achievement in job.achievements %}
+          <li>{{ achievement }}</li>
+        {% endfor %}
+        {% if job.technologies is defined %}
+          <li class="technologies">{{ job.technologies|join(', ') }}</li>
+        {% endif %}
+        </ul>
+      </section>
+      {% if not loop.last %}
+      <hr>
+      {% endif %}
+      {% endfor %}
+    </section>
+    <footer>
+      {{ name }} <span>Page 1/2</span>
+    </footer>
+    <section class="portfolio">
+      <h2>Hobbyist Portfolio</h2>
+      {% for project in portfolio %}
+      <section>
+        <header>
+          <h3>{{ project.title }}</h3>
+          <h4 href="{{ project.link }}">{{ project.link }}</a>
+        </header>
+        <p>
+          {{ project.flavor }}
+        </p>
+      </section>
+      {% if not loop.last %}
+      <hr>
+      {% endif %}
+      {% endfor %}
+    </section>
+    <section class="education">
+      <h2>Education</h2>
+      {% for stint in education %}
+      <section>
+        <header>
+          <h3>{{ stint.course }}</h3>
+          <time>{{ stint.dates }}</time>
+          <h4>{{ stint.institution }}</h4>
+        </header>
+        <p>
+          {{ stint.flavor }}
+        </p>
+        <ul>
+        {% for module in stint.modules %}
+          <li>{{ module }}</li>
+        {% endfor %}
+        </ul>
+      </section>
+      {% if not loop.last %}
+      <hr>
+      {% endif %}
+      {% endfor %}
+    </section>
+    <section class="interests">
+      <h2>Other Interests</h2>
+      <ul>
+      {% for interest in interests %}
+        <li>{{ interest }}</li>
+      {% endfor %}
+      </ul>
+    </section>
+    <section class="references">
+      <i>References are available on request</i>
+    </section>
+    <footer>
+      {{ name }} <span>Page 2/2</span>
+    </footer>
+  </body>
+</html>

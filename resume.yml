@@ -1,0 +1,107 @@
+name: Oscar Byrne
+
+contact:
+  - oscar.byrne@gmail.com
+  - https://github.com/oscarbyrne
+  - +1 (604)-355-1519
+
+motivation: >
+  I'm a curious developer with a particular loyalty to Python,
+  although I'll use whatever tool is best for the job. If I
+  learn something new I like to learn how to use it properly.
+  That means: beautiful interfaces; no fear for refactoring;
+  and, of course, following the style guidelines(!).
+
+jobs:
+  -
+    title: Automation Engineer
+    employer: Globalme contracted by Intel
+    dates: November 2017 - Current
+    achievements:
+      - Managed migration of test development from India to Vancouver
+      - Refactored large code base (~15000 LOC) to be more maintainable
+      - Established processes – code review, development phases – for the team in Vancouver
+      - Mentored (including leading training sessions in Git and Python) a team of 9 manual testers
+    technologies:
+      - Robot Framework
+      - Python
+  -
+    title: DevOps Engineer
+    employer: Ultrahaptics
+    dates: February 2017 - August 2017
+    achievements:
+      - Maintained Teamcity CI pipeline, including Windows and Macintosh machines (~10 nodes)
+      - Delivered a proof-of-concept CD pipeline for building and deploying VMs
+    technologies:
+      - Ansible
+      - Python
+      - Bash
+      - Powershell
+  -
+    title: Software Engineer
+    employer: Cisco, formerly Acano
+    dates: October 2014 - July 2016
+    achievements:
+      - Analysed VOIP deployments to determine root cause of test failures
+      - Drove adoption of agile work style by championing test automation
+      - >
+        Developed a “write once, run anywhere” test framework covering Android, iOS, Windows, Mac
+        and various web browsers
+      - Planned comprehensive testing strategy (including CI with remote teams) for next-gen product
+    technologies:
+      - Python
+      - Java
+      - Bash
+  -
+    title: Summer Studentship Computing Program
+    employer: DESY
+    dates: July 2013 – August 2013
+    achievements:
+      - Lived in Hamburg, Germany studying the world’s most brilliant x-ray source
+      - Created an RPC endpoint for sharing experimental data
+      - Developed an image processing toolchain in Python for analysing tomographic data
+
+portfolio:
+  -
+    title: Experiments with Bash and Python
+    link: https://github.com/oscarbyrne/pysh
+    flavor: >
+      I often find projects start with a Bash script. It's a great language
+      for stitching together external tools or doing weird things with the file system.
+      Despite that certain operations might as well be black magic in terms of readability,
+      and sometimes a feature just isn't there (no hash tables before Bash 4?!).
+      That's why I came up with a tool - Pysh - which gives you a persistent
+      Python interpreter which is easily accessed inline from Bash. This was a great
+      learning experience for me where I gained an appreciation for the difference
+      between in- and out-of-band signalling, and what exactly a fifo is good for.
+  -
+    title: Music theory with Python
+    link: https://github.com/oscarbyrne/notes
+    flavor: >
+      I have a number of hobbyist projects using Python, but the one which I am most
+      happy about (aka the most recent!) is a tool for composers which classifies
+      musical objects according to 'musical set theory'. In this project I have come
+      to realise how the abstract base classes for containers defined in the standard
+      library can be used to cleanly define custom classes. It is also a good example
+      of how I try to keep method definitions to be 5 lines or less, often with the
+      help of Python's excellent itertools module.
+
+education:
+  -
+    course: MSCi Physics
+    institution: University of Birmingham
+    dates: 2010 - 2014
+    flavor: >
+      For my fourth year project I became involved with front-line research
+      in metamaterials, and contributed to a project which was presented
+      as part of the PIERS conference 2014 in China. I chose mostly
+      computing-related modules, including:
+    modules:
+      - Computational Modelling of Physical Systems
+      - Teaching in Schools
+      - Image Processing
+
+interests:
+  - Silver smithing, rockhounding and lapidary
+  - Producing electronic music
+  - Hiking

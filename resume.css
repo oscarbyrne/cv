@@ -1,0 +1,48 @@
+h1 {
+    display: inline-block;
+}
+
+h2 {
+    padding-top: 1rem;
+}
+
+h3 {
+    line-height: 1em;
+}
+
+h4 {
+    line-height: 1em;
+}
+
+address {
+    float: right;
+    font-style: normal;
+}
+
+address > ul {
+    list-style-type: none;
+    text-align: right;
+}
+
+time {
+    display: inline;
+    float: right;
+}
+
+h4 {
+    padding-top: 0rem;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.technologies::before { 
+    content: "Technologies: ";
+}
+
+hr {
+    color: whitesmoke;
+}
+
+footer > span {
+    float: right;
+}
