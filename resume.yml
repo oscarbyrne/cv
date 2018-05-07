@@ -46,7 +46,7 @@ jobs:
       - Drove adoption of agile work style by championing test automation
       - >
         Developed a “write once, run anywhere” test framework covering Android, iOS, Windows, Mac
-        and various web browsers
+        and web
       - Planned comprehensive testing strategy (including CI with remote teams) for next-gen product
     technologies:
       - Python
@@ -64,7 +64,7 @@ jobs:
 portfolio:
   -
     title: Experiments with Bash and Python
-    link: https://github.com/oscarbyrne/pysh
+    url: https://github.com/oscarbyrne/pysh
     flavor: >
       I often find projects start with a Bash script. It's a great language
       for stitching together external tools or doing weird things with the file system.
@@ -76,7 +76,7 @@ portfolio:
       between in- and out-of-band signalling, and what exactly a fifo is good for.
   -
     title: Music theory with Python
-    link: https://github.com/oscarbyrne/notes
+    url: https://github.com/oscarbyrne/notes
     flavor: >
       I have a number of hobbyist projects using Python, but the one which I am most
       happy about (aka the most recent!) is a tool for composers which classifies
