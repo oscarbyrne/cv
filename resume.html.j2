@@ -47,6 +47,7 @@
       }
       contact > ul {
         list-style-type: none;
+        text-align: right;
       }
       h2,
       .record > header {
@@ -70,15 +71,15 @@
         <h1>{{ name }}</h1>
         <contact>
           <ul>
-            # for method in contact:
-            <li>{{ method }}</li>
-            # endfor
+            <li>{{ email }}</li>
+            <li>{{ website }}</li>
+            <li>{{ phone }}</li>
           </ul>
         </contact>
       </header>
       # else:
       <header>
-        <div>{{ name }}</div>
+        <div>{{ email }}</div>
         <div>Page {{ loop.index }}/{{ loop.length }}</div>
       </header>
       # endif
