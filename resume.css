@@ -1,21 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Slabo+27px');
 
+@page {
+    size: A4;
+}
+
 :root {
     --page-margin: 2rem;
     --font-size: 18px;
-}
-
-@page {
-    margin: 0;
-}
-
-@media screen {
-    .page {
-        position: relative;
-        display: block;
-        margin: 0.5cm auto;
-        box-shadow: 0 0 0.5cm rgba(0,0,0,0.25);
-    }
 }
 
 html {
@@ -25,12 +16,6 @@ html {
 
 * {
     margin: 0;
-}
-
-.page {
-    width: 21cm;
-    height: 29.7cm;
-    padding: var(--page-margin);
 }
 
 .split > * {
@@ -51,7 +36,11 @@ html {
     text-align: left;
 }
 
-.page, article {
+.sheet {
+    padding: var(--page-margin);
+}
+
+.sheet, article {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
