@@ -1,4 +1,18 @@
-```
-    brew install python3 cairo pango gdk-pixbuf libffi
-    pip install -r requirements.txt
-```
+To do:
+ - project structure
+ 	- directory layout
+ 	- documentation (inc command line args in main.py)
+ 	- merge to master
+ 		- new repo? (need to update website)
+ 		- add "fork me" banner
+ 	- makefile?
+ 		- make install
+ 		- make
+ 		- add to githook on push
+ - less magic numbers in css:
+ 	- make sections flexboxes
+ 	- enable to specify basis in yaml
+ - minify html output
+ - full PDF support
+ 	- generate as part of main.py
+ 	- html banner with download link

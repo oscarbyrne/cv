@@ -4,159 +4,231 @@
     <meta charset="utf-8">
     <title>Oscar Byrne</title>
     <meta name="description" content="Oscar Byrne's Resume">
-    <link rel="stylesheet" href="resume.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/paper-css/0.3.0/paper.css">
+    <style>
+      * {
+        margin: 0;
+      }
+      @media screen {
+        .sheet {
+          margin: 5mm auto;
+        }
+      }
+      body {
+        font-size: 18px;
+      }
+      .sheet {
+        padding: 2rem;
+      }
+      .sheet,
+      .sheet > header,
+      .sheet > footer,
+      .sheet > main, 
+      .record > header {
+        display: flex;
+        justify-content: space-between;
+      }
+      .sheet > header,
+      .sheet > footer,
+      .record > header {
+        flex-direction: row;
+      }
+      .sheet,
+      .sheet > main {
+        flex-direction: column;
+      }
+      .sheet > header, 
+      .sheet > footer {
+        align-items: flex-end;
+      }
+      .record > header {
+        align-items: baseline;
+      }
+      contact > ul {
+        list-style-type: none;
+      }
+      h2,
+      .record > header {
+        margin-bottom: 0.5rem;
+      }
+      hr {
+        color: rgba(0,0,0,0.25);
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+      }
+    </style>
+    <link rel="stylesheet" href="resume.css">
   </head>
   <body class="A4">
     <div class="sheet">
-        <header class="split">
-            <h1 class="left">Oscar Byrne</h1>
-            <address class="right">
-                <ul>
-                  <li>oscar.byrne@gmail.com</li>
-                  <li>https://github.com/oscarbyrne</li>
-                  <li>+1 (604)-355-1519</li>
-                </ul>
-            </address>
-        </header>
-        <article class="motivation">
-            <p>I'm a curious developer with a particular loyalty to Python, although I'll use whatever tool is best for the job. If I learn something new I like to learn how to use it properly. That means: beautiful interfaces; no fear for refactoring; and, of course, following the style guidelines(!).
-</p>
-        </article>
-        <article class="experience">
-            <header>
-                <h2>Work Experience</h2>
-            </header>
-            <section>
-                <header class="split">
-                    <div class="left">
-                        <h3>Automation Engineer</h3>
-                        <i>Globalme contracted by Intel</i>
-                    </div>
-                    <time class="right">November 2017 - Current</time>
-                </header>
-                <ul>
-                    <li>Managed migration of test development from India to Vancouver</li>
-                    <li>Refactored large code base (~15000 LOC) to be more maintainable</li>
-                    <li>Established processes – code review, development phases – for the team in Vancouver</li>
-                    <li>Mentored (including leading training sessions in Git and Python) a team of 9 manual testers</li>
-                    <li>Technologies: Robot Framework, Python</li>
-                </ul>
-            </section>
-            <hr>
-            <section>
-                <header class="split">
-                    <div class="left">
-                        <h3>DevOps Engineer</h3>
-                        <i>Ultrahaptics</i>
-                    </div>
-                    <time class="right">February 2017 - August 2017</time>
-                </header>
-                <ul>
-                    <li>Maintained Teamcity CI pipeline, including Windows and Macintosh machines (~10 nodes)</li>
-                    <li>Delivered a proof-of-concept CD pipeline for building and deploying VMs</li>
-                    <li>Technologies: Ansible, Python, Bash, Powershell</li>
-                </ul>
-            </section>
-            <hr>
-            <section>
-                <header class="split">
-                    <div class="left">
-                        <h3>Software Engineer</h3>
-                        <i>Cisco, formerly Acano</i>
-                    </div>
-                    <time class="right">October 2014 - July 2016</time>
-                </header>
-                <ul>
-                    <li>Analysed VOIP deployments to determine root cause of test failures</li>
-                    <li>Drove adoption of agile work style by championing test automation</li>
-                    <li>Developed a “write once, run anywhere” test framework covering Android, iOS, Windows, Mac and web
-</li>
-                    <li>Planned comprehensive testing strategy (including CI with remote teams) for next-gen product</li>
-                    <li>Technologies: Python, Java, Bash</li>
-                </ul>
-            </section>
-            <hr>
-            <section>
-                <header class="split">
-                    <div class="left">
-                        <h3>Summer Studentship Computing Program</h3>
-                        <i>DESY</i>
-                    </div>
-                    <time class="right">July 2013 – August 2013</time>
-                </header>
-                <ul>
-                    <li>Lived in Hamburg, Germany studying the world’s most brilliant x-ray source</li>
-                    <li>Created an RPC endpoint for sharing experimental data</li>
-                    <li>Developed an image processing toolchain in Python for analysing tomographic data</li>
-                </ul>
-            </section>
-        </article>
-        <footer class="split">
-            <div class="left">Oscar Byrne</div>
-            <div class="right">Page 1/2</div>
-        </footer>
+      <header>
+        <h1>Oscar Byrne</h1>
+        <contact>
+          <ul>
+          </ul>
+        </contact>
+      </header>
+      <article class="section">
+        <section class="record">
+          <main>
+            <p>I'm a curious developer with a particular loyalty to Python, although I'll use whatever tool is best for the job. If I learn something new I like to learn how to use it properly. That means: beautiful interfaces; no fear for refactoring; and, of course, following the style guidelines(!).</p>
+          </main>
+        </section>
+      </article>
+      <article class="section">
+        <h2>Work Experience</h2>
+        <section class="record">
+          <header>
+            <div>
+              <h3>Automation Engineer</h3>
+              <i>Globalme, contracted by Intel</i>
+            </div>
+            <time>November 2017 - Current</time>
+          </header>
+          <main>
+            <ul>
+              <li>Managed migration of test development from India to Vancouver</li>
+              <li>Refactored large code base (~15000 LOC) to be more maintainable</li>
+              <li>Established processes – code review, development phases – for the team in Vancouver</li>
+              <li>Mentored (including leading training sessions in Git and Python) a team of 9 manual testers</li>
+              <li>Technologies: Ansible, Python, Bash, Powershell</li>
+            </ul>
+          </main>
+        </section>
+        <hr>
+        <section class="record">
+          <header>
+            <div>
+              <h3>DevOps Engineer</h3>
+              <i>Ultrahaptics</i>
+            </div>
+            <time>February 2017 - August 2017</time>
+          </header>
+          <main>
+            <ul>
+              <li>Maintained Teamcity CI pipeline, including Windows and Macintosh machines (~10 nodes)</li>
+              <li>Delivered a proof-of-concept CD pipeline for building and deploying VMs</li>
+              <li>Technologies: Ansible, Python, Bash, Powershell</li>
+            </ul>
+          </main>
+        </section>
+        <hr>
+        <section class="record">
+          <header>
+            <div>
+              <h3>Software Engineer</h3>
+              <i>Cisco, formerly Acano</i>
+            </div>
+            <time>October 2014 - July 2016</time>
+          </header>
+          <main>
+            <ul>
+              <li>Analysed VOIP deployments to determine root cause of test failures</li>
+              <li>Drove adoption of agile work style by championing test automation</li>
+              <li>Developed a “write once, run anywhere” test framework covering Android, iOS, Windows, Mac and web</li>
+              <li>Planned comprehensive testing strategy (including CI with remote teams) for next-gen product</li>
+              <li>Technologies: Python, Java, Bash</li>
+            </ul>
+          </main>
+        </section>
+        <hr>
+        <section class="record">
+          <header>
+            <div>
+              <h3>Summer Studentship Computing Program</h3>
+              <i>DESY</i>
+            </div>
+            <time>July 2013 – August 2013</time>
+          </header>
+          <main>
+            <ul>
+              <li>Lived in Hamburg, Germany studying the world’s most brilliant x-ray source</li>
+              <li>Created an RPC endpoint for sharing experimental data</li>
+              <li>Developed an image processing toolchain in Python for analysing tomographic data</li>
+            </ul>
+          </main>
+        </section>
+      </article>
+      <footer>
+        <div>Oscar Byrne</div>
+        <div>Page 1/2</div>
+      </footer>
     </div>
     <div class="sheet">
-        <article class="portfolio">
-            <header>
-                <h2>Hobbyist Portfolio</h2>
-            </header>
-            <section>
-                <header>
-                    <h3>Experiments with Bash and Python</h3>
-                    <i>https://github.com/oscarbyrne/pysh</i>
-                </header>
-                <p>I often find projects start with a Bash script. It's a great language for stitching together external tools or doing weird things with the file system. Despite that certain operations might as well be black magic in terms of readability, and sometimes a feature just isn't there (no hash tables before Bash 4?!). That's why I came up with a tool - Pysh - which gives you a persistent Python interpreter which is easily accessed inline from Bash. This was a great learning experience for me where I gained an appreciation for the difference between in- and out-of-band signalling, and what exactly a fifo is good for.
-</p>
-            </section>
-            <hr>
-            <section>
-                <header>
-                    <h3>Music theory with Python</h3>
-                    <i>https://github.com/oscarbyrne/notes</i>
-                </header>
-                <p>I have a number of hobbyist projects using Python, but the one which I am most happy about (aka the most recent!) is a tool for composers which classifies musical objects according to 'musical set theory'. In this project I have come to realise how the abstract base classes for containers defined in the standard library can be used to cleanly define custom classes. It is also a good example of how I try to keep method definitions to be 5 lines or less, often with the help of Python's excellent itertools module.
-</p>
-            </section>
-        </article>
-        <article class="education">
-            <header>
-                <h2>Education</h2>
-            </header>
-            <section>
-                <header class="split">
-                    <div class="left">
-                        <h3>MSCi Physics</h3>
-                        <i>University of Birmingham</i>
-                    </div>
-                    <time class="right">2010 - 2014</time>
-                </header>
-                <p>For my fourth year project I became involved with front-line research in metamaterials, and contributed to a project which was presented as part of the PIERS conference 2014 in China. I chose mostly computing-related modules, including:
-</p>
-                <ul>
-                    <li>Computational Modelling of Physical Systems</li>
-                    <li>Teaching in Schools</li>
-                    <li>Image Processing</li>
-                </ul>
-            </section>
-        </article>
-        <article class="interests">
-            <header>
-                <h2>Other Interests</h2>
-            </header>
+      <header>
+        <div>Oscar Byrne</div>
+        <div>Page 2/2</div>
+      </header>
+      <article class="section">
+        <h2>Hobbyist Portfolio</h2>
+        <section class="record">
+          <header>
+            <div>
+              <h3>Experiments with Bash and Python</h3>
+              <i>https://github.com/oscarbyrne/pysh</i>
+            </div>
+          </header>
+          <main>
+            <p>I often find projects start with a Bash script. It's a great language for stitching together external tools or doing weird things with the file system. Despite that certain operations might as well be black magic in terms of readability, and sometimes a feature just isn't there (no hash tables before Bash 4?!). That's why I came up with a tool - Pysh - which gives you a persistent Python interpreter which is easily accessed inline from Bash. This was a great learning experience for me where I gained an appreciation for the difference between in- and out-of-band signalling, and what exactly a fifo is good for.</p>
+          </main>
+        </section>
+        <hr>
+        <section class="record">
+          <header>
+            <div>
+              <h3>Music theory with Python</h3>
+              <i>https://github.com/oscarbyrne/notes</i>
+            </div>
+          </header>
+          <main>
+            <p>I have a number of hobbyist projects using Python, but the one which I am most happy about (aka the most recent!) is a tool for composers which classifies musical objects according to 'musical set theory'. In this project I have come to realise how the abstract base classes for containers defined in the standard library can be used to cleanly define custom classes. It is also a good example of how I try to keep method definitions to be 5 lines or less, often with the help of Python's excellent itertools module.</p>
+          </main>
+        </section>
+      </article>
+      <article class="section">
+        <h2>Education</h2>
+        <section class="record">
+          <header>
+            <div>
+              <h3>MSCi Physics</h3>
+              <i>University of Birmingham</i>
+            </div>
+            <time>2010 - 2014</time>
+          </header>
+          <main>
+            <p>For my fourth year project I became involved with front-line research in metamaterials, and contributed to a project which was presented as part of the PIERS conference 2014 in China. I chose mostly computing-related modules, including:</p>
+            <ul>
+              <li>Computational Modelling of Physical Systems</li>
+              <li>Teaching in Schools</li>
+              <li>Image Processing</li>
+            </ul>
+          </main>
+        </section>
+      </article>
+      <article class="section">
+        <h2>Other Interests</h2>
+        <section class="record">
+          <main>
             <ul>
               <li>Silver smithing, rockhounding and lapidary</li>
               <li>Producing electronic music</li>
               <li>Hiking</li>
             </ul>
-        </article>
-        <article class="references">
-            <strong>References are available on request</strong>
-        </article>
-        <footer class="split">
-            <div class="left">Oscar Byrne</div>
-            <div class="right">Page 2/2</div>
-        </footer>
+          </main>
+        </section>
+      </article>
+      <article class="section">
+        <section class="record">
+          <main>
+            <p>References are available on request</p>
+          </main>
+        </section>
+      </article>
+      <footer>
+        <div>Oscar Byrne</div>
+        <div>Page 2/2</div>
+      </footer>
     </div>
   </body>
+</html>

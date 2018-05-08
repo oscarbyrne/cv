@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ name }}</title>
+    <meta name="description" content="{{ name }}'s Resume">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/paper-css/0.3.0/paper.css">
+    <style>
+      * {
+        margin: 0;
+      }
+      @media screen {
+        .sheet {
+          margin: 5mm auto;
+        }
+      }
+      body {
+        font-size: {{ font_size | default("18px") }};
+      }
+      .sheet {
+        padding: {{ page_margin | default("2rem") }};
+      }
+      .sheet,
+      .sheet > header,
+      .sheet > footer,
+      .sheet > main, 
+      .record > header {
+        display: flex;
+        justify-content: space-between;
+      }
+      .sheet > header,
+      .sheet > footer,
+      .record > header {
+        flex-direction: row;
+      }
+      .sheet,
+      .sheet > main {
+        flex-direction: column;
+      }
+      .sheet > header, 
+      .sheet > footer {
+        align-items: flex-end;
+      }
+      .record > header {
+        align-items: baseline;
+      }
+      contact > ul {
+        list-style-type: none;
+      }
+      h2,
+      .record > header {
+        margin-bottom: 0.5rem;
+      }
+      hr {
+        color: rgba(0,0,0,0.25);
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+      }
+    </style>
+    # if style_sheet:
+    <link rel="stylesheet" href="{{ style_sheet }}">
+    # endif
+  </head>
+  <body class="A4">
+    # for page in pages:
+    <div class="sheet">
+      # if loop.first:
+      <header>
+        <h1>{{ name }}</h1>
+        <contact>
+          <ul>
+            # for method in contact:
+            <li>{{ method }}</li>
+            # endfor
+          </ul>
+        </contact>
+      </header>
+      # else:
+      <header>
+        <div>{{ name }}</div>
+        <div>Page {{ loop.index }}/{{ loop.length }}</div>
+      </header>
+      # endif
+      # for section in page:
+      <article class="section">
+        # if section.title:
+        <h2>{{ section.title }}</h2>
+        # endif
+        # for record in section.records:
+        <section class="record">
+          # if record.title or record.subtitle or record.dates:
+          <header>
+            <div>
+              # if record.title:
+              <h3>{{ record.title }}</h3>
+              # endif
+              # if record.subtitle:
+              <i>{{ record.subtitle }}</i>
+              # endif
+            </div>
+            # if record.dates:
+            <time>{{ record.dates }}</time>
+            # endif
+          </header>
+          # endif
+          # if record.text or record.bullets:
+          <main>
+            # if record.text:
+            <p>{{ record.text }}</p>
+            # endif
+            # if record.bullets:
+            <ul>
+              # for bullet in record.bullets:
+              <li>{{ bullet }}</li>
+              # endfor
+            </ul>
+            # endif
+          </main>
+          # endif
+        </section>
+        # if not loop.last:
+        <hr>
+        # endif
+        # endfor
+      </article>
+      # endfor
+      <footer>
+        <div>{{ name }}</div>
+        <div>Page {{ loop.index }}/{{ loop.length }}</div>
+      </footer>
+    </div>
+    # endfor
+  </body>
+</html>
