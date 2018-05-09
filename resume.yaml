@@ -1,0 +1,39 @@
+font_size: 18px
+page_margin: 2rem
+style_sheet: fonts.css
+
+name: Oscar Byrne
+email: oscar.byrne@gmail.com
+website: https://github.com/oscarbyrne
+phone: +1 (604)-355-1519
+
+
+pages: 
+
+  -
+    - records:
+        - motivation
+
+    - title: Work Experience
+      records:
+        - globalme
+        - ultrahaptics
+        - cisco
+        - desy
+
+  -
+    - title: Hobbyist Portfolio
+      records:
+        - pysh
+        - notes
+
+    - title: Education
+      records:
+        - degree
+
+    - title: Other Interests
+      records:
+        - interests
+    
+    - records:
+        - references

@@ -1,7 +1,17 @@
-To do:
+# Resume Builder
+
+Tool for generating HTML and PDF resumes from a yaml config file
+
+
+## Usage:
+
+	pip install -r requirements.txt
+	python resume-builder.py
+
+
+## To Do:
+
  - project structure
- 	- directory layout
- 	- documentation (inc command line args in main.py)
  	- merge to master
  		- new repo? (need to update website)
  		- add "fork me" banner
