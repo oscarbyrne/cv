@@ -11,9 +11,7 @@ Tool for generating HTML and PDF resumes from a yaml config file
 
 ## To Do:
 
-- full PDF support
-	- generate as part of main.py
-	- html banner with download link
+- generate PDF as part of main.py
 - add "fork me" banner
 - makefile?
 	- make install

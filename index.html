@@ -15,13 +15,21 @@
       }
       @media screen {
         .sheet {
-          margin: 5mm auto;
+          margin: 0 auto;
+          margin-bottom: 2rem;
         }
         .download-banner {
+          width: 210mm;
+          margin: 0 auto;
           font-size: 1.5rem;
           font-weight: bold;
-          text-align: center;
-          margin: 10mm auto;
+          padding: 2rem 0;
+          display: flex;
+          justify-content: flex-end;
+        }
+        .download-banner img {
+          height: 1em;
+          margin-left: 0.5rem;
         }
       }
       @media print {
@@ -76,9 +84,12 @@
     <link rel="stylesheet" href="fonts.css">
   </head>
   <body class="A4">
-    <div class="download-banner">
-      <a href="./resume.pdf" download="OscarByrneResume.pdf">Download the PDF</a>
-    </div>
+    <a href="./resume.pdf" download="OscarByrneResume.pdf">
+      <div class="download-banner">
+        <div>Get PDF</div>
+        <img src="./pdf.svg">
+      </div>
+    </a>
     <div class="sheet">
       <header>
         <h1>Oscar Byrne</h1>
