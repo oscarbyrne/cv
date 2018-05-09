@@ -17,6 +17,17 @@
         .sheet {
           margin: 5mm auto;
         }
+        .download-banner {
+          font-size: 1.5rem;
+          font-weight: bold;
+          text-align: center;
+          margin: 10mm auto;
+        }
+      }
+      @media print {
+        .download-banner {
+          display: none;
+        }
       }
       body {
         font-size: 18px;
@@ -60,10 +71,14 @@
         margin-bottom: 1rem;
         margin-top: 1rem;
       }
+      
     </style>
     <link rel="stylesheet" href="fonts.css">
   </head>
   <body class="A4">
+    <div class="download-banner">
+      <a href="./resume.pdf" download="OscarByrneResume.pdf">Download the PDF</a>
+    </div>
     <div class="sheet">
       <header>
         <h1>Oscar Byrne</h1>
