@@ -70,14 +70,17 @@
         list-style-type: none;
         text-align: right;
       }
-      h2,
+      h2 {
+        margin-bottom: 1rem;
+      }
       .record > header {
         margin-bottom: 0.5rem;
       }
-      hr {
-        color: rgba(0,0,0,0.25);
-        margin-bottom: 1rem;
-        margin-top: 1rem;
+      .record__text {
+        margin-bottom: 0.5rem;
+      }
+      .record {
+        margin-bottom: 2rem;
       }
       
     </style>
@@ -136,10 +139,10 @@
           # if record.text or record.bullets:
           <main>
             # if record.text:
-            <p>{{ record.text }}</p>
+            <p class="record__text">{{ record.text }}</p>
             # endif
             # if record.bullets:
-            <ul>
+            <ul class="record__bullets">
               # for bullet in record.bullets:
               <li>{{ bullet }}</li>
               # endfor
@@ -148,9 +151,6 @@
           </main>
           # endif
         </section>
-        # if not loop.last:
-        <hr>
-        # endif
         # endfor
       </article>
       # endfor

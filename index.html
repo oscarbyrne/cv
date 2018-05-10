@@ -70,14 +70,17 @@
         list-style-type: none;
         text-align: right;
       }
-      h2,
+      h2 {
+        margin-bottom: 1rem;
+      }
       .record > header {
         margin-bottom: 0.5rem;
       }
-      hr {
-        color: rgba(0,0,0,0.25);
-        margin-bottom: 1rem;
-        margin-top: 1rem;
+      .record__text {
+        margin-bottom: 0.5rem;
+      }
+      .record {
+        margin-bottom: 2rem;
       }
       
     </style>
@@ -104,7 +107,7 @@
       <article class="section">
         <section class="record">
           <main>
-            <p>I'm a curious developer with a particular loyalty to Python, although I'll use whatever tool is best for the job. If I learn something new I like to learn how to use it properly. That means: beautiful interfaces; no fear for refactoring; and, of course, following the style guidelines(!).</p>
+            <p class="record__text">I'm a curious developer with a particular loyalty to Python, although I'll use whatever tool is best for the job. If I learn something new I like to learn how to use it properly. That means: beautiful interfaces; no fear for refactoring; and, of course, following the style guidelines(!).</p>
           </main>
         </section>
       </article>
@@ -119,7 +122,7 @@
             <time>November 2017 - Current</time>
           </header>
           <main>
-            <ul>
+            <ul class="record__bullets">
               <li>Managed migration of test development from India to Vancouver</li>
               <li>Refactored large code base (~15000 LOC) to be more maintainable</li>
               <li>Established processes – code review, development phases – for the team in Vancouver</li>
@@ -128,7 +131,6 @@
             </ul>
           </main>
         </section>
-        <hr>
         <section class="record">
           <header>
             <div>
@@ -138,14 +140,13 @@
             <time>February 2017 - August 2017</time>
           </header>
           <main>
-            <ul>
+            <ul class="record__bullets">
               <li>Maintained Teamcity CI pipeline, including Windows and Macintosh machines (~10 nodes)</li>
               <li>Delivered a proof-of-concept CD pipeline for building and deploying VMs</li>
               <li>Technologies: Ansible, Python, Bash, Powershell</li>
             </ul>
           </main>
         </section>
-        <hr>
         <section class="record">
           <header>
             <div>
@@ -155,7 +156,7 @@
             <time>October 2014 - July 2016</time>
           </header>
           <main>
-            <ul>
+            <ul class="record__bullets">
               <li>Analysed VOIP deployments to determine root cause of test failures</li>
               <li>Drove adoption of agile work style by championing test automation</li>
               <li>Developed a “write once, run anywhere” test framework covering Android, iOS, Windows, Mac and web</li>
@@ -164,7 +165,6 @@
             </ul>
           </main>
         </section>
-        <hr>
         <section class="record">
           <header>
             <div>
@@ -174,7 +174,7 @@
             <time>July 2013 – August 2013</time>
           </header>
           <main>
-            <ul>
+            <ul class="record__bullets">
               <li>Lived in Hamburg, Germany studying the world’s most brilliant x-ray source</li>
               <li>Created an RPC endpoint for sharing experimental data</li>
               <li>Developed an image processing toolchain in Python for analysing tomographic data</li>
@@ -202,10 +202,9 @@
             </div>
           </header>
           <main>
-            <p>I often find projects start with a Bash script. It's a great language for stitching together external tools or doing weird things with the file system. Despite that certain operations might as well be black magic in terms of readability, and sometimes a feature just isn't there (no hash tables before Bash 4?!). That's why I came up with a tool - Pysh - which gives you a persistent Python interpreter which is easily accessed inline from Bash. This was a great learning experience for me where I gained an appreciation for the difference between in- and out-of-band signalling, and what exactly a fifo is good for.</p>
+            <p class="record__text">I often find projects start with a Bash script. It's a great language for stitching together external tools or doing weird things with the file system. Despite that certain operations might as well be black magic in terms of readability, and sometimes a feature just isn't there (no hash tables before Bash 4?!). That's why I came up with a tool - Pysh - which gives you a persistent Python interpreter which is easily accessed inline from Bash. This was a great learning experience for me where I gained an appreciation for the difference between in- and out-of-band signalling, and what exactly a fifo is good for.</p>
           </main>
         </section>
-        <hr>
         <section class="record">
           <header>
             <div>
@@ -214,7 +213,7 @@
             </div>
           </header>
           <main>
-            <p>I have a number of hobbyist projects using Python, but the one which I am most happy about (aka the most recent!) is a tool for composers which classifies musical objects according to 'musical set theory'. In this project I have come to realise how the abstract base classes for containers defined in the standard library can be used to cleanly define custom classes. It is also a good example of how I try to keep method definitions to be 5 lines or less, often with the help of Python's excellent itertools module.</p>
+            <p class="record__text">I have a number of hobbyist projects using Python, but the one which I am most happy about (aka the most recent!) is a tool for composers which classifies musical objects according to 'musical set theory'. In this project I have come to realise how the abstract base classes for containers defined in the standard library can be used to cleanly define custom classes. It is also a good example of how I try to keep method definitions to be 5 lines or less, often with the help of Python's excellent itertools module.</p>
           </main>
         </section>
       </article>
@@ -229,8 +228,8 @@
             <time>2010 - 2014</time>
           </header>
           <main>
-            <p>For my fourth year project I became involved with front-line research in metamaterials, and contributed to a project which was presented as part of the PIERS conference 2014 in China. I chose mostly computing-related modules, including:</p>
-            <ul>
+            <p class="record__text">For my fourth year project I became involved with front-line research in metamaterials, and contributed to a project which was presented as part of the PIERS conference 2014 in China. I chose mostly computing-related modules, including:</p>
+            <ul class="record__bullets">
               <li>Computational Modelling of Physical Systems</li>
               <li>Teaching in Schools</li>
               <li>Image Processing</li>
@@ -242,7 +241,7 @@
         <h2>Other Interests</h2>
         <section class="record">
           <main>
-            <ul>
+            <ul class="record__bullets">
               <li>Silver smithing, rockhounding and lapidary</li>
               <li>Producing electronic music</li>
               <li>Hiking</li>
