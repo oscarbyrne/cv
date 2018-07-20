@@ -25,7 +25,8 @@ pages:
   -
     - title: Hobbyist Portfolio
       records:
-        - pysh
+        # - pysh
+        - resume
         - notes
 
     - title: Other Experience

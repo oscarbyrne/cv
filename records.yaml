@@ -82,6 +82,17 @@ notes:
     of how I try to keep method definitions to be 5 lines or less, often with the
     help of Python's excellent itertools module.
 
+resume:
+  title: Resume builder
+  subtitle: https://github.com/oscarbyrne/cv
+  text: >-
+    When job hunting I find I spend an inordinate amount of time formatting my resume.
+    To cut down on this time I created a library which creates beautifully-formatted
+    resumes in the time it takes to hit my enter key. By storing the important data
+    - job records and document layout - in a series of easily-editable config files
+    and generating responsive HTML5 via a Jinja2 template, I create first-class resumes
+    in an instant. You're reading one right now!
+
 degree:
   title: MSCi Physics
   subtitle: University of Birmingham
