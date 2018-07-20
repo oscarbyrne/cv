@@ -6,10 +6,21 @@ motivation:
     That means: beautiful interfaces; no fear for refactoring;
     and, of course, following the style guidelines(!).
 
+globalme2:
+  title: Full Stack Developer
+  subtitle: Globalme
+  dates: May 2018 - July 2018
+  bullets:
+    - Managed hosted infrastructure via AWS
+    - Adapted the back end code for authentication via AWS Cognito
+    - Developed a SPA for database administration
+    - Automated various manual processes by creating a library of Photoshop plugins in Javascript
+    - "Technologies: Python, Flask, Javascript (JQuery and ExtendScript), AWS, PostgreSQL"
+
 globalme:
   title: Automation Engineer
   subtitle: Globalme, contracted by Intel
-  dates: November 2017 - Current
+  dates: November 2017 - May 2018
   bullets:
     - Managed migration of test development from India to Vancouver
     - Refactored large code base (~15000 LOC) to be more maintainable
