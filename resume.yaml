@@ -20,14 +20,12 @@ pages:
         - globalme
         - ultrahaptics
         - cisco
-        # - desy
 
   -
     - title: Hobbyist Portfolio
       records:
-        # - pysh
+        - pyatonic
         - resume
-        - notes
 
     - title: Other Experience
       records:

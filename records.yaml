@@ -82,6 +82,19 @@ notes:
     of how I try to keep method definitions to be 5 lines or less, often with the
     help of Python's excellent itertools module.
 
+pyatonic:
+  title: Advanced music theory with Python
+  subtitle: https://github.com/oscarbyrne/pyatonic
+  text: >-
+    Music theory is one of my passions. I've recently had the oppertunity to dive deep
+    on some of the concepts I've been reading about, requiring working knowledge in a
+    host of new concepts from category theory to tree search algorithms. The result is
+    a library of methods ultimately able to demonstrate computational creativity (yes!)
+    by conceptually "blending" musical chords, an algorithm developed as recently as 2015.
+    The code itself showcases my ability to write in a pythonic style: making heavy use
+    of generators, a mastery of Python's data model, and avoiding the over-reliance
+    on classes often found with junior developers.
+
 resume:
   title: Resume builder
   subtitle: https://github.com/oscarbyrne/cv
