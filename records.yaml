@@ -71,6 +71,14 @@ pysh:
     learning experience for me where I gained an appreciation for the difference
     between in- and out-of-band signalling, and what exactly a fifo is good for.
 
+pysh-short:
+  title: Bash-embedded Python
+  subtitle: https://github.com/oscarbyrne/pysh
+  text: >-
+    Pysh is a tool I created in a bid to elegantly embed Python into Bash. This was a great
+    learning experience for me where I gained an appreciation for the difference
+    between in- and out-of-band signalling, and what exactly a fifo is good for.
+
 notes:
   title: Music theory with Python
   subtitle: https://github.com/oscarbyrne/notes
