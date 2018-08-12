@@ -26,7 +26,7 @@ globalme:
     - Refactored large code base (~15000 LOC) to be more maintainable
     - Established processes – code review, development phases – for the team in Vancouver
     - Mentored (including leading training sessions in Git and Python) a team of 9 manual testers
-    - "Technologies: Ansible, Python, Bash, Powershell"
+    - "Technologies: Python, Robot Framework"
 
 ultrahaptics:
   title: DevOps Engineer
