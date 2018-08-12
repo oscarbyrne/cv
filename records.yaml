@@ -53,9 +53,9 @@ desy:
   subtitle: DESY
   dates: July 2013 – August 2013
   bullets:
-    - Lived in Hamburg, Germany studying the world’s most brilliant x-ray source
-    - Created an RPC endpoint for sharing experimental data
-    - Developed an image processing toolchain in Python for analysing tomographic data
+    - Programmatically analyzed the erosion of heart implants via computer vision
+    - Studied and worked with the world's most brilliant x-ray source in Hamburg, Germany
+    - Streamlined research by creating an RPC endpoint for sharing experimental data
     - "Technologies: Python (including the SciPy toolkit), WSDL"
 
 pysh:
