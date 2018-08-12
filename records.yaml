@@ -120,11 +120,11 @@ degree:
   subtitle: University of Birmingham
   dates: 2010 - 2014
   text: >-
-    For my fourth year project I became involved with front-line research
-    in metamaterials, and contributed to a project which was presented
-    as part of the PIERS conference 2014 in China. I chose mostly
-    computing-related modules, including:
+    During my final year project I became involved with front-line research
+    in metamaterials, contributing to a project presented
+    as part of the PIERS conference 2014 in China. Modules of study included:
   bullets:
+    - Intro to C++
     - Computational Modelling of Physical Systems
     - Teaching in Schools
     - Image Processing
