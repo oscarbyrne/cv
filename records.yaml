@@ -33,8 +33,8 @@ ultrahaptics:
   subtitle: Ultrahaptics
   dates: February 2017 - August 2017
   bullets:
-    - Maintained Teamcity CI pipeline, including Windows and Macintosh machines (~10 nodes)
     - Delivered a proof-of-concept CD pipeline for building and deploying VMs
+    - Maintained Teamcity CI pipeline, including Windows and Macintosh machines (~10 nodes)
     - "Technologies: Ansible, Python, Bash, Powershell"
 
 cisco:
@@ -42,10 +42,10 @@ cisco:
   subtitle: Cisco, formerly Acano
   dates: October 2014 - July 2016
   bullets:
-    - Analysed VOIP deployments to determine root cause of test failures
-    - Drove adoption of agile work style by championing test automation
     - Developed a “write once, run anywhere” test framework covering mobile, desktop and web
+    - Drove adoption of agile work style by championing test automation
     - Planned comprehensive testing strategy (including CI with remote teams) for next-gen product
+    - Analysed VOIP deployments to determine root cause of test failures
     - "Technologies: Python, Java (including Android SDK), Groovy, Bash"
 
 desy:
