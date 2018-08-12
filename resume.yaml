@@ -11,15 +11,15 @@ phone: +1 (604)-355-1519
 pages: 
 
   -
-    - records:
-        - motivation
+    # - records:
+    #     - motivation
 
-    - title: Work Experience
-      records:
+    - records:
         - globalme2
         - globalme
         - ultrahaptics
         - cisco
+        - desy
 
   -
     - title: Hobbyist Portfolio
@@ -27,14 +27,14 @@ pages:
         - pyatonic
         - resume
 
-    - title: Other Experience
-      records:
-        - desy
+    # - title: Other Experience
+    #   records:
+    #     - desy
 
     - title: Education
       records:
         - degree
 
-    # - title: Other Interests
-    #   records:
-    #     - interests
+    - title: Other Interests
+      records:
+        - interests
