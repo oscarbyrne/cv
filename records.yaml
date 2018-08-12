@@ -44,9 +44,9 @@ cisco:
   bullets:
     - Analysed VOIP deployments to determine root cause of test failures
     - Drove adoption of agile work style by championing test automation
-    - Developed a “write once, run anywhere” test framework covering Android, iOS, Windows, Mac and web
+    - Developed a “write once, run anywhere” test framework covering mobile, desktop and web
     - Planned comprehensive testing strategy (including CI with remote teams) for next-gen product
-    - "Technologies: Python, Java, Bash"
+    - "Technologies: Python, Java (including Android SDK), Groovy, Bash"
 
 desy:
   title: Summer Studentship Computing Program
