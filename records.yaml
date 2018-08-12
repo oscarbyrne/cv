@@ -56,6 +56,7 @@ desy:
     - Lived in Hamburg, Germany studying the world’s most brilliant x-ray source
     - Created an RPC endpoint for sharing experimental data
     - Developed an image processing toolchain in Python for analysing tomographic data
+    - "Technologies: Python (including the SciPy toolkit), WSDL"
 
 pysh:
   title: Experiments with Bash and Python
