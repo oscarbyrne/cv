@@ -13,7 +13,7 @@ globalme2:
   bullets:
     - Managed hosted infrastructure via AWS
     - Adapted the back end code for authentication via AWS Cognito
-    - Developed a SPA for database administration
+    - Developed a SPA for database administration (CRUD operations)
     - Automated various manual processes by creating a library of Photoshop plugins in Javascript
     - "Technologies: Python, Flask, Javascript (JQuery and ExtendScript), AWS, PostgreSQL"
 
