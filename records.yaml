@@ -11,10 +11,10 @@ globalme2:
   subtitle: Globalme
   dates: May 2018 - July 2018
   bullets:
-    - Managed hosted infrastructure via AWS
-    - Adapted the back end code for authentication via AWS Cognito
+    - Adapted an open-source crowdsourcing framework for 2FA authentication via AWS Cognito
     - Developed a SPA for database administration (CRUD operations)
-    - Automated various manual processes by creating a library of Photoshop plugins in Javascript
+    - Managed hosted infrastructure via AWS
+    - Drove automation by creating a highly-modular library of Photoshop functions in Javascript
     - "Technologies: Python, Flask, Javascript (JQuery and ExtendScript), AWS, PostgreSQL"
 
 globalme:
