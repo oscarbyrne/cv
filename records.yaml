@@ -23,7 +23,7 @@ globalme:
   dates: November 2017 - May 2018
   bullets:
     - Managed migration of test development from India to Vancouver
-    - Refactored large code base (~15000 LOC) to be more maintainable
+    - Accelerated development time by refactoring large code base (~15000 LOC)
     - Established processes – code review, development phases – for the team in Vancouver
     - Mentored (including leading training sessions in Git and Python) a team of 9 manual testers
     - "Technologies: Python, Robot Framework"
