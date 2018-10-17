@@ -11,9 +11,9 @@ globalme2:
   subtitle: Globalme
   dates: May 2018 - July 2018
   bullets:
-    - Adapted an open-source crowdsourcing framework for 2FA authentication via AWS Cognito
-    - Developed a SPA for database administration (CRUD operations)
-    - Managed hosted infrastructure via AWS
+    - Adapted an open-source Python Flask application for 2FA authentication via AWS Cognito
+    - Developed a SPA for database administration (CRUD operations) with JQuery and Python Flask
+    - Managed hosted infrastructure via AWS EC2 and RDS
     - Drove automation by creating a highly-modular library of Photoshop functions in Javascript
     - "Technologies: Python, Flask, Javascript (JQuery and ExtendScript), AWS, PostgreSQL"
 
@@ -23,7 +23,7 @@ globalme:
   dates: November 2017 - May 2018
   bullets:
     - Managed migration of test development from India to Vancouver
-    - Accelerated development time by refactoring large code base (~15000 LOC)
+    - Accelerated development time by refactoring large Robot Framework code base (~15000 LOC)
     - Established processes – code review, development phases – for the team in Vancouver
     - Mentored (including leading training sessions in Git and Python) a team of 9 manual testers
     - "Technologies: Python, Robot Framework"
@@ -33,7 +33,8 @@ ultrahaptics:
   subtitle: Ultrahaptics
   dates: February 2017 - August 2017
   bullets:
-    - Delivered a proof-of-concept CD pipeline for building and deploying VMs
+    - Improved reproducibility of builds by creating VMs on demand using Packer and Ansible
+    - Developed a simple orchestration system using Python and Bash
     - Maintained Teamcity CI pipeline, including Windows and Macintosh machines (~10 nodes)
     - "Technologies: Ansible, Python, Bash, Powershell"
 
@@ -42,10 +43,10 @@ cisco:
   subtitle: Cisco, formerly Acano
   dates: October 2014 - July 2016
   bullets:
-    - Developed a “write once, run anywhere” test framework covering mobile, desktop and web
-    - Drove adoption of agile work style by championing test automation
-    - Planned comprehensive testing strategy (including CI with remote teams) for next-gen product
-    - Analysed VOIP deployments to determine root cause of test failures
+    - Developed a “write once, run anywhere” test framework using Python Selenium and Appium
+    - Maintained CD pipeline for Android-based custom hardware project with Jenkins and Groovy
+    - Implemented page object pattern with Java and Espresso
+    - Analyzed VOIP deployments to determine root cause of test failures
     - "Technologies: Python, Java (including Android SDK), Groovy, Bash"
 
 desy:
@@ -69,7 +70,7 @@ pysh:
     That's why I came up with a tool - Pysh - which gives you a persistent
     Python interpreter which is easily accessed inline from Bash. This was a great
     learning experience for me where I gained an appreciation for the difference
-    between in- and out-of-band signalling, and what exactly a fifo is good for.
+    between in- and out-of-band signaling, and what exactly a fifo is good for.
 
 pysh-short:
   title: Bash-embedded Python
@@ -77,7 +78,7 @@ pysh-short:
   text: >-
     Pysh is a tool I created in a bid to elegantly embed Python into Bash. This was a great
     learning experience for me where I gained an appreciation for the difference
-    between in- and out-of-band signalling, and what exactly a fifo is good for.
+    between in- and out-of-band signaling, and what exactly a fifo is good for.
 
 notes:
   title: Music theory with Python
@@ -125,7 +126,7 @@ degree:
     at the PIERS conference in China. Modules of study included:
   bullets:
     - Intro to C++
-    - Computational Modelling of Physical Systems
+    - Computational Modeling of Physical Systems
     - Teaching in Schools
     - Image Processing
 
