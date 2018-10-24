@@ -15,7 +15,7 @@ globalme2:
     - Developed a SPA for database administration (CRUD operations) with JQuery and Python Flask
     - Managed hosted infrastructure via AWS EC2 and RDS
     - Drove automation by creating a highly-modular library of Photoshop functions in Javascript
-    - "Technologies: Python, Flask, Javascript (JQuery and ExtendScript), AWS, PostgreSQL"
+    - "Technologies: Python, Flask, Javascript, AWS, PostgreSQL"
 
 globalme:
   title: Automation Engineer
@@ -26,7 +26,7 @@ globalme:
     - Accelerated development time by refactoring large Robot Framework code base (~15000 LOC)
     - Established processes – code review, development phases – for the team in Vancouver
     - Mentored (including leading training sessions in Git and Python) a team of 9 manual testers
-    - "Technologies: Python, Robot Framework"
+    - "Technologies: Python, Robot Framework, Git"
 
 ultrahaptics:
   title: DevOps Engineer
@@ -34,9 +34,9 @@ ultrahaptics:
   dates: February 2017 - August 2017
   bullets:
     - Improved reproducibility of builds by creating VMs on demand using Packer and Ansible
-    - Developed a simple orchestration system using Python and Bash
+    - Developed a simple orchestration system using Python, Bash and Jenkins
     - Maintained Teamcity CI pipeline, including Windows and Macintosh machines (~10 nodes)
-    - "Technologies: Ansible, Python, Bash, Powershell"
+    - "Technologies: Ansible, Bash, Powershell, Packer, Teamcity, Jenkins, Git"
 
 cisco:
   title: Software Engineer
@@ -47,7 +47,7 @@ cisco:
     - Maintained CD pipeline for Android-based custom hardware project with Jenkins and Groovy
     - Implemented page object pattern with Java and Espresso
     - Analyzed VOIP deployments to determine root cause of test failures
-    - "Technologies: Python, Java (including Android SDK), Groovy, Bash"
+    - "Technologies: Python, Appium, Selenium, Java, Espresso, Android SDK, Jenkins"
 
 desy:
   title: Summer Studentship Computing Program
