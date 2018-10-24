@@ -46,7 +46,7 @@ cisco:
     - Developed a “write once, run anywhere” test framework using Python Selenium and Appium
     - Maintained CD pipeline for Android-based custom hardware project with Jenkins and Groovy
     - Implemented page object pattern with Java and Espresso
-    - Analyzed VOIP deployments to determine root cause of test failures
+    - Oversaw creation of test lab with experimental hardware
     - "Technologies: Python, Appium, Selenium, Java, Espresso, Android SDK, Jenkins"
 
 desy:
