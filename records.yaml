@@ -6,6 +6,45 @@ motivation:
     That means: beautiful interfaces; no fear for refactoring;
     and, of course, following the style guidelines(!).
 
+motivation_2023:
+  text: >-
+    After taking an extended gap in my career I'm eager to dive back into the
+    world of software testing. I see QA as performing a service both internal
+    and to our end-users. I am particularly interested in how automation,
+    ways of working and effective leadership can help support and empower
+    manual QA.
+
+plastering:
+  title: Lime plasterer
+  subtitle: Byrne Surfaces
+  dates: November 2021 - May 2023
+  bullets:
+    - Conserved historic buildings using traditional materials and techniques
+    - Learned important lessons in being humble, tenacity and inorganic chemistry
+    - "Technologies: Lime, Earth, Wood, Stone, Animal Hair"
+
+hsbc:
+  title: Software Development Engineer in Test
+  subtitle: Self employed, contracted by HSBC
+  dates: July 2019 - June 2021
+  bullets:
+    - Maintained a vast test framework spanning multiple timezones
+    - Advocated tirelessly for positive change in QA practice
+    - Developed new framework features including tests involving multiple devices
+    - Trained other teams to close skill gaps
+    - "Technologies: Java, Appium"
+
+sophos:
+  title: Software Development Engineer in Test
+  subtitle: Sophos
+  dates: November 2018 - July 2019
+  bullets:
+    - Developed testing strategies for an unstable Windows driver
+    - Implemented an instrumentation library with Powershell
+    - Tracked flakiness over time for quality assesment
+    - Assembled a small Windows network for orchestrating WDTF tests
+    - "Technologies: Powershell, Python, WDTF"
+
 globalme2:
   title: Full Stack Developer
   subtitle: Globalme
