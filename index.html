@@ -26,6 +26,9 @@
           padding: 2rem 0;
           display: flex;
           justify-content: flex-end;
+          color: #069;
+          text-decoration: underline;
+          cursor: pointer;
         }
         .download-banner img {
           height: 1em;
@@ -46,7 +49,7 @@
       .sheet,
       .sheet > header,
       .sheet > footer,
-      .sheet > main, 
+      .sheet > main,
       .record > header {
         display: flex;
         justify-content: space-between;
@@ -82,17 +85,18 @@
       .record {
         margin-bottom: 2rem;
       }
-      
+
     </style>
     <link rel="stylesheet" href="fonts.css">
   </head>
   <body class="A4">
-    <a href="./resume.pdf" download="OscarByrneResume.pdf">
-      <div class="download-banner">
-        <div>Get PDF</div>
-        <img src="./pdf.svg">
-      </div>
+    <a href="https://github.com/oscarbyrne/cv">
+        <img decoding="async" loading="lazy" width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_left_green_007200.png?resize=149%2C149" class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1">
     </a>
+    <div class="download-banner" onclick="window.print()">
+        <div>Get PDF</div>
+        <img src="https://raw.githubusercontent.com/oscarbyrne/cv/540da8beb4e10be8d6d0518a04e2b7135b1df096/pdf.svg">
+    </div>
     <div class="sheet">
       <header>
         <h1>Oscar Byrne</h1>
