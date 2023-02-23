@@ -41,9 +41,9 @@ def build_context(config, records):
 
 def main(config, records, template, output):
     with open(config) as f:
-        config = yaml.load(f)
+        config = yaml.safe_load(f)
     with open(records) as f:
-        records = yaml.load(f)
+        records = yaml.safe_load(f)
 
     context = build_context(config, records)
 
@@ -65,4 +65,3 @@ if __name__ == "__main__":
         **vars(opts)
     )
 
-    
