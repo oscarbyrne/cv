@@ -17,16 +17,19 @@ pages:
 
     - title: Experience
       records:
-        - plastering
         - hsbc
         - sophos
         - globalme2
+        - globalme
 
   -
     - records:
-        - globalme
         - ultrahaptics
         - cisco
+
+    - title: Other Experience
+      records:
+        - plastering
         - desy
 
   -
@@ -35,10 +38,6 @@ pages:
         - pyatonic
         - resume
         - pysh-short
-
-    # - title: Other Experience
-    #   records:
-    #     - desy
 
     - title: Education
       records:
