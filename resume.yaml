@@ -20,10 +20,10 @@ pages:
         - hsbc
         - sophos
         - globalme2
-        - globalme
 
   -
     - records:
+        - globalme
         - ultrahaptics
         - cisco
 
