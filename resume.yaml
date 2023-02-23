@@ -11,7 +11,8 @@ phone: +44 (747)-861-9459
 pages:
 
   -
-    - records:
+    - title: Motivation
+      records:
         - motivation_2023
 
     - title: Experience
@@ -20,6 +21,9 @@ pages:
         - hsbc
         - sophos
         - globalme2
+
+  -
+    - records:
         - globalme
         - ultrahaptics
         - cisco
