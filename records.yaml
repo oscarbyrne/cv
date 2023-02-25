@@ -10,54 +10,77 @@ globalme2:
   title: Full Stack Developer
   subtitle: Globalme
   dates: May 2018 - July 2018
+  tech:
+    - Python
+    - Flask
+    - Javascript
+    - AWS
+    - PostgreSQL
   bullets:
     - Adapted an open-source Python Flask application for 2FA authentication via AWS Cognito
     - Developed a SPA for database administration (CRUD operations) with JQuery and Python Flask
     - Managed hosted infrastructure via AWS EC2 and RDS
     - Drove automation by creating a highly-modular library of Photoshop functions in Javascript
-    - "Technologies: Python, Flask, Javascript, AWS, PostgreSQL"
 
 globalme:
   title: Automation Engineer
   subtitle: Globalme, contracted by Intel
   dates: November 2017 - May 2018
+  tech:
+    - Python
+    - Robot Framework
   bullets:
     - Managed migration of test development from India to Vancouver
     - Accelerated development time by refactoring large Robot Framework code base (~15000 LOC)
     - Established processes – code review, development phases – for the team in Vancouver
     - Mentored (including leading training sessions in Git and Python) a team of 9 manual testers
-    - "Technologies: Python, Robot Framework, Git"
 
 ultrahaptics:
   title: DevOps Engineer
   subtitle: Ultrahaptics
   dates: February 2017 - August 2017
+  tech:
+    - Ansible
+    - Bash
+    - Powershell
+    - Packer
+    - Teamcity
+    - Jenkins
+    - Git
   bullets:
     - Improved reproducibility of builds by creating VMs on demand using Packer and Ansible
     - Developed a simple orchestration system using Python, Bash and Jenkins
     - Maintained Teamcity CI pipeline, including Windows and Macintosh machines (~10 nodes)
-    - "Technologies: Ansible, Bash, Powershell, Packer, Teamcity, Jenkins, Git"
 
 cisco:
   title: Software Engineer
   subtitle: Cisco, formerly Acano
   dates: October 2014 - July 2016
+  tech:
+    - Python
+    - Appium
+    - Selenium
+    - Java
+    - Espresso
+    - Android SDK
+    - Jenkins
   bullets:
     - Developed a “write once, run anywhere” test framework using Python Selenium and Appium
     - Maintained CD pipeline for Android-based custom hardware project with Jenkins and Groovy
     - Implemented page object pattern with Java and Espresso
     - Oversaw creation of test lab with experimental hardware
-    - "Technologies: Python, Appium, Selenium, Java, Espresso, Android SDK, Jenkins"
 
 desy:
   title: Summer Studentship Computing Program
   subtitle: DESY
   dates: July 2013 – August 2013
+  tech:
+    - Python (including the SciPy toolkit)
+    - WSDL
   bullets:
     - Programmatically analyzed the erosion of heart implants via computer vision
     - Studied and worked with the world's most brilliant x-ray source in Hamburg, Germany
     - Streamlined research by creating an RPC endpoint for sharing experimental data
-    - "Technologies: Python (including the SciPy toolkit), WSDL"
 
 pysh:
   title: Experiments with Bash and Python
