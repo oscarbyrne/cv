@@ -11,17 +11,17 @@ parser = argparse.ArgumentParser(
 parser.add_argument(
     "-c", "--config",
     help="yaml file containing layout + basic configuration",
-    default="./resume.yaml"
+    default="./resume/config.yaml"
 )
 parser.add_argument(
     "-r", "--records",
     help="yaml file containing records, used to populate resume",
-    default="./records.yaml"
+    default="./resume/records.yaml"
 )
 parser.add_argument(
     "-t", "--template",
     help="template Jinja2 HTML file",
-    default="./resume.html.j2"
+    default="./resume/template.j2"
 )
 parser.add_argument(
     "-o", "--output",
