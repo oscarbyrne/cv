@@ -41,10 +41,10 @@
         }
       }
       body {
-        font-size: {{ font_size | default("18px") }};
+        font-size: 18px;
       }
       .sheet {
-        padding: {{ page_margin | default("2rem") }};
+        padding: 2rem;
       }
       .sheet,
       .sheet > header,
@@ -63,27 +63,26 @@
       .sheet > main {
         flex-direction: column;
       }
-      .sheet > header {
-        align-items: flex-end;
-      }
-      .record > header {
-        align-items: baseline;
-      }
       contact > ul {
         list-style-type: none;
         text-align: right;
       }
-      h2 {
+      h4 {
+        font-style: italic;
+        font-weight: normal;
+      }
+      .sheet > header {
+        align-items: center;
+      }
+      section > header {
         margin-bottom: 1rem;
       }
       .record > header {
-        margin-bottom: 0.5rem;
-      }
-      .record__text {
+        align-items: start;
         margin-bottom: 0.5rem;
       }
       .record {
-        margin-bottom: 2rem;
+        margin-bottom: 1.5rem;
       }
 
     </style>
@@ -116,12 +115,14 @@
       </header>
       # endif
       # for section in page:
-      <article class="section">
+      <section>
         # if section.title:
-        <h2>{{ section.title }}</h2>
+        <header>
+          <h2>{{ section.title }}</h2>
+        </header>
         # endif
         # for record in section.records:
-        <section class="record">
+        <article class="record">
           # if record.title or record.subtitle or record.dates:
           <header>
             <div>
@@ -129,7 +130,10 @@
               <h3>{{ record.title }}</h3>
               # endif
               # if record.subtitle:
-              <i>{{ record.subtitle }}</i>
+              <h4>{{ record.subtitle }}</h4>
+              # endif
+              # if record.tech:
+              {{ ", ".join(record.tech) }}
               # endif
             </div>
             # if record.dates:
@@ -140,10 +144,10 @@
           # if record.text or record.bullets:
           <main>
             # if record.text:
-            <p class="record__text">{{ record.text }}</p>
+            <p>{{ record.text }}</p>
             # endif
             # if record.bullets:
-            <ul class="record__bullets">
+            <ul>
               # for bullet in record.bullets:
               <li>{{ bullet }}</li>
               # endfor
@@ -151,9 +155,9 @@
             # endif
           </main>
           # endif
-        </section>
+        </article>
         # endfor
-      </article>
+      </section>
       # endfor
       <footer>
         <div>{{ name }}</div>
