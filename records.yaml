@@ -126,7 +126,7 @@ ultrahaptics:
     - Jenkins
     - Git
   bullets:
-    - Improved reproducability of builds using VMS deployed with Packer and Ansible
+    - Improved reproducability of builds using VMs deployed with Packer and Ansible
     - Developed a simple orchestration system using Python, Bash and Jenkins
     - Maintained Teamcity CI pipeline with Windows and Mac machines (~10 nodes)
 
