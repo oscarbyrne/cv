@@ -14,6 +14,17 @@ motivation_2023:
     ways of working and effective leadership can help support and empower
     manual QA.
 
+plastering_short:
+  title: Lime plasterer
+  subtitle: Byrne Surfaces
+  dates: November 2021 - May 2023
+  tech:
+    - Lime
+    - Earth
+    - Wood
+    - Stone
+    - Animal Hair
+
 plastering:
   title: Lime plasterer
   subtitle: Byrne Surfaces
@@ -55,6 +66,23 @@ sophos:
     - Implemented an instrumentation library with Powershell
     - Tracked flakiness over time for quality assesment
     - Assembled a small Windows network for orchestrating WDTF tests
+
+globalme_consolidated:
+  title: Automation Engineer
+  subtitle: Globalme, contracted by Intel
+  dates: November 2017 - July 2018
+  tech:
+    - Python
+    - Robot Framework
+    - Flask
+    - Javascript
+    - AWS
+  bullets:
+    - Managed migration of test development from India to Vancouver
+    - Accelerated development time by refactoring large Robot Framework code base (~15000 LOC)
+    - Established processes – code review, development phases – for the team in Vancouver
+    - Mentored (including leading training sessions in Git and Python) a team of 9 manual testers
+    - Retained after project at Intel ended, briefly stepping into a Full Stack Developer position
 
 globalme2:
   title: Full Stack Developer
@@ -120,6 +148,15 @@ cisco:
     - Implemented page object pattern with Java and Espresso
     - Oversaw creation of test lab with experimental hardware
 
+desy_short:
+  title: Summer Studentship Computing Program
+  subtitle: DESY
+  dates: July 2013 – August 2013
+  tech:
+    - Python
+    - SciPy
+    - WSDL
+
 desy:
   title: Summer Studentship Computing Program
   subtitle: DESY
@@ -145,7 +182,7 @@ pysh:
     learning experience for me where I gained an appreciation for the difference
     between in- and out-of-band signaling, and what exactly a fifo is good for.
 
-pysh-short:
+pysh_short:
   title: Bash-embedded Python
   subtitle: https://github.com/oscarbyrne/pysh
   text: >-
@@ -188,6 +225,11 @@ resume:
     - job records and document layout - in a series of easily-editable config files
     and generating responsive HTML5 via a Jinja2 template, I create first-class resumes
     in an instant. You're reading one right now!
+
+degree_short:
+  title: MSCi Physics (3.5 GPA equivalent)
+  subtitle: University of Birmingham
+  dates: 2010 - 2014
 
 degree:
   title: MSCi Physics (3.5 GPA equivalent)

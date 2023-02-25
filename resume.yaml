@@ -11,38 +11,26 @@ phone: +44 (747)-861-9459
 pages:
 
   -
-    - title: Motivation
-      records:
-        - motivation_2023
-
     - title: Experience
       records:
         - hsbc
         - sophos
-        - globalme2
-
-  -
-    - records:
-        - globalme
+        - globalme_consolidated
         - ultrahaptics
         - cisco
 
+  -
     - title: Other Experience
       records:
-        - plastering
-        - desy
+        - plastering_short
+        - desy_short
 
-  -
     - title: Hobbyist Portfolio
       records:
-        - pyatonic
         - resume
-        - pysh-short
+        - pyatonic
+        - pysh_short
 
     - title: Education
       records:
-        - degree
-
-    - title: Other Interests
-      records:
-        - interests
+        - degree_short
