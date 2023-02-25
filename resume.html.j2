@@ -73,6 +73,10 @@
         font-style: italic;
         font-weight: normal;
       }
+      a {
+        color: black;
+        text-decoration: none;
+      }
       .sheet > header {
         align-items: center;
       }
@@ -104,9 +108,9 @@
         <h1>{{ name }}</h1>
         <contact>
           <ul>
-            <li>{{ email }}</li>
-            <li>{{ website }}</li>
-            <li>{{ phone }}</li>
+            <li><a href="mailto:{{ email }}">{{ email }}</a></li>
+            <li><a href="{{ website }}">{{ website }}</a></li>
+            <li><a href="tel:{{ phone }}">{{ phone }}</a></li>
           </ul>
         </contact>
       </header>
@@ -134,8 +138,11 @@
               # if record.subtitle:
               <h4>{{ record.subtitle }}</h4>
               # endif
+              # if record.url:
+              <div><a href="{{ record.url }}">{{ record.url }}</a></div>
+              # endif
               # if record.tech:
-              {{ ", ".join(record.tech) }}
+              <div>{{ ", ".join(record.tech) }}</div>
               # endif
             </div>
             # if record.dates:

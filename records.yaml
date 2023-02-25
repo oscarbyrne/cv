@@ -171,7 +171,7 @@ desy:
 
 pysh:
   title: Experiments with Bash and Python
-  subtitle: https://github.com/oscarbyrne/pysh
+  url: https://github.com/oscarbyrne/pysh
   text: >-
     I often find projects start with a Bash script. It's a great language
     for stitching together external tools or doing weird things with the file system.
@@ -184,7 +184,7 @@ pysh:
 
 pysh_short:
   title: Bash-embedded Python
-  subtitle: https://github.com/oscarbyrne/pysh
+  url: https://github.com/oscarbyrne/pysh
   text: >-
     Pysh is a tool I created in a bid to elegantly embed Python into Bash. This was a great
     learning experience for me where I gained an appreciation for the difference
@@ -192,7 +192,7 @@ pysh_short:
 
 notes:
   title: Music theory with Python
-  subtitle: https://github.com/oscarbyrne/notes
+  url: https://github.com/oscarbyrne/notes
   text: >-
     I have a number of hobbyist projects using Python, but the one which I am most
     happy about (aka the most recent!) is a tool for composers which classifies
@@ -204,7 +204,7 @@ notes:
 
 pyatonic:
   title: Advanced music theory with Python
-  subtitle: https://github.com/oscarbyrne/pyatonic
+  url: https://github.com/oscarbyrne/pyatonic
   text: >-
     Music theory is one of my passions. I've recently had the opportunity to dive deep
     into some of the concepts I've been reading about, requiring working knowledge in a
@@ -217,7 +217,7 @@ pyatonic:
 
 resume:
   title: Resume builder
-  subtitle: https://github.com/oscarbyrne/cv
+  url: https://github.com/oscarbyrne/cv
   text: >-
     When job hunting I find I spend an inordinate amount of time formatting my resume.
     To cut down on this time I created a library which creates beautifully-formatted
