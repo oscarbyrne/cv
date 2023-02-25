@@ -28,7 +28,7 @@ plastering_short:
 plastering:
   title: Lime plasterer
   subtitle: Byrne Surfaces
-  dates: November 2021 - May 2023
+  dates: Nov 2021 - May 2023
   tech:
     - Lime
     - Earth
@@ -42,7 +42,7 @@ plastering:
 hsbc:
   title: Software Development Engineer in Test
   subtitle: Self employed, contracted by HSBC
-  dates: July 2019 - June 2021
+  dates: Jul 2019 - Jun 2021
   tech:
     - Java
     - Appium
@@ -56,7 +56,7 @@ hsbc:
 sophos:
   title: Software Development Engineer in Test
   subtitle: Sophos
-  dates: November 2018 - July 2019
+  dates: Nov 2018 - Jul 2019
   tech:
     - Powershell
     - Python
@@ -70,7 +70,7 @@ sophos:
 globalme_consolidated:
   title: Automation Engineer
   subtitle: Globalme, contracted by Intel
-  dates: November 2017 - July 2018
+  dates: Nov 2017 - Jul 2018
   tech:
     - Python
     - Robot Framework
@@ -79,15 +79,15 @@ globalme_consolidated:
     - AWS
   bullets:
     - Managed migration of test development from India to Vancouver
-    - Accelerated development time by refactoring large Robot Framework code base (~15000 LOC)
-    - Established processes – code review, development phases – for the team in Vancouver
-    - Mentored (including leading training sessions in Git and Python) a team of 9 manual testers
-    - Retained after project at Intel ended, briefly stepping into a Full Stack Developer position
+    - Refactored 15k LOC Robot Framework test suite to use Page Objects
+    - Established code review and development phases for the team in Vancouver
+    - Mentored - including training sessions in Git and Python - 9 manual testers
+    - Briefly retained as Full Stack Developer after project at Intel ended
 
 globalme2:
   title: Full Stack Developer
   subtitle: Globalme
-  dates: May 2018 - July 2018
+  dates: May 2018 - Jul 2018
   tech:
     - Python
     - Flask
@@ -103,7 +103,7 @@ globalme2:
 globalme:
   title: Automation Engineer
   subtitle: Globalme, contracted by Intel
-  dates: November 2017 - May 2018
+  dates: Nov 2017 - May 2018
   tech:
     - Python
     - Robot Framework
@@ -116,7 +116,7 @@ globalme:
 ultrahaptics:
   title: DevOps Engineer
   subtitle: Ultrahaptics
-  dates: February 2017 - August 2017
+  dates: Feb 2017 - Aug 2017
   tech:
     - Ansible
     - Bash
@@ -126,32 +126,32 @@ ultrahaptics:
     - Jenkins
     - Git
   bullets:
-    - Improved reproducibility of builds by creating VMs on demand using Packer and Ansible
+    - Improved reproducability of builds using VMS deployed with Packer and Ansible
     - Developed a simple orchestration system using Python, Bash and Jenkins
-    - Maintained Teamcity CI pipeline, including Windows and Macintosh machines (~10 nodes)
+    - Maintained Teamcity CI pipeline with Windows and Mac machines (~10 nodes)
 
 cisco:
   title: Software Engineer
   subtitle: Cisco, formerly Acano
-  dates: October 2014 - July 2016
+  dates: Oct 2014 - Jul 2016
   tech:
     - Python
     - Appium
     - Selenium
     - Java
     - Espresso
-    - Android SDK
     - Jenkins
+    - Groovy
   bullets:
-    - Developed a “write once, run anywhere” test framework using Python Selenium and Appium
-    - Maintained CD pipeline for Android-based custom hardware project with Jenkins and Groovy
+    - Developed a “write once, run anywhere” test framework for desktop and mobile
+    - Maintained Jenkins CD pipeline for Android-based custom hardware project
     - Implemented page object pattern with Java and Espresso
     - Oversaw creation of test lab with experimental hardware
 
 desy_short:
   title: Summer Studentship Computing Program
   subtitle: DESY
-  dates: July 2013 – August 2013
+  dates: Jul 2013 – Aug 2013
   tech:
     - Python
     - SciPy
@@ -160,7 +160,7 @@ desy_short:
 desy:
   title: Summer Studentship Computing Program
   subtitle: DESY
-  dates: July 2013 – August 2013
+  dates: Jul 2013 – Aug 2013
   tech:
     - Python (including the SciPy toolkit)
     - WSDL
