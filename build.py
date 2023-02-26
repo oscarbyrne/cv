@@ -1,67 +1,63 @@
-import argparse
-import copy
+import shutil
+import os
 
 import yaml
 import jinja2
 
 
-parser = argparse.ArgumentParser(
-    description="Generates HTML resumes"
-)
-parser.add_argument(
-    "-c", "--config",
-    help="yaml file containing layout + basic configuration",
-    default="./resume/layout.yaml"
-)
-parser.add_argument(
-    "-r", "--records",
-    help="yaml file containing records, used to populate resume",
-    default="./resume/records.yaml"
-)
-parser.add_argument(
-    "-s", "--style_sheet",
-    help="css file",
-    default="./resume/style.css"
-)
-parser.add_argument(
-    "-t", "--template",
-    help="template Jinja2 HTML file",
-    default="./resume/template.j2"
-)
-parser.add_argument(
-    "-o", "--output",
-    help="output HTML file",
-    default="./index.html"
-)
+def yaml_from_path(path):
+    with open(path) as f:
+        return yaml.safe_load(f)
 
-
-def build_context(config, records, style_sheet):
-    with open(config) as f: config = yaml.safe_load(f)
-    with open(records) as f: records = yaml.safe_load(f)
-    context = copy.copy(config)
-    context["style_sheet"] = style_sheet
-    for page in context["pages"]:
+def build_context(specification, records):
+    context = yaml_from_path(specification)
+    records = yaml_from_path(records)
+    for page in context['pages']:
         for section in page:
-            section["records"] = [
+            section['records'] = [
                 records[name] for name in section["records"]
             ]
     return context
 
-def main(config, records, style_sheet, template, output):
-    context = build_context(config, records, style_sheet)
-    html = jinja2.Environment(
+def render_html(template, context):
+    return jinja2.Environment(
         loader=jinja2.FileSystemLoader("./"),
         trim_blocks=True,
         lstrip_blocks=True,
         line_statement_prefix="#"
     ).get_template(template).render(context)
+
+def build(html, static_dir, deploy_dir):
+    shutil.copytree(
+        static_dir,
+        os.path.join(deploy_dir, 'static'),
+        dirs_exist_ok=True
+    )
+    output = os.path.join(deploy_dir, 'index.html')
     with open(output, "w") as f:
         f.write(html)
 
-
-if __name__ == "__main__":
-    opts = parser.parse_args()
-    main(
-        **vars(opts)
+def main(specification, records, template, static_dir, deploy_dir):
+    context = build_context(
+        specification,
+        records
+    )
+    html = render_html(
+        template,
+        context
+    )
+    build(
+        html,
+        static_dir,
+        deploy_dir
     )
 
+
+if __name__ == "__main__":
+    main(
+        './resume/specification.yaml',
+        './resume/records.yaml',
+        './resume/template.j2',
+        './resume/static',
+        './deploy'
+    )

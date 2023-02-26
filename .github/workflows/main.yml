@@ -15,9 +15,6 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
-env:
-  BUILD_PATH: "."
-
 jobs:
   build:
     name: Build
@@ -39,7 +36,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ${{ env.BUILD_PATH }}
+          path: deploy
   deploy:
     environment:
       name: github-pages
