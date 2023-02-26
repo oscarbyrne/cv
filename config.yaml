@@ -1,0 +1,5 @@
+specification_file: ./resume/specification.yaml
+records_file: ./resume/records.yaml
+template_file: ./resume/template.j2
+static_dir: ./resume/static
+deploy_dir: ./deploy

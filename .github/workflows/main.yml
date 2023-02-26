@@ -33,10 +33,16 @@ jobs:
       - name: Build resume
         run: |
           python build.py
+      - name: Determine deploy directory
+        id: yaml-data
+        uses: jbutcher5/read-yaml@main
+        with:
+            file: './config.yaml'
+            key-path: deploy_dir
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: deploy
+          path: ${{ steps.yaml-data.outputs.data }}
   deploy:
     environment:
       name: github-pages
