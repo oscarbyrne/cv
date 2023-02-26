@@ -5,9 +5,7 @@ phone: +44 (747)-861-9459
 
 
 pages:
-
   - sections:
-
     - title: Experience
       records:
         - hsbc
@@ -17,7 +15,6 @@ pages:
         - cisco
 
   - sections:
-
     - title: Other Experience
       records:
         - plastering_short
