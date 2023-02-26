@@ -11,7 +11,7 @@ parser = argparse.ArgumentParser(
 parser.add_argument(
     "-c", "--config",
     help="yaml file containing layout + basic configuration",
-    default="./resume/config.yaml"
+    default="./resume/layout.yaml"
 )
 parser.add_argument(
     "-r", "--records",
