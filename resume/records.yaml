@@ -9,11 +9,11 @@ prof_summary:
 
 tech_summary:
   bullets:
-    - "Languages: Java, Python, Bash, Powershell"
-    - "Test tools: Appium, Selenium, Cucumber, Robot Framework, Espresso"
-    - "DevOps tools: Git, Jenkins, Teamcity, Ansible, AWS, Packer, GitHub Workflows"
-    - "Operating systems: macOS, Linux, Windows"
-    - "Other technologies: Django, Flask, WDTF"
+    - "<b>Languages:</b> Java, Python, Bash, Powershell"
+    - "<b>Test tools:</b> Appium, Selenium, Cucumber, Robot Framework, Espresso"
+    - "<b>DevOps tools:</b> Git, Jenkins, Teamcity, Ansible, AWS, Packer, GitHub Workflows"
+    - "<b>Operating systems:</b> macOS, Linux, Windows"
+    - "<b>Other technologies:</b> Django, Flask, WDTF"
 
 plastering:
   title: Byrne Surfaces
