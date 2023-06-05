@@ -43,25 +43,22 @@
         <article class="record">
           # if record.title or record.subtitle or record.dates:
           <header>
-            <div>
+            <span>
               # if record.title:
               <h3>{{ record.title }}</h3>
               # endif
-              # if record.subtitle:
-              <h4>{{ record.subtitle }}</h4>
+              # if record.location:
+              <div>{{ record.location }}</div>
               # endif
-              # if record.url:
-              <div><a href="{{ record.url }}">{{ record.url }}</a></div>
+              # if record.dates:
+              <time>{{ record.dates }}</time>
               # endif
-              # if record.tech:
-              <div>{{ ", ".join(record.tech) }}</div>
-              # endif
-            </div>
-            # if record.location:
-            <div>{{ record.location }}</div>
+            </span>
+            # if record.subtitle:
+            <h4>{{ record.subtitle }}</h4>
             # endif
-            # if record.dates:
-            <time>{{ record.dates }}</time>
+            # if record.url:
+            <div><a href="{{ record.url }}">{{ record.url }}</a></div>
             # endif
           </header>
           # endif
