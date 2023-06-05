@@ -15,20 +15,9 @@ tech_summary:
     - "Operating systems: macOS, Linux, Windows"
     - "Other technologies: Django, Flask, WDTF"
 
-plastering_short:
-  title: Lime plasterer
-  subtitle: Byrne Surfaces
-  dates: November 2021 - May 2023
-  tech:
-    - Lime
-    - Earth
-    - Wood
-    - Stone
-    - Animal Hair
-
 plastering:
-  title: Lime plasterer
-  subtitle: Byrne Surfaces
+  title: Byrne Surfaces
+  subtitle: Lime plasterer
   dates: Nov 2021 - May 2023
   tech:
     - Lime
@@ -41,8 +30,8 @@ plastering:
     - Learned important lessons in being humble, tenacity and inorganic chemistry
 
 hsbc:
-  title: Software Development Engineer in Test
-  subtitle: HSBC
+  title: HSBC
+  subtitle: Software Development Engineer in Test
   dates: Jul 2019 - Jun 2021
   tech:
     - Java
@@ -55,8 +44,8 @@ hsbc:
     - Trained other teams to close skill gaps
 
 sophos:
-  title: Software Development Engineer in Test
-  subtitle: Sophos
+  title: Sophos
+  subtitle: Software Development Engineer in Test
   dates: Nov 2018 - Jul 2019
   tech:
     - Powershell
@@ -69,8 +58,8 @@ sophos:
     - Assembled a small Windows network for orchestrating WDTF tests
 
 globalme_consolidated:
-  title: Automation Engineer
-  subtitle: Globalme, contracted by Intel
+  title: Globalme, contracted by Intel
+  subtitle: Automation Engineer
   dates: Nov 2017 - Jul 2018
   tech:
     - Python
@@ -86,8 +75,8 @@ globalme_consolidated:
     - Briefly retained as Full Stack Developer after project at Intel ended
 
 globalme2:
-  title: Full Stack Developer
-  subtitle: Globalme
+  title: Globalme
+  subtitle: Full Stack Developer
   dates: May 2018 - Jul 2018
   tech:
     - Python
@@ -102,8 +91,8 @@ globalme2:
     - Drove automation by creating a highly-modular library of Photoshop functions in Javascript
 
 globalme:
-  title: Automation Engineer
-  subtitle: Globalme, contracted by Intel
+  title: Globalme, contracted by Intel
+  subtitle: Automation Engineer
   dates: Nov 2017 - May 2018
   tech:
     - Python
@@ -115,8 +104,8 @@ globalme:
     - Mentored (including leading training sessions in Git and Python) a team of 9 manual testers
 
 ultrahaptics:
-  title: DevOps Engineer
-  subtitle: Ultrahaptics
+  title: Ultrahaptics
+  subtitle: DevOps Engineer
   dates: Feb 2017 - Aug 2017
   tech:
     - Ansible
@@ -132,8 +121,8 @@ ultrahaptics:
     - Maintained Teamcity CI pipeline with Windows and Mac machines (~10 nodes)
 
 cisco:
-  title: Software Engineer
-  subtitle: Cisco, formerly Acano
+  title: Cisco, formerly Acano
+  subtitle: Software Engineer
   dates: Oct 2014 - Jul 2016
   tech:
     - Python
@@ -150,8 +139,8 @@ cisco:
     - Oversaw creation of test lab with experimental hardware
 
 desy_short:
-  title: Summer Studentship Computing Program
-  subtitle: DESY
+  title: DESY
+  subtitle: Summer Studentship Computing Program
   dates: Jul 2013 – Aug 2013
   tech:
     - Python
@@ -159,8 +148,8 @@ desy_short:
     - WSDL
 
 desy:
-  title: Summer Studentship Computing Program
-  subtitle: DESY
+  title: DESY
+  subtitle: Summer Studentship Computing Program
   dates: Jul 2013 – Aug 2013
   tech:
     - Python (including the SciPy toolkit)
