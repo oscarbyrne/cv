@@ -43,13 +43,13 @@ body {
 .sheet > header,
 .sheet > footer,
 .sheet > main,
-.record > header {
+.record > header > span {
   display: flex;
   justify-content: space-between;
 }
 .sheet > header,
 .sheet > footer,
-.record > header {
+.record > header > span {
   flex-direction: row;
 }
 .sheet,
@@ -74,8 +74,10 @@ a {
 section > header {
   margin-bottom: 1rem;
 }
+.record > header > span > h3 {
+  flex-basis: 50%
+}
 .record > header {
-  align-items: start;
   margin-bottom: 0.5rem;
 }
 .record {
