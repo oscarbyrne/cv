@@ -18,6 +18,7 @@ tech_summary:
 plastering:
   title: Byrne Surfaces
   subtitle: Lime plasterer
+  location: Bude, UK
   dates: Nov 2021 - May 2023
   tech:
     - Lime
@@ -32,6 +33,7 @@ plastering:
 hsbc:
   title: HSBC
   subtitle: Software Development Engineer in Test
+  location: Vancouver, CA
   dates: Jul 2019 - Jun 2021
   tech:
     - Java
@@ -46,6 +48,7 @@ hsbc:
 sophos:
   title: Sophos
   subtitle: Software Development Engineer in Test
+  location: Vancouver, CA
   dates: Nov 2018 - Jul 2019
   tech:
     - Powershell
@@ -60,6 +63,7 @@ sophos:
 globalme_consolidated:
   title: Globalme, contracted by Intel
   subtitle: Automation Engineer
+  location: Vancouver, CA
   dates: Nov 2017 - Jul 2018
   tech:
     - Python
@@ -77,6 +81,7 @@ globalme_consolidated:
 globalme2:
   title: Globalme
   subtitle: Full Stack Developer
+  location: Vancouver, CA
   dates: May 2018 - Jul 2018
   tech:
     - Python
@@ -93,6 +98,7 @@ globalme2:
 globalme:
   title: Globalme, contracted by Intel
   subtitle: Automation Engineer
+  location: Vancouver, CA
   dates: Nov 2017 - May 2018
   tech:
     - Python
@@ -106,6 +112,7 @@ globalme:
 ultrahaptics:
   title: Ultrahaptics
   subtitle: DevOps Engineer
+  location: Bristol, UK
   dates: Feb 2017 - Aug 2017
   tech:
     - Ansible
@@ -123,6 +130,7 @@ ultrahaptics:
 cisco:
   title: Cisco, formerly Acano
   subtitle: Software Engineer
+  location: London, UK
   dates: Oct 2014 - Jul 2016
   tech:
     - Python
@@ -141,6 +149,7 @@ cisco:
 desy_short:
   title: DESY
   subtitle: Summer Studentship Computing Program
+  location: Hamburg, DE
   dates: Jul 2013 – Aug 2013
   tech:
     - Python
@@ -150,6 +159,7 @@ desy_short:
 desy:
   title: DESY
   subtitle: Summer Studentship Computing Program
+  location: Hamburg, DE
   dates: Jul 2013 – Aug 2013
   tech:
     - Python (including the SciPy toolkit)

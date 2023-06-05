@@ -57,6 +57,9 @@
               <div>{{ ", ".join(record.tech) }}</div>
               # endif
             </div>
+            # if record.location:
+            <div>{{ record.location }}</div>
+            # endif
             # if record.dates:
             <time>{{ record.dates }}</time>
             # endif
