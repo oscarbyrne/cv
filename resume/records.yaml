@@ -11,26 +11,9 @@ tech_summary:
   bullets:
     - "Languages: Java, Python, Bash, Powershell"
     - "Test tools: Appium, Selenium, Cucumber, Robot Framework, Espresso"
-    - "DevOps tools: Git, Jenkins, Teamcity, Ansible, AWS, Packer, Github workflows"
+    - "DevOps tools: Git, Jenkins, Teamcity, Ansible, AWS, Packer, GitHub Workflows"
     - "Operating systems: macOS, Linux, Windows"
     - "Other technologies: Django, Flask, WDTF"
-
-
-motivation:
-  text: >-
-    I'm a curious developer with a particular loyalty to Python,
-    although I'll use whatever tool is best for the job. If I
-    learn something new I like to learn how to use it properly.
-    That means: beautiful interfaces; no fear for refactoring;
-    and, of course, following the style guidelines(!).
-
-motivation_2023:
-  text: >-
-    After taking an extended gap in my career I'm eager to dive back into the
-    world of software testing. I see QA as performing a service both internal
-    and to our end-users. I am particularly interested in how automation,
-    ways of working and effective leadership can help support and empower
-    manual QA.
 
 plastering_short:
   title: Lime plasterer
