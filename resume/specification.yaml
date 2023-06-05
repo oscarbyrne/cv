@@ -1,10 +1,16 @@
 name: Oscar Byrne
 email: oscar.byrne@gmail.com
 website: https://github.com/oscarbyrne
-phone: +44 (747)-861-9459
+phone: +1 (672)-833-1519
 
 pages:
   - sections:
+    - title: Professional Summary
+      records:
+        - prof_summary
+    - title: Technical Summary
+      records:
+        - tech_summary
     - title: Experience
       records:
         - hsbc

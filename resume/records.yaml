@@ -1,3 +1,21 @@
+prof_summary:
+  text: >-
+    I have 6 years rich experience as a QA engineer and, after a 2 year
+    hiatus as a craftsperson, am eager to make the most of both my
+    technical domain knowledge and broadened life experience. I have worked
+    in everything from plucky startups to household names, done everything
+    from test analysis to framework development, and over the years have
+    developed a strong appreciation for the nuanced nature of quality assessment.
+
+tech_summary:
+  bullets:
+    - "Languages: Java, Python, Bash, Powershell"
+    - "Test tools: Appium, Selenium, Cucumber, Robot Framework, Espresso"
+    - "DevOps tools: Git, Jenkins, Teamcity, Ansible, AWS, Packer, Github workflows"
+    - "Operating systems: macOS, Linux, Windows"
+    - "Other technologies: Django, Flask, WDTF"
+
+
 motivation:
   text: >-
     I'm a curious developer with a particular loyalty to Python,
