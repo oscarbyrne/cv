@@ -80,6 +80,13 @@ section > header {
 .record > header {
   margin-bottom: 0.5rem;
 }
+/*TODO: Add class names to elements (use h-resume microformat)*/
+.record > main > p {
+    margin-bottom: 0.5rem;
+}
+.record > main > h5 {
+    margin-bottom: 0.25rem;
+}
 .record {
   margin-bottom: 1.5rem;
 }
