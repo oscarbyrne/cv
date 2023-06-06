@@ -5,8 +5,7 @@ phone: +1 (672)-833-1519
 
 pages:
   - sections:
-    - title: Professional Summary
-      records:
+    - records:
         - prof_summary
     - title: Technical Summary
       records:
