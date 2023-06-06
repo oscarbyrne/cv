@@ -70,6 +70,9 @@
             # if record.text:
             <p>{{ record.text }}</p>
             # endif
+            # if record.text and record.bullets:
+            <h5>Responsibilities:</h5>
+            # endif
             # if record.bullets:
             <ul>
               # for bullet in record.bullets:
