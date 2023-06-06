@@ -15,10 +15,10 @@ pages:
       records:
         - hsbc
         - sophos
+        - globalme_consolidated
 
   - sections:
     - records:
-        - globalme_consolidated
         - ultrahaptics
         - cisco
     - title: Other Experience
