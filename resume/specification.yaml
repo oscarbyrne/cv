@@ -7,6 +7,8 @@ pages:
   - sections:
     - records:
         - prof_summary
+    - title: Technical Summary
+      records:
         - tech_summary
     - title: Experience
       records:

@@ -8,7 +8,6 @@ prof_summary:
     developed a strong appreciation for the nuanced nature of quality assessment.
 
 tech_summary:
-  title: Technical Summary
   bullets:
     - "<b>Languages:</b> Java, Python, Bash, Powershell"
     - "<b>Test tools:</b> Appium, Selenium, Cucumber, Robot Framework, Espresso"
