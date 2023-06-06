@@ -144,7 +144,7 @@ ultrahaptics:
     - Teamcity
     - Jenkins
     - Git
-  text:>-
+  text: >-
     Ultrahaptics was a well-funded startup expecting to rapidly expand.
     They hired me as their first DevOps engineer to manage what turned out to be
     a pretty small network. That gave me a lot of freedom to experiment with
