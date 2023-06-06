@@ -20,15 +20,22 @@ plastering:
   subtitle: Lime plasterer
   location: Bude, UK
   dates: Nov 2021 - May 2023
+  url: https://byrnesurfaces.com
   tech:
     - Lime
     - Earth
     - Wood
     - Stone
     - Animal Hair
+  text: >-
+    Together, me and my dad formed a team specializing in the conservation of
+    ancient buildings. How ancient? The oldest we worked on was a 14th century
+    hall house - one of the very earliest permanent dwellings built in Britain
+    since the Romans.
   bullets:
-    - Conserved historic buildings using traditional materials and techniques
-    - Learned important lessons in being humble, tenacity and inorganic chemistry
+    - Learned traditional techniques using all-natural, locally-sourced materials
+    - Funded to study earth building in Spain to differentiate the business
+    - Professionalized our report-making capabilities, allowing us to approach larger clients
 
 hsbc:
   title: HSBC
@@ -39,6 +46,11 @@ hsbc:
     - Java
     - Appium
     - Cucumber
+  text: >-
+    Getting on for 200 years old and serving over 60 countries, HSBC presents a unique
+    challenge for QA. Brought on as part of a new Agile initiative, I quickly
+    became part of a small group championing best practices in both testing
+    methodology and framework design.
   bullets:
     - Maintained a vast test framework spanning multiple timezones
     - Advocated tirelessly for positive change in QA practice
@@ -54,6 +66,11 @@ sophos:
     - Powershell
     - Python
     - WDTF
+  text: >-
+    Keen to continue my professional development, Sophos was a great opportunity
+    to take me out of my comfort zone. This was a greenfield project which
+    allowed me to approach the tricky problem of testing an unstable windows
+    driver with pragmatism and creativity.
   bullets:
     - Developed testing strategies for an unstable Windows driver
     - Implemented an instrumentation library with Powershell
@@ -71,6 +88,11 @@ globalme_consolidated:
     - Flask
     - Javascript
     - AWS
+  text: >-
+    This was my first experience working on a large test suite. It gave me
+    invaluable insights into the human aspects of QA - poorly maintained tests,
+    challenges associated with analysis at scale, and the importance of
+    maintaining good working relationships.
   bullets:
     - Managed migration of test development from India to Vancouver
     - Refactored 15k LOC Robot Framework test suite to use Page Objects
@@ -166,8 +188,8 @@ desy:
     - WSDL
   bullets:
     - Programmatically analyzed the erosion of heart implants via computer vision
-    - Studied and worked with the world's most brilliant x-ray source in Hamburg, Germany
-    - Streamlined research by creating an RPC endpoint for sharing experimental data
+    - Studied and worked with the world's most brilliant x-ray source
+    - Streamlined research by creating an RPC endpoint for sharing data
 
 pysh:
   title: Experiments with Bash and Python
