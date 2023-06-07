@@ -14,23 +14,23 @@ pages:
       records:
         - hsbc
         - sophos
-        - globalme_consolidated
 
   - sections:
     - records:
+        - globalme_consolidated
         - ultrahaptics
         - cisco
     - title: Other Experience
       records:
-        - plastering
         - desy
 
   - sections:
+    - records:
+        - plastering
     - title: Hobbyist Portfolio
       records:
         - resume
         - pyatonic
-        - pysh_short
     - title: Education
       records:
         - degree
