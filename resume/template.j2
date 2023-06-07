@@ -54,16 +54,14 @@
               <time>{{ record.dates }}</time>
               # endif
             </span>
-            <span>
-              # if record.subtitle:
-              <h4>{{ record.subtitle }}</h4>
-              # endif
-              # if record.tech:
-              <div>{{ ", ".join(record.tech) }}</div>
-              # endif
-            </span>
+            # if record.subtitle:
+            <h4>{{ record.subtitle }}</h4>
+            # endif
             # if record.url:
             <div><a href="{{ record.url }}">{{ record.url }}</a></div>
+            # endif
+            # if record.tech:
+            <div>{{ ", ".join(record.tech) }}</div>
             # endif
           </header>
           # endif
