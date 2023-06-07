@@ -60,10 +60,10 @@
             # if record.url:
             <div><a href="{{ record.url }}">{{ record.url }}</a></div>
             # endif
-            # if record.tech:
-            <div>{{ ", ".join(record.tech) }}</div>
-            # endif
           </header>
+          # endif
+          # if record.tech:
+          <div>{{ ", ".join(record.tech) }}</div>
           # endif
           # if record.text or record.bullets:
           <main>
