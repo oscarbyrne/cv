@@ -242,6 +242,10 @@ notes:
 pyatonic:
   title: Advanced music theory with Python
   url: https://github.com/oscarbyrne/pyatonic
+  dates: Aug 2018
+  tech:
+    - Python
+    - Set theory
   text: >-
     Music theory is one of my passions. I've recently had the opportunity to dive deep
     into some of the concepts I've been reading about, requiring working knowledge in a
@@ -255,6 +259,11 @@ pyatonic:
 resume:
   title: Resume builder
   url: https://github.com/oscarbyrne/cv
+  dates: June 2023
+  tech:
+    - Python
+    - Jinja
+    - GitHub Workflows
   text: >-
     When job hunting I find I spend an inordinate amount of time formatting my resume.
     To cut down on this time I created a library which creates beautifully-formatted
