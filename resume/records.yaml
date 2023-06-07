@@ -10,9 +10,10 @@ prof_summary:
 tech_summary:
   bullets:
     - "<b>Languages:</b> Java, Python, Bash, Powershell"
-    - "<b>Test tools:</b> Appium, Selenium, Cucumber, Robot Framework, Espresso"
+    - "<b>Test tools:</b> Appium, Selenium, Cucumber, Robot Framework, Pytest, Espresso"
     - "<b>DevOps tools:</b> Git, Jenkins, Teamcity, Ansible, AWS, Packer, GitHub Workflows"
     - "<b>Operating systems:</b> macOS, Linux, Windows"
+    - "<b>Methodologies:</b> Scrum, Kanban, Waterfall"
     - "<b>Other technologies:</b> Django, Flask, WDTF"
 
 plastering:
@@ -33,7 +34,7 @@ plastering:
     hall house - one of the very earliest permanent dwellings built in Britain
     since the Romans.
   bullets:
-    - Learned traditional techniques using all-natural, locally-sourced materials
+    - Reduced our ecological impact and cut costs by focusing on locally-sourced natural materials
     - Funded to study earth building in Spain to differentiate the business
     - Professionalized our report-making capabilities, allowing us to approach larger clients
 
@@ -52,10 +53,10 @@ hsbc:
     became part of a small group championing best practices in both testing
     methodology and framework design.
   bullets:
-    - Maintained a vast test framework spanning multiple timezones
+    - Refocused test development by refactoring a vast test framework spanning every timezone
     - Advocated tirelessly for positive change in QA practice
-    - Developed new framework features including tests involving multiple devices
-    - Trained other teams to close skill gaps
+    - Unlocked new test strategies by developing new framework features (e.g. multi-device)
+    - Encouraged co-operation through training sessions and democratic decision-making
 
 sophos:
   title: Sophos
@@ -69,13 +70,13 @@ sophos:
   text: >-
     Keen to continue my professional development, Sophos was a great opportunity
     to take me out of my comfort zone. This was a greenfield project which
-    allowed me to approach the tricky problem of testing an unstable windows
+    allowed me to approach the thorny problem of testing a highly unstable windows
     driver with pragmatism and creativity.
   bullets:
-    - Developed testing strategies for an unstable Windows driver
-    - Implemented an instrumentation library with Powershell
-    - Tracked flakiness over time for quality assesment
-    - Assembled a small Windows network for orchestrating WDTF tests
+    - Innovated on cookie-cutter test plans to assess an idiosyncratic project
+    - Freed up manual QA resources by automating the set-up and deployment of WDTF tests
+    - Trailblazed for other teams by publishing my driver instrumentation as an internal library
+    - Increased transparency through enhanced reporting
 
 globalme_consolidated:
   title: Globalme, contracted by Intel
@@ -152,7 +153,7 @@ ultrahaptics:
   bullets:
     - Improved reproducability of builds using VMs deployed with Packer and Ansible
     - Developed a simple orchestration system using Python, Bash and Jenkins
-    - Maintained Teamcity CI pipeline with Windows and Mac machines (~10 nodes)
+    - Maintained smooth operations for a ~10 node CI pipeline
 
 cisco:
   title: Cisco, formerly Acano
@@ -172,10 +173,10 @@ cisco:
     emphasis on root cause analysis, within a year I was spearheading a new
     initiative on automation - building a test framework from the ground up!
   bullets:
-    - Developed a “write once, run anywhere” test framework for desktop and mobile
-    - Maintained Jenkins CD pipeline for Android-based custom hardware project
-    - Implemented page object pattern with Java and Espresso
-    - Oversaw creation of test lab with experimental hardware
+    - Spearheaded automation by developing a “write once, run anywhere” test framework
+    - Future-proofed QA by training another 2 engineers in continued maintenance
+    - Developed test plan for next-gen hardware project
+    - Created CD pipeline, including test lab, for custom Android hardware
 
 desy_short:
   title: DESY
