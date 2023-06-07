@@ -70,7 +70,7 @@ sophos:
   text: >-
     Keen to continue my professional development, Sophos was a great opportunity
     to take me out of my comfort zone. This was a greenfield project which
-    allowed me to approach the thorny problem of testing a highly unstable windows
+    allowed me to approach the thorny problem of testing a highly unstable Windows
     driver with pragmatism and creativity.
   bullets:
     - Innovated on cookie-cutter test plans to assess an idiosyncratic project
@@ -151,7 +151,7 @@ ultrahaptics:
     a pretty small network. That gave me a lot of freedom to experiment with
     extra-curricular projects like future-proofing their build system.
   bullets:
-    - Improved reproducability of builds using VMs deployed with Packer and Ansible
+    - Improved reproducibility of builds using VMs deployed with Packer and Ansible
     - Developed a simple orchestration system using Python, Bash and Jenkins
     - Maintained smooth operations for a ~10 node CI pipeline
 
