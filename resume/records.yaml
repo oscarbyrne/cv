@@ -285,11 +285,12 @@ degree:
     I mostly selected computing- and mathematics-related modules focused around C++, and
     became involved in various campus clubs and societies during my time on campus.
     Achievements include:
-  bullets:
-    - Contributed to front-line research presented as part of the PIERS conference in China
-    - Ran a lunchtime science club in a local primary school
-    - Created an interactive art piece which was exhibited in an off-campus gallery
-    - Founded a music society
+    <ul>
+      <li>Contributed to front-line research presented as part of the PIERS conference in China</li>
+      <li>Ran a lunchtime science club in a local primary school</li>
+      <li>Created an interactive art piece which was exhibited in an off-campus gallery</li>
+      <li>Founded a music society</li>
+    </ul>
 
 interests:
   bullets:
