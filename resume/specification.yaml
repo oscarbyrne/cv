@@ -34,4 +34,7 @@ pages:
     - title: Education
       records:
         - degree
+    - title: References
+      records:
+        - references
 
