@@ -9,7 +9,7 @@ prof_summary:
 
 tech_summary:
   bullets:
-    - "<b>Languages:</b> Java, Python, Bash, Powershell"
+    - "<b>Languages:</b> Java, Python, Bash, Powershell, C++"
     - "<b>Test tools:</b> Appium, Selenium, Cucumber, Robot Framework, Pytest, Espresso"
     - "<b>DevOps tools:</b> Git, Jenkins, Teamcity, Ansible, AWS, Packer, GitHub Workflows"
     - "<b>Operating systems:</b> macOS, Linux, Windows"
@@ -34,7 +34,7 @@ plastering:
     hall house - one of the very earliest permanent dwellings built in Britain
     since the Romans.
   bullets:
-    - Reduced our ecological impact and cut costs by sourcing natural materials locally
+    - Reduced our ecological impact by sourcing natural materials in the local environment
     - Funded to study earth building in Spain to differentiate the business
     - Professionalized our report-making capabilities, allowing us to approach larger clients
 
@@ -96,7 +96,7 @@ globalme_consolidated:
     maintaining good working relationships.
   bullets:
     - Managed migration of test development from India to Vancouver
-    - Refactored 15k LOC Robot Framework test suite to use Page Objects
+    - Massively simplified development by refactoring 15k LOC over to Page Objects
     - Established code review and development phases for the team in Vancouver
     - Mentored - including training sessions in Git and Python - 9 manual testers
     - Briefly retained as Full Stack Developer after project at Intel ended
@@ -247,10 +247,10 @@ pyatonic:
     - Python
     - Set theory
   text: >-
-    Music theory is one of my passions. I've recently had the opportunity to dive deep
-    into some of the concepts I've been reading about, requiring working knowledge in a
+    Music theory is one of my passions. In 2018 I had the opportunity to dive deep
+    into some of the concepts I'd been reading about, requiring working knowledge in a
     host of new concepts from category theory to tree search algorithms. The result is
-    a library of methods ultimately able to demonstrate computational creativity (yes!)
+    a library of methods ultimately able to demonstrate computational creativity
     by conceptually "blending" musical chords, an algorithm developed as recently as 2015.
     The code itself showcases my ability to write in a pythonic style: making heavy use
     of generators, a mastery of Python's data model, and avoiding the over-reliance
