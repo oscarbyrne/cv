@@ -6,35 +6,22 @@ phone: +1 (672)-833-1519
 pages:
   - sections:
     - records:
-        - prof_summary
-    - title: Technical Summary
+        - temp_summary
+    - title: Skills
       records:
-        - tech_summary
+        - soft_skills
     - title: Experience
       records:
-        - hsbc
-        - sophos
+        - plastering_soft
+        - hsbc_soft
 
   - sections:
     - records:
-        - globalme_consolidated
-        - ultrahaptics
-        - cisco
-    - title: Other Experience
-      records:
-        - desy
-
-  - sections:
-    - records:
-        - plastering
-    - title: Hobbyist Portfolio
-      records:
-        - resume
-        - pyatonic
+        - sophos_soft
+        - globalme_soft
+        - ultrahaptics_soft
+        - cisco_soft
     - title: Education
       records:
         - degree
-    - title: References
-      records:
-        - references
 
