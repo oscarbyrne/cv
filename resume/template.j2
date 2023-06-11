@@ -81,10 +81,12 @@
         # endfor
       </section>
       # endfor
+      # if loop.length > 1:
       <footer>
         <div>{{ name }}</div>
         <div>Page {{ loop.index }}/{{ loop.length }}</div>
       </footer>
+      # endif
     </div>
     # endfor
   </body>
