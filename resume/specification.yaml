@@ -5,19 +5,23 @@ phone: +1 (672)-833-1519
 
 pages:
   - sections:
+    - records:
+      - temp_summary
     - title: Skills
       records:
         - soft_skills
-    - title: Experience
+    - title: Manual Experience
       records:
         - plastering_soft
+    - title: Office Experience
+      records:
         - hsbc_soft
         - sophos_soft
-        - globalme_soft
-        - ultrahaptics_soft
 
   - sections:
     - records:
+        - globalme_soft
+        - ultrahaptics_soft
         - cisco_soft
     - title: Education
       records:
