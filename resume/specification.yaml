@@ -10,19 +10,20 @@ pages:
     - title: Skills
       records:
         - soft_skills
-    - title: Experience
+    - title: Manual Experience
       records:
         - plastering_soft
+    - title: Office Experience
         - hsbc_soft
         - sophos_soft
         - globalme_soft
-        - ultrahaptics_soft
 
   - sections:
     - records:
+        - ultrahaptics_soft
         - cisco_soft
-        - desy_soft
     - title: Education
       records:
+        - desy_soft
         - degree_short
 
