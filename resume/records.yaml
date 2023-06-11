@@ -364,6 +364,12 @@ degree_short:
   title: MSCi Physics (3.5 GPA equivalent)
   subtitle: University of Birmingham
   dates: 2010 - 2014
+  bullets:
+    - Focused on computing and mathematics modules, specializing in C++
+    - Contributed to front-line research presented as part of the PIERS conference in China
+    - Ran a lunchtime science club in a local primary school
+    - Created an interactive art piece which was exhibited in an off-campus gallery
+    - Founded a music society
 
 degree:
   title: MSCi Physics (3.5 GPA equivalent)
