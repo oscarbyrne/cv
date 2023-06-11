@@ -8,12 +8,16 @@ pages:
     - title: Skills
       records:
         - soft_skills
-    - title: Selected Experience
+    - title: Experience
       records:
         - plastering_soft
         - hsbc_soft
+        - sophos_soft
         - globalme_soft
+    - records:
         - ultrahaptics_soft
+        - cisco_soft
     - title: Education
       records:
+        - desy_soft
         - degree_short
