@@ -14,13 +14,14 @@ pages:
       records:
         - plastering_soft
         - hsbc_soft
+        - sophos_soft
 
   - sections:
     - records:
-        - sophos_soft
         - globalme_soft
         - ultrahaptics_soft
         - cisco_soft
+        - desy_soft
     - title: Education
       records:
         - degree

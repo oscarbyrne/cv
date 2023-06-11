@@ -45,9 +45,10 @@ hsbc_soft:
   location: Vancouver, CA
   dates: Jul 2019 - Jun 2021
   bullets:
-    - lorem ipsum
-    - lorem ipsum
-    - lorem ipsum
+    - Efficiently managed many competing priorities
+    - Encouraged team co-operation through training sessions and democratic decision-making
+    - Devised new processes to meet high-pressure deadlines
+    - Always strived for transparency and approachability
 
 sophos_soft:
   title: Software Development Engineer in Test
@@ -55,9 +56,10 @@ sophos_soft:
   location: Vancouver, CA
   dates: Nov 2018 - Jul 2019
   bullets:
-    - lorem ipsum
-    - lorem ipsum
-    - lorem ipsum
+    - Innovated on cookie-cutter test plans for an idiosyncratic project
+    - Increased transparency through enhanced reporting
+    - Freed up manual QA resources through automation
+    - Trailblazed for other teams by publishing my code for internal use
 
 globalme_soft:
   title: Automation Engineer
@@ -65,9 +67,10 @@ globalme_soft:
   location: Vancouver, CA
   dates: Nov 2017 - Jul 2018
   bullets:
-    - lorem ipsum
-    - lorem ipsum
-    - lorem ipsum
+    - Managed migration of test development from India to Vancouver
+    - Mentored - including leading technical training sessions - 9 manual testers
+    - Established best practices (e.g. code review) for the team in Vancouver
+    - Worked overtime to help plan next-gen project
 
 ultrahaptics_soft:
   title: DevOps Engineer
@@ -75,9 +78,9 @@ ultrahaptics_soft:
   location: Bristol, UK
   dates: Feb 2017 - Aug 2017
   bullets:
-    - lorem ipsum
-    - lorem ipsum
-    - lorem ipsum
+    - Maintained smooth IT operations for a ~10 node network
+    - Deployed Windows and Mac virtual machines
+    - Futureproofed IT by working to automate the process
 
 cisco_soft:
   title: Software Engineer
@@ -85,10 +88,21 @@ cisco_soft:
   location: London, UK
   dates: Oct 2014 - Jul 2016
   bullets:
-    - lorem ipsum
-    - lorem ipsum
-    - lorem ipsum
+    - Debugged experimental telecom networks
+    - Spearheaded automation by developing a custom test framework
+    - Trained another 2 engineers to continue the project
+    - Developed test plan for next-gen product
+    - Created CD pipeline, including test lab, for custom Android hardware
 
+desy_soft:
+  title: Summer Studentship Computing Program
+  subtitle: DESY
+  location: Hamburg, DE
+  dates: Jul 2013 – Aug 2013
+  bullets:
+    - Programmatically analyzed the erosion of heart implants via computer vision
+    - Studied and worked with the world's most brilliant x-ray source
+    - Contributed to real-world research by developing web services to support the office
 
 plastering:
   title: Byrne Surfaces
