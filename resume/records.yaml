@@ -18,7 +18,9 @@ tech_summary:
 
 temp_summary:
   text: >-
-    lorem ipsum
+    Not your typical software engineer, I have recently spent 2 years working
+    as a craftsperson. I'll bring a professional attitude, keen eye for detail
+    and ability to think on my feet to any role I'm assigned to.
 
 soft_skills:
   bullets:
@@ -95,7 +97,7 @@ cisco_soft:
     - Created CD pipeline, including test lab, for custom Android hardware
 
 desy_soft:
-  title: Summer Studentship Computing Program
+  title: Summer Studentship
   subtitle: DESY
   location: Hamburg, DE
   dates: Jul 2013 – Aug 2013
