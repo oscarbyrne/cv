@@ -14,8 +14,10 @@ pages:
         - hsbc_soft
         - sophos_soft
         - globalme_soft
-    - records:
         - ultrahaptics_soft
+
+  - sections:
+    - records:
         - cisco_soft
     - title: Education
       records:
