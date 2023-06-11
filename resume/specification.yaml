@@ -14,6 +14,7 @@ pages:
       records:
         - plastering_soft
     - title: Office Experience
+      records:
         - hsbc_soft
         - sophos_soft
         - globalme_soft
