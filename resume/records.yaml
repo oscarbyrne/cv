@@ -30,10 +30,15 @@ soft_skills:
     - Physically fit, good people skills and willingness to work
 
 plastering_soft:
-  title: Plaster and Stucco Worker Apprentice
+  title: Lime Plastering Apprentice
   subtitle: Byrne Surfaces
   location: Bude, UK
   dates: Nov 2021 - May 2023
+  text: >-
+    Together, me and my dad formed a team specializing in the conservation of
+    ancient buildings. How ancient? The oldest we worked on was a 14th century
+    hall house - one of the very earliest permanent dwellings built in Britain
+    since the Romans.
   bullets:
     - Undertook technical repairs to historic buildings requiring an eye for detail
     - Quickly learned a range of manual skills, routinely lifting 40 lb loads
@@ -46,6 +51,11 @@ hsbc_soft:
   subtitle: HSBC
   location: Vancouver, CA
   dates: Jul 2019 - Jun 2021
+  text: >-
+    Getting on for 200 years old and serving over 60 countries, HSBC presents a unique
+    challenge for QA. Brought on as part of a new Agile initiative, I quickly
+    became part of a small group championing best practices in both testing
+    methodology and framework design.
   bullets:
     - Efficiently managed many competing priorities
     - Encouraged team co-operation through training sessions and democratic decision-making
@@ -57,6 +67,11 @@ sophos_soft:
   subtitle: Sophos
   location: Vancouver, CA
   dates: Nov 2018 - Jul 2019
+  text: >-
+    Keen to continue my professional development, Sophos was a great opportunity
+    to take me out of my comfort zone. This was a greenfield project which
+    allowed me to approach the thorny problem of testing a highly unstable Windows
+    driver with pragmatism and creativity.
   bullets:
     - Innovated on cookie-cutter test plans for an idiosyncratic project
     - Increased transparency through enhanced reporting
@@ -68,6 +83,11 @@ globalme_soft:
   subtitle: Globalme, contracted by Intel
   location: Vancouver, CA
   dates: Nov 2017 - Jul 2018
+  text: >-
+    This was my first experience working on a large test suite. It gave me
+    invaluable insights into the human aspects of QA - poorly maintained tests,
+    challenges associated with analysis at scale, and the importance of
+    maintaining good working relationships.
   bullets:
     - Managed migration of test development from India to Vancouver
     - Mentored - including leading technical training sessions - 9 manual testers
@@ -79,6 +99,11 @@ ultrahaptics_soft:
   subtitle: Ultrahaptics
   location: Bristol, UK
   dates: Feb 2017 - Aug 2017
+  text: >-
+    Ultrahaptics was a well-funded startup expecting to rapidly expand.
+    They hired me as their first DevOps engineer to manage what turned out to be
+    a pretty small network. That gave me a lot of freedom to experiment with
+    extra-curricular projects like future-proofing their build system.
   bullets:
     - Maintained smooth IT operations for a ~10 node network
     - Deployed Windows and Mac virtual machines
@@ -89,6 +114,10 @@ cisco_soft:
   subtitle: Cisco, formerly Acano
   location: London, UK
   dates: Oct 2014 - Jul 2016
+  text: >-
+    As first jobs go, this one was a dream. Joining as a manual QA with an
+    emphasis on root cause analysis, within a year I was spearheading a new
+    initiative on automation - building a test framework from the ground up!
   bullets:
     - Debugged experimental telecom networks
     - Spearheaded automation by developing a custom test framework
