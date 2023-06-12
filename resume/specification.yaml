@@ -24,4 +24,4 @@ pages:
     - title: Education
       records:
         - desy_soft
-        - degree
+        - degree_short
