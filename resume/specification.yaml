@@ -7,9 +7,7 @@ pages:
   - sections:
     - records:
       - temp_summary
-    - title: Skills
-      records:
-        - soft_skills
+      - soft_skills
     - title: Experience
       records:
         - plastering_soft
