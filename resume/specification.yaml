@@ -1,7 +1,12 @@
-name: Oscar Byrne
-email: oscar.byrne@gmail.com
-website: https://github.com/oscarbyrne
-phone: +1 (672)-833-1519
+font:
+  family: Tahoma, Verdana, sans-serif
+  size: 14.6px
+
+contact:
+  name: Oscar Byrne
+  email: oscar.byrne@gmail.com
+  url: https://github.com/oscarbyrne
+  phone: +1 (672)-833-1519
 
 pages:
   - sections:
