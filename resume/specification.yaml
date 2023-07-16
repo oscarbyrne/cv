@@ -1,12 +1,16 @@
+layout:
+  margins: 20mm
+
 font:
   family: Tahoma, Verdana, sans-serif
-  size: 14.6px
+  size: 4mm
 
 contact:
   name: Oscar Byrne
   email: oscar.byrne@gmail.com
   url: https://github.com/oscarbyrne
   phone: +1 (672)-833-1519
+  location: Burnaby, BC V5C 2A8
 
 pages:
   - sections:
