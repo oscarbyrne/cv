@@ -57,6 +57,7 @@ h1 {
 hr {
   margin-top: 1rem;
   margin-bottom: 2rem;
+  border-top: 1px solid black;
 }
 contact > ul {
   list-style-type: none;
