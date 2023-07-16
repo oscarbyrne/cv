@@ -10,7 +10,7 @@ prof_summary:
 tech_summary:
   bullets:
     - "<b>Languages:</b> Java, Python, Bash, Powershell, C++"
-    - "<b>Test tools:</b> Appium, Selenium, Cucumber, Robot Framework, Pytest, Espresso"
+    - "<b>Test tools:</b> Appium, Selenium, Cucumber, Robot Framework, Pytest, Espresso, Postman"
     - "<b>DevOps tools:</b> Git, Jenkins, Teamcity, Ansible, AWS, Packer, GitHub Workflows"
     - "<b>Operating systems:</b> macOS, Linux, Windows"
     - "<b>Methodologies:</b> Scrum, Kanban, Waterfall"
