@@ -1,17 +1,25 @@
-name: Oscar Byrne
-email: oscar.byrne@gmail.com
-website: https://github.com/oscarbyrne
-phone: +1 (672)-833-1519
+layout:
+  margins: 20mm
+
+font:
+  family: Tahoma, Verdana, sans-serif
+  size: 4mm
+
+contact:
+  name: Oscar Byrne
+  email: oscar.byrne@gmail.com
+  url: https://github.com/oscarbyrne
+  phone: +1 (672)-833-1519
+  location: Burnaby, BC V5C 2A8
 
 pages:
   - sections:
-    - records:
-        - prof_summary
     - title: Technical Summary
       records:
         - tech_summary
     - title: Experience
       records:
+        - sabbatical
         - hsbc
         - sophos
 
@@ -20,17 +28,7 @@ pages:
         - globalme_consolidated
         - ultrahaptics
         - cisco
-    - title: Other Experience
-      records:
-        - desy
-
-  - sections:
-    - records:
-        - plastering
-    - title: Hobbyist Portfolio
-      records:
-        - resume
-        - pyatonic
     - title: Education
       records:
-        - degree
+        - desy_short
+        - degree_short

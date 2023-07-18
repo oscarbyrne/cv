@@ -1,43 +1,35 @@
-@import url('https://fonts.googleapis.com/css2?family=Golos+Text&display=swap');
-@page {
-  size: A4;
-}
 * {
   margin: 0;
 }
+@page {
+  size: A4;
+}
 @media screen {
   .sheet {
-    margin: 0 auto;
+    margin: auto;
     margin-bottom: 2rem;
   }
   .download-banner {
     width: 210mm;
-    margin: 0 auto;
-    font-size: 1.5rem;
-    font-weight: bold;
+    margin: auto;
     padding: 2rem 0;
     display: flex;
     justify-content: flex-end;
+    font-size: 1.5rem;
+    font-weight: bold;
     color: #069;
     text-decoration: underline;
     cursor: pointer;
   }
   .download-banner img {
     height: 1em;
-    margin-left: 0.5rem;
+    margin-left: 0.5em;
   }
 }
 @media print {
   .download-banner {
     display: none;
   }
-}
-body {
-  font-family: 'Golos Text', sans-serif;
-  font-size: 16px;
-}
-.sheet {
-  padding: 2rem;
 }
 .sheet,
 .sheet > header,
@@ -51,10 +43,21 @@ body {
 .sheet > footer,
 .record > header > span {
   flex-direction: row;
+  align-items: flex-end;
 }
 .sheet,
 .sheet > main {
   flex-direction: column;
+}
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  border-top: 1px solid black;
 }
 contact > ul {
   list-style-type: none;
@@ -68,14 +71,19 @@ a {
   color: black;
   text-decoration: none;
 }
-.sheet > header {
-  align-items: center;
-}
 section > header {
   margin-bottom: 1rem;
 }
 .record > header > span > h3 {
   flex-basis: 50%
+}
+.record > header > span > div,
+.record > header > span > time {
+  flex-basis: 25%;
+  justify-content: flex-end;
+}
+.record > header > span > time {
+  text-align: right;
 }
 .record > header {
   margin-bottom: 0.5rem;

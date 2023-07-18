@@ -7,6 +7,15 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/paper-css/0.3.0/paper.css">
     <link rel="stylesheet" href="static/style.css">
+  <style>
+    body {
+      font-family: {{ font.family }};
+      font-size: {{ font.size }};
+    }
+    .sheet {
+      padding: {{ layout.margins }};
+    }
+  </style>
   </head>
   <body class="A4">
     <div class="download-banner" onclick="window.print()">
@@ -17,15 +26,23 @@
     <div class="sheet">
       # if loop.first:
       <header>
-        <h1>{{ name }}</h1>
+        <h1>{{ contact.name }}</h1>
         <contact>
           <ul>
-            <li><a href="mailto:{{ email }}">{{ email }}</a></li>
-            <li><a href="{{ website }}">{{ website }}</a></li>
-            <li><a href="tel:{{ phone }}">{{ phone }}</a></li>
+            <li><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></li>
+            <li><a href="{{ contact.url }}">{{ contact.url }}</a></li>
+            <li><a href="tel:{{ contact.phone }}">{{ contact.phone }}</a></li>
+            <li><a href="http://maps.google.com/?q={{ contact.location }}">{{ contact.location }}</a></li>
           </ul>
         </contact>
       </header>
+      <hr>
+      # else:
+      <header>
+        <div><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></div>
+        <div>Page {{ loop.index }}/{{ loop.length }}</div>
+      </header>
+      <hr>
       # endif
       # for section in page.sections:
       <section>
