@@ -14,13 +14,12 @@ contact:
 
 pages:
   - sections:
-    - records:
-        - prof_summary
     - title: Technical Summary
       records:
         - tech_summary
     - title: Experience
       records:
+        - sabbatical
         - hsbc
         - sophos
 
@@ -29,17 +28,8 @@ pages:
         - globalme_consolidated
         - ultrahaptics
         - cisco
-    - title: Other Experience
+    - title: Education and Training
       records:
-        - desy
-
-  - sections:
-    - records:
-        - plastering
-    - title: Hobbyist Portfolio
-      records:
-        - resume
-        - pyatonic
-    - title: Education
-      records:
-        - degree
+        - erasmus_short
+        - desy_short
+        - degree_short

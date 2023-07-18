@@ -16,6 +16,38 @@ tech_summary:
     - "<b>Methodologies:</b> Scrum, Kanban, Waterfall"
     - "<b>Other technologies:</b> Django, Flask, WDTF"
 
+erasmus_short:
+  title: Earth Building Mobility Training
+  subtitle: EU Erasmus+
+  location: Gordoncillo, ES
+  dates: July 2022
+
+desy_short:
+  title: Summer Studentship in Computing
+  subtitle: German Electron Synchrotron DESY
+  location: Hamburg, DE
+  dates: Jul – Aug 2013
+
+degree_short:
+  title: MSCi Physics (3.5 GPA equivalent)
+  subtitle: University of Birmingham
+  location: Birmingham, UK
+  dates: 2010 - 2014
+
+sabbatical:
+  title: Family Sabbatical
+  location: Bude, UK
+  dates: Nov 2021 - May 2023
+  text: >-
+    I spent 2 years reconnecting with my family in England following Covid.
+    I spent my time working as a craftsperson, learning the guitar and reading
+    philosophy. Achievements during this time include:
+    <ul>
+      <li>Restored an earth ceiling in a 14th Century farmhouse</li>
+      <li>Funded to study earth building in Spain as part of the EU Erasmus+ program</li>
+      <li>Challenged myself to read at least 1 philosophy book per month</li>
+    </ul>
+
 plastering:
   title: Byrne Surfaces
   subtitle: Lime plasterer
@@ -105,7 +137,7 @@ globalme2:
   title: Globalme
   subtitle: Full Stack Developer
   location: Vancouver, CA
-  dates: May 2018 - Jul 2018
+  dates: May - Jul 2018
   tech:
     - Python
     - Flask
@@ -136,7 +168,7 @@ ultrahaptics:
   title: Ultrahaptics
   subtitle: DevOps Engineer
   location: Bristol, UK
-  dates: Feb 2017 - Aug 2017
+  dates: Feb - Aug 2017
   tech:
     - Ansible
     - Bash
@@ -178,21 +210,11 @@ cisco:
     - Developed test plan for next-gen hardware project
     - Created CD pipeline, including test lab, for custom Android hardware
 
-desy_short:
-  title: DESY
-  subtitle: Summer Studentship Computing Program
-  location: Hamburg, DE
-  dates: Jul 2013 – Aug 2013
-  tech:
-    - Python
-    - SciPy
-    - WSDL
-
 desy:
   title: DESY
   subtitle: Summer Studentship Computing Program
   location: Hamburg, DE
-  dates: Jul 2013 – Aug 2013
+  dates: Jul – Aug 2013
   tech:
     - Python (including the SciPy toolkit)
     - WSDL
@@ -271,11 +293,6 @@ resume:
     - job records and document layout - in a series of easily-editable config files
     and generating responsive HTML5 via a Jinja2 template, I create first-class resumes
     in an instant. You're reading one right now!
-
-degree_short:
-  title: MSCi Physics (3.5 GPA equivalent)
-  subtitle: University of Birmingham
-  dates: 2010 - 2014
 
 degree:
   title: MSCi Physics (3.5 GPA equivalent)
