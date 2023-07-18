@@ -37,6 +37,12 @@
         </contact>
       </header>
       <hr>
+      # else:
+      <header>
+        <div><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></div>
+        <div>Page {{ loop.index }}/{{ loop.length }}</div>
+      </header>
+      <hr>
       # endif
       # for section in page.sections:
       <section>
