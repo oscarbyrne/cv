@@ -80,6 +80,10 @@ section > header {
 .record > header > span > div,
 .record > header > span > time {
   flex-basis: 25%;
+  justify-content: flex-end;
+}
+.record > header > span > time {
+  text-align: right;
 }
 .record > header {
   margin-bottom: 0.5rem;
