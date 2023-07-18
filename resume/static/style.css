@@ -77,6 +77,10 @@ section > header {
 .record > header > span > h3 {
   flex-basis: 50%
 }
+.record > header > span > div,
+.record > header > span > time {
+  flex-basis: 25%;
+}
 .record > header {
   margin-bottom: 0.5rem;
 }
