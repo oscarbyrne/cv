@@ -23,16 +23,20 @@ erasmus_short:
   dates: July 2022
 
 desy_short:
-  title: Summer Studentship in Computing
+  title: Summer Studentship
   subtitle: German Electron Synchrotron DESY
   location: Hamburg, DE
   dates: Jul – Aug 2013
+  tech:
+   - Computing Program
 
 degree_short:
-  title: MSCi Physics (3.5 GPA equivalent)
+  title: MSCi Physics
   subtitle: University of Birmingham
   location: Birmingham, UK
   dates: 2010 - 2014
+  tech:
+    - 3.5 GPA equivalent
 
 sabbatical:
   title: Family Sabbatical

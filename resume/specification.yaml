@@ -28,8 +28,7 @@ pages:
         - globalme_consolidated
         - ultrahaptics
         - cisco
-    - title: Education and Training
+    - title: Education
       records:
-        - erasmus_short
         - desy_short
         - degree_short
