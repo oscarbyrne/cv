@@ -11,10 +11,10 @@ tech_summary:
   bullets:
     - "<b>Languages:</b> Java, Python, Bash, Powershell, C++"
     - "<b>Test tools:</b> Appium, Selenium, Cucumber, Robot Framework, Pytest, Espresso, Postman"
-    - "<b>DevOps tools:</b> Git, Jenkins, Teamcity, Ansible, AWS, Packer, GitHub Workflows"
+    - "<b>DevOps tools:</b> Git, Jenkins, TeamCity, Ansible, AWS, Packer, GitHub Workflows"
     - "<b>Operating systems:</b> macOS, Linux, Windows"
-    - "<b>Methodologies:</b> Scrum, Kanban, Waterfall"
-    - "<b>Other technologies:</b> Django, Flask, WDTF"
+    - "<b>Methodologies:</b> Agile (Scrum and Kanban), Waterfall"
+    - "<b>Other technologies:</b> Django, Flask, WDTF, Semantic HTML"
 
 erasmus_short:
   title: Earth Building Mobility Training
@@ -44,8 +44,8 @@ sabbatical:
   dates: Nov 2021 - May 2023
   text: >-
     I spent 2 years reconnecting with my family in England following Covid.
-    I spent my time working as a craftsperson, learning the guitar and reading
-    philosophy. Achievements during this time include:
+    I spent my time conserving historic buildings, learning the guitar and
+    reading philosophy. Achievements during this time include:
     <ul>
       <li>Restored an earth ceiling in a 14th Century farmhouse</li>
       <li>Funded to study earth building in Spain as part of the EU Erasmus+ program</li>
@@ -83,8 +83,9 @@ hsbc:
     - Java
     - Appium
     - Cucumber
+    - Postman
   text: >-
-    Getting on for 200 years old and serving over 60 countries, HSBC presents a unique
+    Almost 200 years old and serving over 60 countries, HSBC presents a unique
     challenge for QA. Brought on as part of a new Agile initiative, I quickly
     became part of a small group championing best practices in both testing
     methodology and framework design.
@@ -112,7 +113,7 @@ sophos:
     - Innovated on cookie-cutter test plans to assess an idiosyncratic project
     - Freed up manual QA resources by automating the set-up and deployment of WDTF tests
     - Trailblazed for other teams by publishing my driver instrumentation as an internal library
-    - Increased transparency through enhanced reporting
+    - Increased transparency and accountability through enhanced reporting
 
 globalme_consolidated:
   title: Globalme, contracted by Intel
@@ -133,7 +134,7 @@ globalme_consolidated:
   bullets:
     - Managed migration of test development from India to Vancouver
     - Massively simplified development by refactoring 15k LOC over to Page Objects
-    - Established code review and development phases for the team in Vancouver
+    - Established code review and regression testing processes for the team in Vancouver
     - Mentored - including training sessions in Git and Python - 9 manual testers
     - Briefly retained as Full Stack Developer after project at Intel ended
 

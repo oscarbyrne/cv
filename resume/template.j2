@@ -1,3 +1,17 @@
+# macro header()
+  <header>
+    <h1>{{ contact.name }}</h1>
+    <contact>
+      <ul>
+        <li><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></li>
+        <li><a href="{{ contact.url }}">{{ contact.url }}</a></li>
+        <li><a href="tel:{{ contact.phone }}">{{ contact.phone }}</a></li>
+        <li><a href="http://maps.google.com/?q={{ contact.location }}">{{ contact.location }}</a></li>
+      </ul>
+    </contact>
+  </header>
+  <hr>
+# endmacro
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -22,21 +36,33 @@
         <div>Get PDF</div>
         <img src="static/images/pdf.svg">
     </div>
+    # if cover_letter:
+    <div class="sheet" style="justify-content:flex-start">
+      {{ header() }}
+      <div>{{ cover_letter.address }}</div>
+      <br>
+      <i>{{ cover_letter.date }}</i>
+      <br>
+      <br>
+      <div>
+        <p>Dear Hiring Manager,</p>
+        <br>
+        # for paragraph in cover_letter.text:
+          <p>{{ paragraph }}</p>
+          <br>
+        # endfor
+        <p>
+          Sincerely yours,<br>
+          <br>
+          {{ contact.name }}
+        </p>
+      </div>
+    </div>
+    # endif
     # for page in pages:
     <div class="sheet">
       # if loop.first:
-      <header>
-        <h1>{{ contact.name }}</h1>
-        <contact>
-          <ul>
-            <li><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></li>
-            <li><a href="{{ contact.url }}">{{ contact.url }}</a></li>
-            <li><a href="tel:{{ contact.phone }}">{{ contact.phone }}</a></li>
-            <li><a href="http://maps.google.com/?q={{ contact.location }}">{{ contact.location }}</a></li>
-          </ul>
-        </contact>
-      </header>
-      <hr>
+      {{ header() }}
       # else:
       <header>
         <div><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></div>
