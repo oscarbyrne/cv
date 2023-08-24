@@ -9,9 +9,9 @@ prof_summary:
 
 tech_summary:
   bullets:
-    - "<b>Languages:</b> Java, Python, Bash, Powershell, C++"
+    - "<b>Languages:</b> Java, Python, Bash shell, Powershell, C++"
     - "<b>Test tools:</b> Appium, Selenium, Cucumber, Robot Framework, Pytest, Espresso, Postman"
-    - "<b>DevOps tools:</b> Git, Jenkins, TeamCity, Ansible, AWS, Packer, GitHub Workflows"
+    - "<b>DevOps tools:</b> Jira, Git, Jenkins, TeamCity, Ansible, AWS, Packer, GitHub Workflows"
     - "<b>Operating systems:</b> macOS, Linux, Windows"
     - "<b>Methodologies:</b> Agile (Scrum and Kanban), Waterfall"
     - "<b>Other technologies:</b> Django, Flask, WDTF, Semantic HTML"
