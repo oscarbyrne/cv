@@ -5,6 +5,20 @@ font:
   family: Tahoma, Verdana, sans-serif
   size: 4mm
 
+# cover_letter:
+#   date: July 30, 2023
+#   address: >-
+#     Lorem Ipsum <br>
+#     Lorem Ipsum <br>
+#     Lorem Ipsum
+#   text:
+#     - >-
+#       state WHY you’re applying for the job
+#     - >-
+#       Emphasize what you can contribute to the organization, highlighting your experience and abilities
+#     - >-
+#       Closing Sentences
+
 contact:
   name: Oscar Byrne
   email: oscar.byrne@gmail.com
