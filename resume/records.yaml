@@ -139,7 +139,6 @@ globalme_consolidated:
     - Established code review and regression testing processes for the team in Vancouver
     - Mentored - including training sessions in Git and Python - 9 manual testers
     - Developed JWT authentication for next-gen product with AWS Cognito
-    - De-obfuscated JavaScript scripts for Photoshop automation
 
 globalme2:
   title: Globalme
