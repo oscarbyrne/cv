@@ -11,10 +11,10 @@ tech_summary:
   bullets:
     - "<b>Languages:</b> Java, Python, Bash shell, Powershell, C++"
     - "<b>Test tools:</b> Appium, Selenium, Cucumber, Robot Framework, Pytest, Espresso, Postman"
-    - "<b>DevOps tools:</b> Jira, Git, Jenkins, TeamCity, Ansible, AWS, Packer, GitHub Workflows"
+    - "<b>DevOps tools:</b> Jenkins, TeamCity, Ansible, AWS, Docker, Packer, GitHub Workflows"
     - "<b>Operating systems:</b> macOS, Linux, Windows"
     - "<b>Methodologies:</b> Agile (Scrum and Kanban), Waterfall"
-    - "<b>Other technologies:</b> Django, Flask, WDTF, Semantic HTML"
+    - "<b>Other technologies:</b> Jira, Git, Django, Flask, Cognito, JWT, WDTF, Semantic HTML"
 
 erasmus_short:
   title: Earth Building Mobility Training
@@ -126,6 +126,8 @@ globalme_consolidated:
     - Flask
     - Javascript
     - AWS
+    - Cognito
+    - JWT
   text: >-
     This was my first experience working on a large test suite. It gave me
     invaluable insights into the human aspects of QA - poorly maintained tests,
@@ -136,7 +138,8 @@ globalme_consolidated:
     - Massively simplified development by refactoring 15k LOC over to Page Objects
     - Established code review and regression testing processes for the team in Vancouver
     - Mentored - including training sessions in Git and Python - 9 manual testers
-    - Briefly retained as Full Stack Developer after project at Intel ended
+    - Developed JWT authentication for next-gen product with AWS Cognito
+    - De-obfuscated JavaScript scripts for Photoshop automation
 
 globalme2:
   title: Globalme
