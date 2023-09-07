@@ -12,9 +12,9 @@ tech_summary:
     - "<b>Languages:</b> Java, Python, Bash shell, Powershell, C++"
     - "<b>Test tools:</b> Appium, Selenium, Cucumber, Robot Framework, Pytest, Espresso, Postman"
     - "<b>DevOps tools:</b> Jenkins, TeamCity, Ansible, AWS, Docker, Packer, GitHub Workflows"
-    - "<b>Operating systems:</b> macOS, Linux, Windows"
+    - "<b>Operating systems:</b> macOS, Linux, Windows, VMWare"
     - "<b>Methodologies:</b> Agile (Scrum and Kanban), Waterfall"
-    - "<b>Other technologies:</b> Jira, Git, Django, Flask, Cognito, JWT, WDTF, Semantic HTML"
+    - "<b>Other technologies:</b> Git, Jira, Confluence, Django, Flask, Cognito, JWT"
 
 erasmus_short:
   title: Earth Building Mobility Training
@@ -84,6 +84,8 @@ hsbc:
     - Appium
     - Cucumber
     - Postman
+    - Jira
+    - Confluence
   text: >-
     Almost 200 years old and serving over 60 countries, HSBC presents a unique
     challenge for QA. Brought on as part of a new Agile initiative, I quickly
@@ -103,6 +105,7 @@ sophos:
   tech:
     - Powershell
     - Python
+    - Jira
     - WDTF
   text: >-
     Keen to continue my professional development, Sophos was a great opportunity
@@ -128,6 +131,8 @@ globalme_consolidated:
     - AWS
     - Cognito
     - JWT
+    - Jira
+    - Confluence
   text: >-
     This was my first experience working on a large test suite. It gave me
     invaluable insights into the human aspects of QA - poorly maintained tests,
@@ -181,11 +186,12 @@ ultrahaptics:
     - Bash
     - Powershell
     - Packer
+    - VMWare
     - Teamcity
     - Jenkins
     - Git
   text: >-
-    Ultrahaptics was a well-funded startup expecting to rapidly expand.
+    Ultraleap was a well-funded startup expecting to rapidly expand.
     They hired me as their first DevOps engineer to manage what turned out to be
     a pretty small network. That gave me a lot of freedom to experiment with
     extra-curricular projects like future-proofing their build system.
@@ -207,6 +213,7 @@ cisco:
     - Espresso
     - Jenkins
     - Groovy
+    - Confluence
   text: >-
     As first jobs go, this one was a dream. Joining as a manual QA with an
     emphasis on root cause analysis, within a year I was spearheading a new
