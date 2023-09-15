@@ -1,12 +1,3 @@
-prof_summary:
-  text: >-
-    I have 6 years rich experience as a QA engineer and, after a 2 year
-    hiatus as a craftsperson, am eager to make the most of both my
-    technical domain knowledge and broadened life experience. I have worked
-    in everything from plucky startups to household names, done everything
-    from test analysis to framework development, and over the years have
-    developed a strong appreciation for the nuanced nature of quality assessment.
-
 tech_summary:
   bullets:
     - "<b>Languages:</b> Java, Python, Bash shell, Powershell, C++"
@@ -44,35 +35,13 @@ sabbatical:
   dates: Nov 2021 - May 2023
   text: >-
     I spent 2 years reconnecting with my family in England following Covid.
-    I spent my time conserving historic buildings, learning the guitar and
-    reading philosophy. Achievements during this time include:
-    <ul>
-      <li>Restored an earth ceiling in a 14th Century farmhouse</li>
-      <li>Networked professionally, winning EU grant for overseas training</li>
-      <li>Challenged myself to read at least 1 philosophy book per month</li>
-    </ul>
-
-plastering:
-  title: Byrne Surfaces
-  subtitle: Lime plasterer
-  location: Bude, UK
-  dates: Nov 2021 - May 2023
-  url: https://byrnesurfaces.com
-  tech:
-    - Lime
-    - Earth
-    - Wood
-    - Stone
-    - Animal Hair
-  text: >-
-    Together, me and my dad formed a team specializing in the conservation of
-    ancient buildings. How ancient? The oldest we worked on was a 14th century
-    hall house - one of the very earliest permanent dwellings built in Britain
-    since the Romans.
+    I spent my time developing new skills: conserving historic buildings, learning
+    the guitar and reading philosophy.
   bullets:
-    - Reduced our ecological impact by sourcing natural materials in the local environment
-    - Funded to study earth building in Spain to differentiate the business
-    - Professionalized our report-making capabilities, allowing us to approach larger clients
+      - Pushed myself to learn an entirely new set of skills
+      - Developed lasting customer relationships in an industry built on word of mouth
+      - Networked professionally, winning EU grant for overseas training
+      - Challenged myself to read 1 philosophy book per month
 
 hsbc:
   title: HSBC
@@ -92,8 +61,8 @@ hsbc:
     became part of a small group championing best practices in both testing
     methodology and framework design.
   bullets:
-    - Refocused test development by refactoring a vast framework spanning every timezone
-    - Advocated tirelessly for positive change in QA practice
+    - Collaboratively researched and planned innovative improvements to legacy systems
+    - Advocated tirelessly for QA best practices, e.g. BDD involving interdisciplinary stakeholders
     - Unlocked new test strategies by developing new framework features (e.g. multi-device)
     - Encouraged co-operation through training sessions and democratic decision-making
 
@@ -113,9 +82,8 @@ sophos:
     allowed me to approach the thorny problem of testing a highly unstable Windows
     driver with pragmatism and creativity.
   bullets:
-    - Innovated on cookie-cutter test plans to assess an idiosyncratic project
-    - Freed up manual QA resources by automating the set-up and deployment of WDTF tests
-    - Trailblazed for other teams by publishing my driver instrumentation as an internal library
+    - Freed up manual QA resources by developing new automated workflows
+    - Trailblazed for other teams by publishing documented code as an internal library
     - Increased transparency and accountability through enhanced reporting
 
 globalme_consolidated:
@@ -139,10 +107,10 @@ globalme_consolidated:
     challenges associated with analysis at scale, and the importance of
     maintaining good working relationships.
   bullets:
-    - Managed migration of test development from India to Vancouver
-    - Massively simplified development by refactoring 15k LOC over to Page Objects
-    - Established code review and regression testing processes for the team in Vancouver
-    - Mentored - including training sessions in Git and Python - 9 manual testers
+    - Developed plan for migration of test development from India to Canada
+    - Collaboratively iterated on workflows for regression testing and code review
+    - Refactored test cases to be more extensible using Page Object pattern
+    - Mentored - including leading technical training sessions - 9 manual testers
     - Developed JWT authentication for next-gen product with AWS Cognito
 
 globalme2:
@@ -196,9 +164,9 @@ ultrahaptics:
     a pretty small network. That gave me a lot of freedom to experiment with
     extra-curricular projects like future-proofing their build system.
   bullets:
-    - Improved reproducibility of builds using VMs deployed with Packer and Ansible
-    - Developed a simple orchestration system using Python, Bash and Jenkins
     - Maintained smooth operations for a ~10 node CI pipeline
+    - Planned, designed and implemented an orchestration system for deploying VMs
+    - Handed over detailed documentation, including work plans, for project continuance
 
 cisco:
   title: Cisco, formerly Acano
@@ -220,7 +188,7 @@ cisco:
     initiative on automation - building a test framework from the ground up!
   bullets:
     - Spearheaded automation by developing a “write once, run anywhere” test framework
-    - Future-proofed QA by training another 2 engineers in continued maintenance
+    - Rigorously documented project and trained 2 engineers in its continued maintenance
     - Developed test plan for next-gen hardware project
     - Created CD pipeline, including test lab, for custom Android hardware
 
@@ -241,72 +209,6 @@ desy:
     - Programmatically analyzed the erosion of heart implants via computer vision
     - Studied and worked with the world's most brilliant x-ray source
     - Contributed to real-world research by cutting my teeth on RPC webservices
-
-pysh:
-  title: Experiments with Bash and Python
-  url: https://github.com/oscarbyrne/pysh
-  text: >-
-    I often find projects start with a Bash script. It's a great language
-    for stitching together external tools or doing weird things with the file system.
-    Despite that certain operations might as well be black magic in terms of readability,
-    and sometimes a feature just isn't there (no hash tables before Bash 4?!).
-    That's why I came up with a tool - Pysh - which gives you a persistent
-    Python interpreter which is easily accessed inline from Bash. This was a great
-    learning experience for me where I gained an appreciation for the difference
-    between in- and out-of-band signaling, and what exactly a fifo is good for.
-
-pysh_short:
-  title: Bash-embedded Python
-  url: https://github.com/oscarbyrne/pysh
-  text: >-
-    Pysh is a tool I created in a bid to elegantly embed Python into Bash. This was a great
-    learning experience for me where I gained an appreciation for the difference
-    between in- and out-of-band signaling, and what exactly a fifo is good for.
-
-notes:
-  title: Music theory with Python
-  url: https://github.com/oscarbyrne/notes
-  text: >-
-    I have a number of hobbyist projects using Python, but the one which I am most
-    happy about (aka the most recent!) is a tool for composers which classifies
-    musical objects according to 'musical set theory'. In this project I have come
-    to realise how the abstract base classes for containers defined in the standard
-    library can be used to cleanly define custom classes. It is also a good example
-    of how I try to keep method definitions to be 5 lines or less, often with the
-    help of Python's excellent itertools module.
-
-pyatonic:
-  title: Advanced music theory with Python
-  url: https://github.com/oscarbyrne/pyatonic
-  dates: Aug 2018
-  tech:
-    - Python
-    - Set theory
-  text: >-
-    Music theory is one of my passions. In 2018 I had the opportunity to dive deep
-    into some of the concepts I'd been reading about, requiring working knowledge in a
-    host of new concepts from category theory to tree search algorithms. The result is
-    a library of methods ultimately able to demonstrate computational creativity
-    by conceptually "blending" musical chords, an algorithm developed as recently as 2015.
-    The code itself showcases my ability to write in a pythonic style: making heavy use
-    of generators, a mastery of Python's data model, and avoiding the over-reliance
-    on classes often found with junior developers.
-
-resume:
-  title: Resume builder
-  url: https://github.com/oscarbyrne/cv
-  dates: June 2023
-  tech:
-    - Python
-    - Jinja
-    - GitHub Workflows
-  text: >-
-    When job hunting I find I spend an inordinate amount of time formatting my resume.
-    To cut down on this time I created a library which creates beautifully-formatted
-    resumes in the time it takes to hit my enter key. By storing the important data
-    - job records and document layout - in a series of easily-editable config files
-    and generating responsive HTML5 via a Jinja2 template, I create first-class resumes
-    in an instant. You're reading one right now!
 
 degree:
   title: MSCi Physics (3.5 GPA equivalent)
