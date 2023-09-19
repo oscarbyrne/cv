@@ -31,6 +31,7 @@ degree_short:
 
 sabbatical:
   title: Family Sabbatical
+  subtitle: Lime Plastering Apprentice
   location: Bude, UK
   dates: Nov 2021 - May 2023
   text: >-
@@ -109,7 +110,7 @@ globalme_consolidated:
   bullets:
     - Developed plan for migration of test development from India to Canada
     - Collaboratively iterated on workflows for regression testing and code review
-    - Refactored test cases to be more extensible using Page Object pattern
+    - Refactored test cases (15k LOC) to be more extensible using Page Object pattern
     - Mentored - including leading technical training sessions - 9 manual testers
     - Developed JWT authentication for next-gen product with AWS Cognito
 
