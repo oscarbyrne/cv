@@ -62,9 +62,9 @@ hsbc:
     became part of a small group championing best practices in both testing
     methodology and framework design.
   bullets:
-    - Collaboratively researched and planned innovative improvements to legacy systems
-    - Advocated tirelessly for QA best practices, e.g. BDD involving interdisciplinary stakeholders
+    - Collaboratively researched, planned and delivered innovative improvements to legacy systems
     - Unlocked new test strategies by developing new framework features (e.g. multi-device)
+    - Advocated tirelessly for QA best practices, e.g. BDD involving interdisciplinary stakeholders
     - Encouraged co-operation through training sessions and democratic decision-making
 
 sophos:
@@ -109,7 +109,7 @@ globalme_consolidated:
     maintaining good working relationships.
   bullets:
     - Developed plan for migration of test development from India to Canada
-    - Collaboratively iterated on workflows for regression testing and code review
+    - Introduced best practices, e.g. regression testing and code review
     - Refactored test cases (15k LOC) to be more extensible using Page Object pattern
     - Mentored - including leading technical training sessions - 9 manual testers
     - Developed JWT authentication for next-gen product with AWS Cognito
